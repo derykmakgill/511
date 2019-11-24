@@ -2,6 +2,4 @@
 layout: default
 ---
 
-![blockstream](/blockstream.jpeg)
-
-<a href="/archive"></a>
+<a href="/archive"><img src="/blockstream.jpeg" alt="blockstream"></a>
