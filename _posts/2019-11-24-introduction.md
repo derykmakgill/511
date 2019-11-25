@@ -45,6 +45,8 @@ New questions developed as well such as:
 
 - Who should make decisions in Bitcoin? Miners and users? Or developers?
 
+- To what extent does Bitcoin mimick gold? How does it differ? How should it differ?
+
 - What role does economics play in Bitcoin? Is code all that matters, or should a deep understanding of human action inform how Bitcoin development moves forward?
 
 - What did Satoshi mean by 'the core design was set in stone?'
