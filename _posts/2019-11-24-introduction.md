@@ -39,9 +39,11 @@ We'll cover this all more later in this essay series, as well as look deeper at 
 
 - Were micropayments and use in daily commerce important? 
 
-- Who should make decisions in Bitcoin? Miners and users? Or developers?
-
 - Who secures the network? Capitalists or hobbyists?
+
+New questions developed as well such as:
+
+- Who should make decisions in Bitcoin? Miners and users? Or developers?
 
 - What role does economics play in Bitcoin? Is code all that matters, or should a deep understanding of human action inform how Bitcoin development moves forward?
 
