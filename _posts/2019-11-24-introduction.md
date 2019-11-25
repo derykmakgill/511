@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Breaking Satoshi Introduction
+title: Breaking Satoshi Season One and Blog Introduction
 author: Deryk Makgill
 permalink: /introduction/1
 ---
