@@ -22,6 +22,8 @@ Would anyone want this? Would anyone trust someone who told them to use a new th
 
 'Snake oil' would not even begin to describe a Bitcoin like this. It is likely Bitcoin would have been dead on arrival and Satoshi laughed out of the mailing list for proposing what was obviously some sort of parody or scam.
 
+None of the early bootstrapping, the playful spirit of sending transactions to friends, of buying pizza with 10,000 Bitcoins, would have taken place and Bitcoin, if it did anything at all, would have never grown beyond being a hobby project in a chatroom for internet anarchists.
+
 Yet this is what the dominant developers and intellectuals in Bitcoin say Satoshi Nakamoto intentionally tried to create, and the one they helped fully realize when they broke Bitcoin by intentionally limiting its capacity to process transactions at low fees.
 
 Today, Bitcoin is often slow, often expensive to transact, and nearly unusable in regular commerce. New businesses no longer join the Bitcoin ecosystem as merchants because Bitcoin does not offer them any improvement over credit cards and PayPal. The only think Bitcoin has going for it is its inexplicably high price, its ability to 'store value' and even that has been dropping for two years at the time of this writing.
