@@ -49,6 +49,8 @@ New questions developed as well such as:
 
 - What did Satoshi mean by 'the core design was set in stone?'
 
+- Is Bitcoin just store of value or is it that AND a useful medium of exchange?
+
 Debates over these questions grew increasingly hostile and partisan. Many developers did not agree with Gavin or Satoshi. They either interpreted Satoshi's words in unconventional ways, stretching or often redefining entirely the meaning of words to fit their vision for Bitcoin, or denied the usefulness of Satoshi's thoughts on his creation entirely. With Satoshi gone, it was hard to argue with them. Over time they became more and more influential in Bitcoin and were able to successfully propgandise new Bitcoin users who were not so familiar with the early history. 
 
 Bit by bit, Satoshi's plan for Bitcoin was removed, revised, or reinterpreted. The Bitcoin scaling skeptics, known as the Core Developers won, as did their egalitarian dream for all users running the Bitcoin software, and they successfully kept what were originally temporary Bitcoin processing limits in place permanently in order to keep bandwidth costs low. The consequences for Bitcoin were catastrophic. Transaction fees spiked and confirmation times grew erratic. Bitcoin became less and less usable in commerce. Writing in December 2015, entrepreneur Steve Sokolowski complained about the [increasing unreliability of the Bitcoin network.](https://forums.prohashing.com/viewtopic.php?f=11&t=679)
