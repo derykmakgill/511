@@ -35,9 +35,9 @@ For several years, Bitcoin grew as planned and worked largely as Satoshi intende
 
 We'll cover this all more later in this essay series, as well as look deeper at what Satoshi saw for Bitcoin and its future, but for now, readers only need to know that beneath the obvious success of Bitcoin, the old debate was still there about what Bitcoin was supposed to be and how it would work, and what a world in which Bitcoin were mainstream looked like.
 
-- How should Bitcoin scale? 
+- How should Bitcoin scale? Should Bitcoin even scale? Can it even scale?
 
-- Were micropayments and use in daily commerce important? 
+- Were micropayments and use in daily commerce an important value proposition, or were security and decentralisation all that mattered? 
 
 - Who secures the network? Capitalists or hobbyists?
 
