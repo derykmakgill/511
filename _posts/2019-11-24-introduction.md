@@ -2,6 +2,7 @@
 layout: post
 title: What is Breaking Satoshi?
 author: Deryk Makgill
+permalink: /introduction/1
 ---
 
 On July 28th, 2010, BitcoinTalk user bytemaster made a post that [questioned Bitcoin's ability to scale](https://bitcointalk.org/index.php?topic=532.15;imode) as a daily payments technology for the world.
