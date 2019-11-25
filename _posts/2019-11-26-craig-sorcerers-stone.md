@@ -3,6 +3,7 @@ layout: post
 title: Craig Wright's 'Harry Potter and the Sorcerer's Stone'
 author: Deryk Makgill
 description: Craig’s hand shot up. “What is it, Wright?” Snape asked, irritated. “I actually have a patent on the death stopper.” “What?” “And the bottle fame. Brewing glory is pending but I wrote a paper on that way back in the 90s with a coffee stain and rusty staples to prove it when I was doing my third master’s program in chemical….”
+permalink: /craig-stone
 ---
 
 I've been listening to the Harry Potter books with my newborn recently because the narrator's voice seems to have a calming effect on him. To keep myself entertained during today's doctor checkup, I imagined Craig Wright as Harry Potter and for whatever reason found myself wildly entertained.
