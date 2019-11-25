@@ -73,3 +73,4 @@ I'll end with a concluding thought: whoever Satoshi is could have done a better 
 
 ### Acknowledgements
 
+Conversations with several friends helped inform and develop the ideas in this essay.
