@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Breaking Satoshi Season One and Blog Introduction
+title: Breaking Satoshi Season One Introduction
 author: Deryk Makgill
 permalink: /introduction/1
 ---
@@ -81,9 +81,7 @@ It feels to many for the first time that his prediction could very well be reali
 
 [Breaking Satoshi](/) Season One is an essay series about what happened to Bitcoin that pushed it to this state. The series will explain the various economic, philosophical, psychological and social forces that worked to break Satoshi's Bitcoin and what ideas, understandings and models will help get it back on track. The series will draw from sources like the original forum and email threads with Satoshi, but also archived websites, fiction, poetry, historical works, psychology papers, economics texts, old Tweets, Reddit archives, first-hand accounts, and more.
 
-It will be accompanied by a more frequent blog and email list about everything in Bitcoin I'm thinking on. Think of these as teasers, intermissions, or mini-episodes.
-
-Both Season One and the blog are likely long-term projects and I have no fixed publishing schedule or order, but I hope to have a definitive history of what happened to Bitcoin completed and maybe several more 'seasons' around other important questions in Bitcoin, all with the goal of postively influencing whatever direction any fork of Bitcoin takes in the future.
+I have no fixed publishing schedule or order, but I hope to have a definitive history of what happened to Bitcoin completed with the goal of postively influencing whatever direction any fork of Bitcoin takes in the future.
 
 I'll end with a concluding thought: whoever Satoshi is could have done a better job putting checks in place to prevent what happened to Bitcoin!
 
