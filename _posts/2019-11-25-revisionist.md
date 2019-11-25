@@ -28,6 +28,9 @@ Today, Bitcoin is often slow, often expensive to transact, and nearly unusable i
 
 I'll get into some theories about why the price remains what is is later in the series and some useful metaphors for understanding it, but the short answer now is that Bitcoin's ability to store value is ironically and tragically bound up in the public not realizing how much Bitcoin has changed from Satoshi's original vision, and we know this because this simple exercise in revisionism shows us how ridiculous it would have been to market and launch a technology that works like Bitcoin works today.
 
+### Acknowledgements
+
+Conversations with several friends helped inform and develop the ideas in this essay.
 
 
 
