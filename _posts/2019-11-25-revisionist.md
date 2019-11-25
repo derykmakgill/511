@@ -1,6 +1,7 @@
 ---
 layout: post
 title: A Revisionist History of Bitcoin
+permalink: /1/revisionist
 ---
 
 Since Breaking Satoshi is a series about Bitcoin's history, let us do a bit of revisionist history to help us understand what Bitcoin would have looked like in its earliest days before Bitcoin even had a price if Satoshi did not intend for Bitcoin to scale in such a way that daily digital cash payments, micropayments, and other low transaction fee use cases were preserved.
