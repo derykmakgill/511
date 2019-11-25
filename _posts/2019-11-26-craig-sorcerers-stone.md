@@ -3,6 +3,12 @@ layout: post
 title: Craig Wright's 'Harry Potter and the Sorcerer's Stone'
 ---
 
+I've been listening to the Harry Potter books with my newborn recently because the narrator's voice seems to have a calming effect on him. To keep myself entertained during today's doctor checkup, I imagined Craig Wright as Harry Potter and for whatever reason found myself wildly entertained.
+
+This article is purely satire and should not be taken as a statement of fact by its author. Please don't sue me.
+
+---
+
 Professor Nick Snape stood at the front of the room, looking criminally. “There will be no foolish wand-waving or silly incantations in this class. As such, I don’t expect many of you to appreciate the subtle science and exact art that is potion-making. However, for those select few who possess, the predisposition…I can teach you how to bewitch the mind and ensnare the senses. I can tell you how to bottle fame, brew glory, and even put a stopper in death.”
 
 Craig’s hand shot up.
@@ -40,6 +46,3 @@ The students and Snape watched aghast as the author’s name on the page slowly 
 “…Controlled Magical Substances and I will see you bent over by Dementors in Azkaban before I let you turn my formulas into crime potions.’
 
 Before a stunned Snape could respond, Craig stormed out of the room, followed by a couple of the best students and all of the worst, to start his own potions class.
-
-<p class="image-credit">This article is purely satire and should not be taken as a statement of fact by its author. Please don't sue me.
-        </p>
