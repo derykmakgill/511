@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Craig Wright's 'Harry Potter and the Sorcerer's Stone'
+author: Deryk Makgill
 ---
 
 I've been listening to the Harry Potter books with my newborn recently because the narrator's voice seems to have a calming effect on him. To keep myself entertained during today's doctor checkup, I imagined Craig Wright as Harry Potter and for whatever reason found myself wildly entertained.
