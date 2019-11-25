@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 
+title: Breaking Satoshi Introduction
 author: Deryk Makgill
 permalink: /introduction/1
 ---
