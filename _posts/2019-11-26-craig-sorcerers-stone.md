@@ -49,3 +49,7 @@ The students and Snape watched aghast as the author’s name on the page slowly 
 “…Controlled Magical Substances and I will see you bent over by Dementors in Azkaban before I let you turn my formulas into crime potions.’
 
 Before a stunned Snape could respond, Craig stormed out of the room, followed by a couple of the best students and all of the worst, to start his own potions class.
+
+### Acknowledgements
+
+Thanks to my wife, Isaac Morehouse, T.K. Coleman, and my baby for reading or listening to the draft of this piece.
