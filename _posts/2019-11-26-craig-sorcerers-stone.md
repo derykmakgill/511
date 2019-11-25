@@ -17,7 +17,7 @@ Craig’s hand shot up.
 
 “You impertinent boy!“ Snape interrupted, seething.
 
-“What’s the stop me from suing you if you teach the students these formulas?”
+“What’s to stop me from suing you if you teach the students these formulas?”
 
 “I…can you show me these patents?”
 
