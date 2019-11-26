@@ -6,7 +6,7 @@ description: Craig’s hand shot up. “What is it, Wright?” Snape asked, irri
 permalink: /craig-stone
 ---
 
-I've been listening to the Harry Potter books with my newborn recently because the narrator's voice seems to have a calming effect on him. To keep myself entertained during today's doctor checkup, I imagined Craig Wright as Harry Potter and for whatever reason found myself wildly entertained.
+I've been listening to the Harry Potter books with my newborn recently because the narrator's voice seems to have a calming effect on him. To keep myself entertained during today's doctor checkup, I imagined Craig Wright as Harry Potter andfound myself wildly entertained.
 
 This article is purely satire and should not be taken as a statement of fact by its author. Please don't sue me.
 
