@@ -6,7 +6,7 @@ description: Craig’s hand shot up. “What is it, Wright?” Snape asked, irri
 permalink: /craig-stone
 ---
 
-I've been listening to the Harry Potter books with my newborn recently because the narrator's voice seems to have a calming effect on him. To keep myself entertained during today's doctor checkup, I imagined Craig Wright as Harry Potter andfound myself wildly entertained.
+I've been listening to the Harry Potter books with my newborn recently because the narrator's voice seems to have a calming effect on him. To keep myself entertained during today's doctor checkup, I imagined Craig Wright as Harry Potter and found myself wildly entertained.
 
 This article is purely satire and should not be taken as a statement of fact by its author. Please don't sue me.
 
@@ -49,6 +49,10 @@ The students and Snape watched aghast as the author’s name on the page slowly 
 “…Controlled Magical Substances and I will see you bent over by the Dementors in Azkaban before I let you turn my formulas into crime potions.’
 
 Before a stunned Snape could respond, Craig stormed out of the room, followed by a couple of the best students and all of the worst, to start his own potions class.
+
+---
+
+If you find this type of writing entertaining or offensive let me know and I might do more. I might do more anyways because it makes me laugh, which is all that matters to be honest.
 
 ### Acknowledgements
 
