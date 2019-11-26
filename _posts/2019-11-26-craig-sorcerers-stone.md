@@ -52,4 +52,4 @@ Before a stunned Snape could respond, Craig stormed out of the room, followed by
 
 ### Acknowledgements
 
-Thanks to my wife, Isaac Morehouse, T.K. Coleman, and my baby for reading or listening to the draft of this piece.
+Thanks to my wife, Isaac Morehouse, T.K. Coleman, and my baby for reading or listening to the draft of this piece. Don't sue them either.
