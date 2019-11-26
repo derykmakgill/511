@@ -26,9 +26,9 @@ Craig’s hand shot up.
 
 “You impertinent boy!“ Snape interrupted, seething.
 
-“What’s to stop me from suing you if you teach the students these formulas?”
+“What’s to stop me from suing you if you teach the students these formulas?” Craig asked?
 
-“I…can you show me these patents?”
+“What…can you show me these patents?”
 
 “I don’t need to prove anything to you here. That is what courts are for. I will demonstrate it to the Ministry of Magic, not here. But if you mix those potions now, I bankrupt you. ”
 
@@ -46,7 +46,7 @@ The students and Snape watched aghast as the author’s name on the page slowly 
 
 “Will you shut up!” Snape screamed
 
-“…Controlled Magical Substances and I will see you bent over by Dementors in Azkaban before I let you turn my formulas into crime potions.’
+“…Controlled Magical Substances and I will see you bent over by the Dementors in Azkaban before I let you turn my formulas into crime potions.’
 
 Before a stunned Snape could respond, Craig stormed out of the room, followed by a couple of the best students and all of the worst, to start his own potions class.
 
