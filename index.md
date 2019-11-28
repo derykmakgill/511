@@ -12,4 +12,4 @@ Follow via Twitter ([@breakingsatoshi](https://twitter.com/breakingsatoshi)).
 
 ## Subscribe
 
-<iframe max-width="480" height="320" src="https://breakingsatoshi.substack.com/embed" frameborder="0" scrolling="no"></iframe>
+<iframe max-width="480" max-height="320" src="https://breakingsatoshi.substack.com/embed" frameborder="0" scrolling="no"></iframe>
