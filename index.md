@@ -10,4 +10,6 @@ The lengthier essays will be accompanied by a more regular blog and [newsletter.
 
 Follow via Twitter ([@breakingsatoshi](https://twitter.com/breakingsatoshi)).
 
+## Subscribe
+
 <iframe width="480" height="320" src="https://breakingsatoshi.substack.com/embed" frameborder="0" scrolling="no"></iframe>
