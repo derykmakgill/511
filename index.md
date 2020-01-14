@@ -10,3 +10,5 @@ title: Breaking Satoshi
 The lengthier essays will be accompanied by a more regular blog and [newsletter.](https://breakingsatoshi.substack.com/)
 
 Follow via Twitter ([@breakingsatoshi](https://twitter.com/breakingsatoshi)).
+
+{% for post in site.posts %} [{{ post.title }}]({{ post.url }}) » {{ post.date | date_to_string }} {% endfor %}
