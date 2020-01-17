@@ -36,7 +36,9 @@ The reason is actually quite simple and since it was implicit in my original Twe
   </figcaption>
 </figure>
 
-Unlike gold and oil, which remain functionally unchanged when demand and price rise, BTC actually degrades when more people want it. In 2017, when there was a mad rush to purchase Bitcoin that took the price to $20,000 per coin, we saw mempool backlogs that lasted days and [fees upwards of $50 and more.](https://www.businessinsider.com/bitcoin-payment-mining-fees-hit-new-high-2017-12) BTC broke down. It became less divisible. It became less portable. It became less useable. It became less and less like the Bitcoin that was marketed to the public and which helped create that demand in the first place.
+Unlike gold and oil, which remain functionally unchanged when demand and price rise, BTC actually degrades when more people want it. 
+
+In 2017, when there was a mad panic rush to purchase Bitcoin that took the price to $20,000 per coin, we saw mempool backlogs that lasted days and [fees upwards of $50 and more.](https://www.businessinsider.com/bitcoin-payment-mining-fees-hit-new-high-2017-12) BTC broke down. It became less divisible. It became less portable. It became less useable. It became less and less like the Bitcoin that was marketed to the public and which helped create that demand in the first place.
 
 Do you see the difference?
 
@@ -46,11 +48,10 @@ And despite all of the attempts to label Bitcoin as "digital gold," gold does no
 
 I suspect the confusion here is partly that BTC used to function more similarly to gold in this regard, but it doesn't anymore. Core developers, either through economic incompetence or deliberate subversion, crippled the original protocol with artifical block-size limits that they argued were crucial for the security of the network. Crucial or **not,** the limits mean that BTC gets less and less useful as more people use it.
 
-It should be obvious that a protocol that gets functionally worse when more people try to participate in it will necessarily have a limit on its potential price for two reasons.
+It should be obvious that a protocol that gets functionally worse when more people try to participate in it will necessarily have a limit on its potential demand and price for two reasons.
 
 1. Once demand reaches a certain level, the *reasons for that demand* cease to exist. If oil stopped working at a certain demand level, it would likely never cross that particular demand threshold. Why pay a premium for oil when it won't work anymore as oil? Demand would need to retrace until it became useful again before you would buy it.
 
 2. The number of people who can practically act on the demand at any given time is slowed down or even halted as more people try to act on that demand. There is almost a sort of Catch-22 for investors. You need more people buying BTC to keep the price pumping scheme going, but more people buying it also means the reasons for buying it break down.
 
 Ironically, the argument that Paul and Ron make only applies to big-block Bitcoin, which, like gold, functions the same when one person wants it as when millions do. BCH and BSV right now could onboard millions with little hiccup. When you combine a scarce protocol with near infinte scale, you get the kind of price potential so many people like to talk about.
-
