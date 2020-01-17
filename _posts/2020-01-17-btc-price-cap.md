@@ -4,7 +4,7 @@ title: BTC's artifical cap on price
 author: Deryk Makgill
 ---
 
-I rocked the boat a bit yesterday when I [tweeted](https://twitter.com/derykmakgill/status/1217636530342318083) that BTC likely has price ceiling because demand is kept artifically low by block size caps.
+I rocked the boat a bit when I [tweeted](https://twitter.com/derykmakgill/status/1217636530342318083) that BTC likely has price ceiling because demand is kept artifically low by block size caps.
 
 Paul wrote in reply:
 
@@ -16,7 +16,7 @@ Ron had this to say:
 
 Paul and Ron both *wrong,* and they're wrong for basically the same reason. They're committing the fallacy of failing to discriminate crucial differences.
 
-While it's obviously true that scarcity and demand can cause prices to increase for gold, oil and other commodities, this does not necessarily always hold true for the BTC chain of Bitcoin because BTC is fundamentally different than gold and oil.
+While it's obviously true that scarcity and demand can cause prices to increase for gold, oil and other commodities, this does not necessarily always hold true for the BTC chain of Bitcoin because BTC is (now) fundamentally different than gold and oil.
 
 The reason is acutally quite simple and since it was implicit in my original Tweet about this, I'm surprised so many missed it. 
 
@@ -38,15 +38,17 @@ Unlike gold and oil, which remain functionally unchanged when demand and price r
 
 Do you see the difference?
 
-Oil doesn't behave like this. While the price for oil might rise when more people are buying it, the oil itself remains completely unchanged. It will work in my car exactly the same no matter the purchase price, no matter how many people want that oil. And despite all of the attempts to label Bitcoin as "digital gold," gold does not become more expensive to transact with or heavier to carry when demand rises. It remains entirely unchanged at scale.
+Oil doesn't behave like this. While the price for oil might rise when more people are buying it, the oil itself remains functionally unchanged. It will work in my car exactly the same no matter the purchase price, no matter how many people want that oil. 
 
-I suspect the confusion here is partly that BTC used to function more similarly to gold int his regard, but it doesn't anymore by *design.* The economics have been broken for a long time. Core developers, either through economic incompetence or deliberate subversion, crippled the original protocol with artifical block-size limits. These limits effectively broke the Bitcoin network's utility any time it experiences an increase in demand. 
+And despite all of the attempts to label Bitcoin as "digital gold," gold does not become more expensive to transact with or heavier to carry when demand rises. It is functionally unchanged at scale and has been that way for thousands of years.
 
-A protocol that gets functionally worse when more people try to participate in it will necessarily have a limit on its potential price for two reasons.
+I suspect the confusion here is partly that BTC used to function more similarly to gold in this regard before it reached its block limits, but it doesn't anymore. Core developers, either through economic incompetence or deliberate subversion, crippled the original protocol with artifical block-size limits that they argued were crucial for the security of the network. Crucial or **not,** the limits mean that BTC gets less and less useful as more people use it.
 
-1. Once demand reaches a certain level, the *reasons for that demand* cease to exist. If oil stops working at a certain demand level, it will never cross that demand threshold.
+It should be obvious that a protocol that gets functionally worse when more people try to participate in it will necessarily have a limit on its potential price for two reasons.
 
-2. The number of people who can practically act on the demand at any given time is slowed down or even halted as more people try to act on that demand.
+1. Once demand reaches a certain level, the *reasons for that demand* cease to exist. If oil stopped working at a certain demand level, it would likely never cross that particular demand threshold. Why pay a premium for oil when it won't work as oil?
 
-Ironically, the argument that Paul and Ron make only applies to big-block Bitcoin, which, like gold, functions the same when one person wants it as when millions do. It's likely this version of Bitcoin only that has the kind of price potential so many people like to talk about.
+2. The number of people who can practically act on the demand at any given time is slowed down or even halted as more people try to act on that demand. There is almost a sort of Catch-22 for investors. You need more people buying BTC to keep the price pumping scheme going, but more people buying it also means the reasons for buying it break down.
+
+Ironically, the argument that Paul and Ron make only applies to big-block Bitcoin, which, like gold, functions the same when one person wants it as when millions do. BCH and BSV right now could onboard millions with little hiccup. When you combine a scarce protocol with near infinte scale, you get the kind of price potential so many people like to talk about.
 
