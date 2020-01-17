@@ -20,7 +20,7 @@ While it's obviously true that scarcity and demand can cause prices to increase 
 
 The reason is acutally quite simple and since it was implicit in my original Tweet about this, I'm surprised so many missed it. 
 
-<figure class="side only" data-url="https://i.insider.com/5a4587124aa6b526008b757e?width=2500&format=jpeg&auto=webp">
+<figure class="side" data-url="https://i.insider.com/5a4587124aa6b526008b757e?width=2500&format=jpeg&auto=webp">
   <a href="https://i.insider.com/5a4587124aa6b526008b757e?width=2500&format=jpeg&auto=webp" target="_blank">
     <img src="https://i.insider.com/5a4587124aa6b526008b757e?width=2500&format=jpeg&auto=webp" loading="lazy">
   </a>
