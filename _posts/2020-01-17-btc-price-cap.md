@@ -20,7 +20,7 @@ Paul and Ron both *wrong,* and they're wrong for basically the same reason. They
 
 While it's obviously true that scarcity and demand can cause prices to increase for gold, oil and other commodities, this does not necessarily always hold true for the BTC chain of Bitcoin because BTC is (now) fundamentally different than gold and oil.
 
-The reason is acutally quite simple and since it was implicit in my original Tweet about this, I'm surprised so many missed it. 
+The reason is actually quite simple and since it was implicit in my original Tweet about this, I'm surprised so many missed it. 
 
 <figure class="side" data-url="https://i.insider.com/5a4587124aa6b526008b757e?width=2500&format=jpeg&auto=webp">
   <a href="https://i.insider.com/5a4587124aa6b526008b757e?width=2500&format=jpeg&auto=webp" target="_blank">
@@ -44,11 +44,11 @@ Oil doesn't behave like this. While the price for oil might rise when more peopl
 
 And despite all of the attempts to label Bitcoin as "digital gold," gold does not become more expensive to transact with or heavier to carry when demand rises. It is functionally unchanged at scale and has been that way for thousands of years.
 
-I suspect the confusion here is partly that BTC used to function more similarly to gold in this regard before it reached its block limits, but it doesn't anymore. Core developers, either through economic incompetence or deliberate subversion, crippled the original protocol with artifical block-size limits that they argued were crucial for the security of the network. Crucial or **not,** the limits mean that BTC gets less and less useful as more people use it.
+I suspect the confusion here is partly that BTC used to function more similarly to gold in this regard, but it doesn't anymore. Core developers, either through economic incompetence or deliberate subversion, crippled the original protocol with artifical block-size limits that they argued were crucial for the security of the network. Crucial or **not,** the limits mean that BTC gets less and less useful as more people use it.
 
 It should be obvious that a protocol that gets functionally worse when more people try to participate in it will necessarily have a limit on its potential price for two reasons.
 
-1. Once demand reaches a certain level, the *reasons for that demand* cease to exist. If oil stopped working at a certain demand level, it would likely never cross that particular demand threshold. Why pay a premium for oil when it won't work as oil?
+1. Once demand reaches a certain level, the *reasons for that demand* cease to exist. If oil stopped working at a certain demand level, it would likely never cross that particular demand threshold. Why pay a premium for oil when it won't work anymore as oil? Demand would need to retrace until it became useful again before you would buy it.
 
 2. The number of people who can practically act on the demand at any given time is slowed down or even halted as more people try to act on that demand. There is almost a sort of Catch-22 for investors. You need more people buying BTC to keep the price pumping scheme going, but more people buying it also means the reasons for buying it break down.
 
