@@ -1,6 +1,7 @@
 ---
 layout: post
 title: BTC's artifical cap on demand and price
+author: Deryk Makgill
 ---
 
 I rocked the boat a bit yesterday when I tweeted out in response to a claim that BTC would soon reach $100,000 per Bitcoin
