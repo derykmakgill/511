@@ -54,6 +54,8 @@ It should be obvious that a protocol that does not act like oil and gold, which 
 
 2. The number of people who can practically act on the demand at any given time is slowed down or even halted as more people try to act on that demand. There is almost a sort of Catch-22 for investors. You need more people buying BTC to keep the price pumping scheme going, but more people buying it also means the reasons for buying it break down.
 
+Thus we should expect some kind of price ceiling on BTC unless it is able to scale cheaply and reliably sometime in the theoretical future. 
+
 Ironically, the argument that Paul and Ron make only applies to big-block Bitcoin, which, like gold, functions the same when one person wants it as when millions do. BCH and BSV right now could onboard millions with little hiccup, and in fact the economics of large transaction throughput actually means transaction fees will drop lower when more people use it and the protocols will work better.
 
 When you combine a scarce protocol with near infinite scale, you get the kind of price potential so many people like to talk about.
