@@ -38,11 +38,13 @@ The reason is actually quite simple and since it was implicit in my original Twe
 
 Unlike gold and oil, which remain functionally unchanged when demand and price rise, BTC actually degrades when more people want it. 
 
-In 2017, when there was a mad panic rush to purchase Bitcoin that took the price to $20,000 per coin, we saw mempool backlogs that lasted days and [fees upwards of $50 and more.](https://www.businessinsider.com/bitcoin-payment-mining-fees-hit-new-high-2017-12) BTC broke down. It became less divisible. It became less portable. It became less useable. It became less and less like the Bitcoin that was marketed to the public and which helped create that demand in the first place.
+In 2017, when there was a mad panic rush to purchase Bitcoin that took the price to $20,000 per coin, we saw mempool backlogs that lasted days and [fees upwards of $50 and more.](https://www.businessinsider.com/bitcoin-payment-mining-fees-hit-new-high-2017-12) BTC broke down. It became less divisible. It became less portable. It became less useable. It became less and less like the Bitcoin that was marketed to the public and which helped create that demand in the first place, and frankly, less and less like good money.
 
 Do you see the difference?
 
 Oil doesn't behave like this. While the price for oil might rise when more people are buying it, the oil itself remains functionally unchanged. It will work in my car exactly the same no matter the purchase price, no matter how many people want that oil. 
+
+When Ron writes "that’s like saying the price of oil can’t skyrocket because oil doesn’t process enough transactions," he misses the point. The "transaction" capacity of oil, if we're to take that to mean the amount of energy that can be extracted from a given quantity, doesn't change with the ebbs and flows of demand.
 
 And despite all of the attempts to label Bitcoin as "digital gold," gold does not become more expensive to transact with or heavier to carry when demand rises. It is functionally unchanged at scale and has been that way for thousands of years.
 
