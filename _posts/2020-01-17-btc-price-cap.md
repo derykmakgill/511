@@ -1,6 +1,6 @@
 ---
 layout: post
-title: BTC's artifical cap on demand and price
+title: BTC's artifical cap on price
 author: Deryk Makgill
 ---
 
