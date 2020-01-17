@@ -2,6 +2,7 @@
 layout: post
 title: BTC's artifical cap on price
 author: Deryk Makgill
+description: BTC likely has an entirely artifical cap on its price potential. Thanks Core!
 ---
 
 I rocked the boat a bit when I [tweeted](https://twitter.com/derykmakgill/status/1217636530342318083) that BTC likely has price ceiling because demand is kept artifically low by block size caps.
