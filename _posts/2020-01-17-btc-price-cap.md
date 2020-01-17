@@ -6,11 +6,11 @@ author: Deryk Makgill
 
 I rocked the boat a bit when I [tweeted](https://twitter.com/derykmakgill/status/1217636530342318083) that BTC likely has price ceiling because demand is kept artifically low by block size caps.
 
-Paul wrote in reply:
+Paul wrote in [reply:](https://twitter.com/thenotfakepaul/status/1217645331564855297)
 
 > That's exactly what will push it that high. Artificially restricted supply with a demand spike will shoot prices to the Moon.
 
-Ron had this to say: 
+Ron had [this to say:](https://twitter.com/rweisbein/status/1217818382315159553) 
 
 > That’s like saying the price of oil can’t skyrocket because oil doesn’t process enough transactions. 
 
