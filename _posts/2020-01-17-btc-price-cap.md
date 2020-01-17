@@ -20,7 +20,21 @@ While it's obviously true that scarcity and demand can cause prices to increase 
 
 The reason is acutally quite simple and since it was implicit in my original Tweet about this, I'm surprised so many missed it. 
 
-Unlike gold and oil, which remain functionally unchanged when demand and price rise, BTC actually degrades when more people want it. In 2017, when there was a mad rush to purchase Bitcoin that took the price to $20,000 per coin, we saw mempool backlogs that lasted days and fees upwards of $50 and more. BTC broke down. It became less divisible. It became less portable. It became less useable. It became less and less like the Bitcoin that was marketed to the public and which helped create that demand in the first place.
+<figure class="side only" data-url="https://i.insider.com/5a4587124aa6b526008b757e?width=2500&format=jpeg&auto=webp">
+  <a href="https://i.insider.com/5a4587124aa6b526008b757e?width=2500&format=jpeg&auto=webp" target="_blank">
+    <img src="https://i.insider.com/5a4587124aa6b526008b757e?width=2500&format=jpeg&auto=webp" loading="lazy">
+  </a>
+  <figcaption>
+   Your protocol is broken.
+    
+  <span class="image-credit">
+        <a href="https://i.insider.com/5a4587124aa6b526008b757e?width=2500&format=jpeg&auto=webpg" target="_blank">Bitcoinfees.Info</a>
+      </span>
+    
+  </figcaption>
+</figure>
+
+Unlike gold and oil, which remain functionally unchanged when demand and price rise, BTC actually degrades when more people want it. In 2017, when there was a mad rush to purchase Bitcoin that took the price to $20,000 per coin, we saw mempool backlogs that lasted days and [fees upwards of $50 and more.](https://www.businessinsider.com/bitcoin-payment-mining-fees-hit-new-high-2017-12) BTC broke down. It became less divisible. It became less portable. It became less useable. It became less and less like the Bitcoin that was marketed to the public and which helped create that demand in the first place.
 
 Do you see the difference?
 
