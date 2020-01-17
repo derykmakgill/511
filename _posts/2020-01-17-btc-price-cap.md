@@ -59,3 +59,7 @@ Thus we should expect some kind of price ceiling on BTC unless it is able to sca
 Ironically, we need to conclude that the argument that Paul and Ron make only applies to big-block Bitcoin, which, like gold, functions the same when one person wants it as when millions do. BCH and BSV right now could onboard millions with little hiccup, and in fact the economics of large transaction throughput actually means transaction fees will drop lower when more people use it and the protocols will work better.
 
 When you combine a scarce protocol with near infinite scale, you get the kind of price potential so many people like to talk about.
+
+## Comments
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">It&#39;s a kind of negative network effect in BTC beyond the threshold(each additional user lowers the value to all the rest), while big block bitcoin has a positive network effect (each additional lowers tx fee for all the rest)</p>&mdash; Isaac M. Morehouse (@isaacmorehouse) <a href="https://twitter.com/isaacmorehouse/status/1218270098177363969?ref_src=twsrc%5Etfw">January 17, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
