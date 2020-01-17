@@ -42,18 +42,18 @@ In 2017, when there was a mad panic rush to purchase Bitcoin that took the price
 
 Do you see the difference?
 
-Oil doesn't behave like this. While the price for oil might rise when more people are buying it, the oil itself remains functionally unchanged. It will work in my car exactly the same no matter the purchase price, no matter how many people want that oil. 
-
-When Ron writes "that’s like saying the price of oil can’t skyrocket because oil doesn’t process enough transactions," he misses the point. The "transaction" capacity of oil, if we're to take that to mean the amount of energy that can be extracted from a given quantity, doesn't change with the ebbs and flows of demand.
+Oil doesn't behave like this. When Ron writes "that’s like saying the price of oil can’t skyrocket because oil doesn’t process enough transactions," he misses the point. The "transaction" capacity of oil, if we're to take that to mean the amount of energy that can be extracted from a given quantity, doesn't change with the ebbs and flows of demand. It functions exactly the same in my car.
 
 And despite all of the attempts to label Bitcoin as "digital gold," gold does not become more expensive to transact with or heavier to carry when demand rises. It is functionally unchanged at scale and has been that way for thousands of years.
 
 I suspect the confusion here is partly that BTC used to function more similarly to gold in this regard, but it doesn't anymore. Core developers, either through economic incompetence or deliberate subversion, crippled the original protocol with artifical block-size limits that they argued were crucial for the security of the network. Crucial or **not,** the limits mean that BTC gets less and less useful as more people use it.
 
-It should be obvious that a protocol that gets functionally worse when more people try to participate in it will necessarily have a limit on its potential demand and price for two reasons.
+It should be obvious that a protocol that does not act like oil and gold, which gets functionally worse when more people try to participate in it, will necessarily have a limit on its potential demand and price for two reasons.
 
 1. Once demand reaches a certain level, the *reasons for that demand* cease to exist. If oil stopped working at a certain demand level, it would likely never cross that particular demand threshold. Why pay a premium for oil when it won't work anymore as oil? Demand would need to retrace until it became useful again before you would buy it.
 
 2. The number of people who can practically act on the demand at any given time is slowed down or even halted as more people try to act on that demand. There is almost a sort of Catch-22 for investors. You need more people buying BTC to keep the price pumping scheme going, but more people buying it also means the reasons for buying it break down.
 
-Ironically, the argument that Paul and Ron make only applies to big-block Bitcoin, which, like gold, functions the same when one person wants it as when millions do. BCH and BSV right now could onboard millions with little hiccup. When you combine a scarce protocol with near infinte scale, you get the kind of price potential so many people like to talk about.
+Ironically, the argument that Paul and Ron make only applies to big-block Bitcoin, which, like gold, functions the same when one person wants it as when millions do. BCH and BSV right now could onboard millions with little hiccup, and in fact the economics of large transaction throughput actually means transaction fees will drop lower when more people use it and the protocols will work better.
+
+When you combine a scarce protocol with near infinite scale, you get the kind of price potential so many people like to talk about.
