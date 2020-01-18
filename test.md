@@ -1,7 +1,7 @@
- ---
- layout: page
- title: Credits
- ---
+---
+layout: page
+title: Credits
+---
  
   <h3 id="susanna-allés-torrent--hyper-philologist"><a href="http://susannalles.github.io/">Susanna Allés Torrent</a> | Hyper philologist</h3>
 
