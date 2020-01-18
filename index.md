@@ -13,4 +13,6 @@ Follow via Twitter ([@breakingsatoshi](https://twitter.com/breakingsatoshi)).
 
 ## Read
 
+Some of our most recent posts:
+
 {% for post in site.posts %} [{{ post.title }}]({{ post.url }}) » {{ post.date | date_to_string }} {% endfor %}
