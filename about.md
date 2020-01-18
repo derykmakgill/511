@@ -11,8 +11,6 @@ New readers may want to [start here.](/archive) If you would like to write for u
 
 You can also support the writing and research [here.](/support)
 
-### About Deryk Magill
-
 <figure class="side" data-url="http://derykmakgill.com/M.jpg">
   <a href="http://derykmakgill.com/M.jpg" target="_blank">
     <img src="http://derykmakgill.com/M.jpg" alt="Makgill" loading="lazy">
@@ -26,6 +24,8 @@ You can also support the writing and research [here.](/support)
     
   </figcaption>
 </figure>
+
+### About Deryk Magill
 
 Makgill is a writer, researcher and investor living in [redacted].
 
