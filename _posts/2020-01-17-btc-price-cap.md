@@ -16,7 +16,7 @@ Ron had [this to say:](https://twitter.com/rweisbein/status/1217818382315159553)
 
 > That’s like saying the price of oil can’t skyrocket because oil doesn’t process enough transactions. 
 
-Paul and Ron both *wrong,* and they're wrong for basically the same reason. They're committing the fallacy of failing to discriminate crucial differences.
+Paul and Ron are both *wrong,* and they're wrong for basically the same reason. They're committing the fallacy of failing to discriminate crucial differences.
 
 While it's obviously true that scarcity and demand can cause prices to increase for gold, oil and other commodities, this does not necessarily always hold true for the BTC chain of Bitcoin. BTC is (now) fundamentally different than gold and oil.
 
