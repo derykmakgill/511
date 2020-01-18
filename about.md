@@ -11,7 +11,7 @@ New readers may want to [start here.](/archive) If you would like to write for u
 
 You can also support the writing and research [here.](/support)
 
-## About Deryk
+### About Deryk Magill
 
 <figure class="side" data-url="http://derykmakgill.com/M.jpg">
   <a href="http://derykmakgill.com/M.jpg" target="_blank">
