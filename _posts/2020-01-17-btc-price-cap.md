@@ -62,13 +62,13 @@ When you combine a scarce protocol with near infinite scale, you get the kind of
 
 ## Comments
 
-<div id="comment"><p><strong>1) <a href="https://twitter.com/isaacmorehouse/status/1218270098177363969">Isaac Morehouse</a></strong> </p>
+<div class="comment"><p><strong>1) <a href="https://twitter.com/isaacmorehouse/status/1218270098177363969">Isaac Morehouse</a></strong> </p>
 <p>It's a kind of negative network effect in BTC beyond the threshold(each additional user lowers the value to all the rest), while big block bitcoin has a positive network effect (each additional lowers tx fee for all the rest).</p></div>
 
-<div id="comment"><p><strong>2)<a href="https://www.reddit.com/r/btc/comments/eq681y/the_economics_of_btcs_artificial_price_ceiling/"> u/MemoryDealers</a></strong> </p>
+<div class="comment"><p><strong>2)<a href="https://www.reddit.com/r/btc/comments/eq681y/the_economics_of_btcs_artificial_price_ceiling/"> u/MemoryDealers</a></strong> </p>
   
 <p>Deryk's writings are great. More people should read them.</p></div>
 
-<div id="comment"><p><strong>3)<a href="https://www.reddit.com/r/btc/comments/eq681y/the_economics_of_btcs_artificial_price_ceiling/"> u/etherael</a></strong> </p>
+<div class="comment"><p><strong>3)<a href="https://www.reddit.com/r/btc/comments/eq681y/the_economics_of_btcs_artificial_price_ceiling/"> u/etherael</a></strong> </p>
   
 <p>To be fair at a certain level there's no avoiding that, but it's many orders of magnitude above where we are and it was outright sabotage to artificially limit the throughput at such an anemic level for no good reason at all beyond blockstream's idiotic business model. Seems people are finally getting the point three years later.</p></div>
