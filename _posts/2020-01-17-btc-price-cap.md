@@ -60,7 +60,7 @@ Ironically, we need to conclude that the argument that Paul and Ron make only ap
 
 When you combine a scarce protocol with near infinite scale, you get the kind of price potential so many people like to talk about.
 
-## Comments
+## Comments (3)
 
 <div class="comment"><p><strong>1) <a href="https://twitter.com/isaacmorehouse/status/1218270098177363969">Isaac Morehouse</a></strong> </p>
 <p>It's a kind of negative network effect in BTC beyond the threshold(each additional user lowers the value to all the rest), while big block bitcoin has a positive network effect (each additional lowers tx fee for all the rest).</p></div>
