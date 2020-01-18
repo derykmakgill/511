@@ -13,6 +13,8 @@ If you would like to write for us, or if you would like to see an article writte
 
 You can also support the writing and research [here.](/support)
 
+---
+
 <figure class="side" data-url="http://derykmakgill.com/M.jpg">
   <a href="http://derykmakgill.com/M.jpg" target="_blank">
     <img src="http://derykmakgill.com/M.jpg" alt="Makgill" loading="lazy">
