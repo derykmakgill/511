@@ -62,4 +62,16 @@ When you combine a scarce protocol with near infinite scale, you get the kind of
 
 ## Comments
 
+<div id="comment"><p>1) Isaac Morehouse </p>
+
+<p>It's a kind of negative network effect in BTC beyond the threshold(each additional user lowers the value to all the rest), while big block bitcoin has a positive network effect (each additional lowers tx fee for all the rest).</p></div>
+
+<div id="comment"><p>2) u/MemoryDealers</p>
+  
+<p>Deryk's writings are great. More people should read them.</p></div>
+
+<div id="comment"><p>3) u/etherael</p>
+  
+<p>To be fair at a certain level there's no avoiding that, but it's many orders of magnitude above where we are and it was outright sabotage to artificially limit the throughput at such an anemic level for no good reason at all beyond blockstream's idiotic business model. Seems people are finally getting the point three years later.</p></div>
+
 <blockquote class="twitter-tweet" data-conversation="none" data-dnt="true" data-theme="light"><p lang="en" dir="ltr">It&#39;s a kind of negative network effect in BTC beyond the threshold(each additional user lowers the value to all the rest), while big block bitcoin has a positive network effect (each additional lowers tx fee for all the rest)</p>&mdash; Isaac M. Morehouse (@isaacmorehouse) <a href="https://twitter.com/isaacmorehouse/status/1218270098177363969?ref_src=twsrc%5Etfw">January 17, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
