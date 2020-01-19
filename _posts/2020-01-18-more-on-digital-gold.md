@@ -8,7 +8,7 @@ author: Deryk Makgill
 
 > lol - when demand rises the price goes up.. and yes so does the cost to insure and secure the gold... are you kidding? did you make this up out if thin air?
 
-Let's think about this. What actually happens to the functionality of gold as the price increases from demand? It's not what Jay thinks and it's nothing like BTC.
+Let's think about this. What actually happens to the functionality of gold as the price increases from demand? It's not what "Jay 4.669 [all your coinbase are belong to us]" thinks and it's nothing like BTC.
 
 When the price of gold rises, it means that any individual amount of physical gold is worth more, which means someone can carry more value now in a smaller physical quantity of gold than before, which means it is actually now cheaper for that person to transport and transact with gold than it was before.
 
