@@ -1,6 +1,6 @@
 ---
 layout: post
-title: More on 'digital gold'
+title: More on why BTC isn't 'digital gold'
 ---
 
 "Jay 4.669 [all your coinbase are belong to us]" (ha!) had a [comment](https://twitter.com/jaybny/status/1218423301036396545?s=20) in reply to my [last article](http://breakingsatoshi.com/2020/01/17/btc-price-cap/) that is useful for illustrating a related point about why BTC is not digital gold.
