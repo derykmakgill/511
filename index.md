@@ -19,4 +19,9 @@ Follow via Twitter ([@breakingsatoshi](https://twitter.com/breakingsatoshi)).
 [{{ post.title }}]({{ post.url }})<span class="date"> &raquo; {{ post.date | date_to_string }} </span>
 {% endfor %}
 
+---
+
+## Subscribe
+
+<iframe width="480" height="320" src="https://breakingsatoshi.substack.com/embed" frameborder="0" scrolling="no"></iframe>
 
