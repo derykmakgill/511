@@ -19,3 +19,4 @@ Follow via Twitter ([@breakingsatoshi](https://twitter.com/breakingsatoshi)).
 [{{ post.title }}]({{ post.url }})<span class="date"> &raquo; {{ post.date | date_to_string }} </span>
 {% endfor %}
 
+---
