@@ -15,7 +15,7 @@ For example, if you have a gold coin worth $1, and the value of that coin rises 
 
 And since you can carry the same amount of value on your person in a smaller physical quantity of gold, it's actually easier for you to keep secure.
 
-But BTC doesn't work like this. As demand grows, it becomes *more* expensive to transact with or to transport from one address to another. If fees rise too high, it means you actually might need to consolidate coins for them to be practically useable, or move them to exchanges, making your Bitcoin far less secure and private than if you could keep them spread across many addresses in small quantities. In fact, certain smaller quanities of Bitcoin actually become impossible to practically use because the fees involved in transacting are worth more than the amount in Bitcoin with which you want to transact.
+But BTC doesn't work like this. As demand grows, it becomes *more* expensive to transact with or to transport from one address to another. If fees rise too high, it means you actually might need to consolidate coins for them to be practically useable, or move them to exchanges, making your Bitcoin far less secure and private than if you could keep them spread across many addresses in small quantities. In fact, certain smaller quantities of Bitcoin actually become impossible to practically use because the fees involved in transacting are worth more than the amount in Bitcoin with which you want to transact.
 
 So much for BTC as 'digital gold.' 
 
