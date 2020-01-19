@@ -11,7 +11,7 @@ Let's think about this. What actually happens to the functionality of gold as th
 
 Well, it means that any individual amount of physical gold is worth more, which means someone can carry more value now in a smaller physical quantity of gold than before, which means it is actually now cheaper for that person to transport and transact with gold than it was before.
 
-For example, if you have a gold coin worth $1, and the value of that coin rises to $2, you can now carry $1 around in half a coin, or half the weight and physical space it took you when the coin was only worth $1. An increase in the price of gold makes using it easier. Nobody wants to carry around a big bag of coins or a bar of gold, but dust or small pieces? No problem. 
+For example, if you have a gold coin worth $1, and the value of that coin rises to $2, you can now carry $1 around in half a coin, or half the weight and physical space it took you when the whole coin was only worth $1. An increase in the price of gold makes using it easier. Nobody wants to carry around a big bag of coins or a bar of gold, but dust or small pieces? No problem. 
 
 And since you can carry the same amount of value on your person in a smaller physical quantity of gold, it's actually easier for you to keep secure.
 
