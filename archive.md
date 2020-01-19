@@ -7,3 +7,4 @@ title: Archive
 [{{ post.title }}]({{ post.url }})<span class="date"> &raquo; {{ post.date | date_to_string }} </span>
 {% endfor %}
 
+---
