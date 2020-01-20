@@ -38,17 +38,15 @@ Since I've seen this particular [book](https://amzn.to/2TGoCkX) arrogantly refer
 Rothbard actually argues the opposite of what they claim. If this is too dense for you, here is what he is essentially saying...
 
 1. The one function of money is to be a medium of exchange. Anything else, such as 'store of value,' is a secondary function.
-2. The reason gold functioned as an effective store of value for the future is because of the properties that make it a marketable medium of exchange now.
-
-I don’t know about you but in my ideal contractual voluntarist society the people who argue that Bitcoin only needs to be a store of value might be contractually bound to be publicly flogged for the economic blasphemies they’ve committed in this book's name! I only joke!
+2. The reason gold functioned as an effective store of value for the future is because of the properties that make it a marketable medium of exchange now, and the fact that those properties can be relied upon to be unchanging in the future.
 
 Let's look at a few more selections from Rothbard's book. Keep in mind that to Rothbard, gold was the ideal form of money.
 
 > [Money’s] function is to act as a medium of exchanges—to enable goods and services to travel more expeditiously from one person to another. 
 
-Here he claims that the purpose of money is to facilitate exchange, and indeed, to make it easier to trade goods from one person to another. 
+Here he claims again that the purpose of money is to facilitate exchange, and indeed, to make it easier to trade goods from one person to another. 
 
-When you hear the shallow wisecracks from people in Bitcoin about how Bitcoin isn't designed for making daily purchases or how you should "just use Visa," this is really an accidental admission on their part that their version of Bitcoin, BTC, isn't actually good money, and an admission they must be lying about their reading credentials.
+When you hear the shallow wisecracks from people in Bitcoin about how Bitcoin isn't designed for making daily purchases or how you should "just use Visa," this is really an accidental admission on their part that their version of Bitcoin, BTC, isn't actually good money, because BTC has been centrally planned to make the exchange of goods more difficult.
 
 Here's another quote from the book.
 
@@ -61,6 +59,9 @@ This has important implications for how we understand the different forks of Bit
 ## The real digital gold
 
 
+This money has all the best features of money from history but adds a weightless and spaceless payment network that enables the entire world to trade without having to rely on third parties. 
+
+Bitcoin is both a payment system and a money. The payment system is the source of value, while the accounting unit merely expresses that value in terms of price. The unity of money and payment is its most unusual feature, and the one that most commentators have had trouble wrapping their heads around.
 
 ### Relevant books
 
