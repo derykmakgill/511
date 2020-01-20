@@ -42,11 +42,11 @@ Rothbard actually argues the opposite of what they claim. If this is too dense f
 1. The one function of money is to be a medium of exchange. Anything else, such as 'store of value,' is a secondary function.
 2. The reason gold functioned as an effective store of value for the future is because of the properties that make it a marketable medium of exchange now, and the fact that those properties can be relied upon to be unchanging in the future.
 
-Let's look at a few more selections from Rothbard's book. Keep in mind that to Rothbard, gold was the ideal form of money.
+Let's look at a few more selections from Rothbard's book. 
 
 > [Money’s] function is to act as a medium of exchanges—to enable goods and services to travel more expeditiously from one person to another. 
 
-Here he claims again that the purpose of money is to facilitate exchange, and indeed, to make it easier to trade goods from one person to another. 
+Here he claims again that the purpose of money is to facilitate exchange, and indeed, to make it easier to trade goods from one person to another. If it doesn't facilitate trade well, it's not good money.
 
 When you hear the shallow wisecracks from people in Bitcoin about how Bitcoin isn't designed for making daily purchases or how you should "just use Visa," this is really an accidental admission on their part that their version of Bitcoin, BTC, isn't actually good money, because BTC has been centrally planned to make the exchange of goods more difficult.
 
@@ -54,7 +54,7 @@ Here's another quote from the book.
 
 > The money-commodity is divisible into small units, and it is generally acceptable by all.
 
-In other words, if a form of money is not acceptable by all because it is, for example, too expensive to use for most daily transactions or to divide into smaller pieces, it's not good money. It's not as marketable as a money that is, as Rothbard writes in the same section, "more divisible into smaller units..." and "more transportable over large distances." 
+In other words, if a money is not acceptable by all because it is too expensive to use for most daily transactions or to divide into smaller pieces, it's not good money. It's not as marketable as a money that is, as Rothbard writes in the same section, "more divisible into smaller units..." and "more transportable over large distances." 
 
 This has important implications for how we understand the different forks of Bitcoin then.
 
