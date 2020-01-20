@@ -1,15 +1,17 @@
 ---
 layout: post
-title: BTC contra Austrian economics
+title: BTC Contra Austrian Economics
 ---
 
 I’ve been thinking a lot about how nobody knows anything about Austrian economics in Bitcoin. I think I've begun to understand why.
 
-**People like to name drop Austrian economists.** *Name drop.* Not read. That would require work and comes with no immediate social validation on Twitter or conference speaking gigs. It’s not that everyone is stupid, though there is plenty of that to go around, it’s that they have realized they can get the social benefit of being seen as having economic insight while being totally ignorant of the actual facts.
+**People like to name drop Austrian economists.** *Name drop.* Not read. That would require work and comes with no immediate social validation on Twitter or conference speaking gigs. 
 
-This became totally clear to me in September 2018 when I was on the famous cruise in Barcelona where Roger Ver was set up in a fixed debate by Jimmy Song. I realized listening to Jimmy that, while he loved to talk about Austrian economics, he had never actually read anything from that school of thought.[^1] Just like he was playing dress up as a cowboy, he was playing intellectual dress up as an economic thinker by dropping a few names and terms here and there.
+It’s not that everyone is stupid, though there is plenty of that to go around, it’s that they have realized they can get the social benefit of being seen as having economic insight while being totally ignorant of the actual facts.
 
-Ironically, this particular form of charlatanry was given roundhouse condmenation by the great Austrian economist Murray Rothbard, who will talk about more in a moment.
+This became totally clear to me in September 2018 when I was on the famous [cruise in Barcelona](https://www.youtube.com/watch?v=tkvZoaVHQV0) where Roger Ver was [set up](https://twitter.com/derykmakgill/status/1039113140833792000) in a fixed debate by Jimmy Song. I realized listening to Jimmy that, while he loved to talk about Austrian economics, he had never actually read anything from that school of thought.[^1] Just like he was playing dress up as a cowboy, he was playing intellectual dress up as an economic thinker by dropping a few names and terms here and there.
+
+Ironically, this particular form of charlatanry was given roundhouse condemnation by the great Austrian economist Murray Rothbard, about whom we will talk more in a moment.
 
 > It is no crime to be ignorant of economics, which is, after all, a specialized discipline and one that most people consider to be a ‘dismal science.’ But it is totally irresponsible to have a loud and vociferous opinion on economic subjects while remaining in this state of ignorance.
 
