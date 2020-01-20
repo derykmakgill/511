@@ -9,9 +9,9 @@ I’ve been thinking a lot about how nobody knows anything about Austrian econom
 
 It’s not that everyone is stupid, though there is plenty of that to go around, it’s that they have realized they can get the social benefit of being seen as having economic insight while being totally ignorant of the actual facts.
 
-This became totally clear to me in September 2018 when I was on the famous [cruise in Barcelona](https://www.youtube.com/watch?v=tkvZoaVHQV0) where Roger Ver was [set up](https://twitter.com/derykmakgill/status/1039113140833792000) in a fixed debate by Jimmy Song. I realized listening to Jimmy that, while he loved to talk about Austrian economics, he had never actually read anything from that school of thought.[^1] Just like he was playing dress up as a cowboy, he was playing intellectual dress up as an economic thinker by dropping a few names and terms here and there.
+This became totally clear to me in September 2018 when I was on the famous [cruise in Barcelona](https://www.youtube.com/watch?v=tkvZoaVHQV0) where Roger Ver was [set up](https://twitter.com/derykmakgill/status/1039113140833792000) in a fixed debate by Jimmy Song. I realized listening to Jimmy that, while he loved to talk about Austrian economics, he had never actually read anything from that school of thought.[^1] Just like he was playing dress up as a silly cowboy, he was playing intellectual dress up as an economic thinker by dropping a few names and terms here and there.
 
-Ironically, this particular form of charlatanry was given roundhouse condemnation by the great Austrian economist Murray Rothbard, about whom we will talk more in a moment.
+Ironically, this particular form of charlatanry was given roundhouse condemnation by the great Austrian economist Murray Rothbard, about whom we will talk more in a moment, who said:
 
 > It is no crime to be ignorant of economics, which is, after all, a specialized discipline and one that most people consider to be a ‘dismal science.’ But it is totally irresponsible to have a loud and vociferous opinion on economic subjects while remaining in this state of ignorance.
 
