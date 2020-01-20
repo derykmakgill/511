@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Crypto-Austrianism and Digital Gold
+title: BTC contra Austrian economics
 ---
 
 I’ve been thinking a lot about how nobody knows anything about Austrian economics in Bitcoin. I think I've begun to understand why.
