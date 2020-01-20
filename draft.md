@@ -23,7 +23,7 @@ Breaking Satoshi is all about, among other things, exposing these economic falla
 
 Thought manipulators in BTC love to name drop thinkers like Rothbard and Mises and Hayek to justify this point, and one book in particular they say is a must read is Rothbard's *[What Has Governnment Done to Our Money?](https://amzn.to/2TGoCkX)* 
 
-The Nakamoto Institute, which is run by the most [redacted bit that is unfit for print], even hosts a [free copy](https://nakamotoinstitute.org/static/docs/what-has-government-done-to-our-money.pdf) on their website, but you should click my Amazon affiliate link and buy a hard copy.
+The Nakamoto Institute, which is run by the most [redacted bit that is unfit for print], even hosts a free copy on their website, but you should click my [Amazon affiliate link]((https://amzn.to/2TGoCkX)) and buy a hard copy.
 
 It’s a [book](https://amzn.to/2TGoCkX) I hadn't read since 8th or 9th grade but it really informed a lot of my thinking on monetary questions. Whenever I've seen this book mentioned in support of the 'digital gold as store of value' idea, I’ve always thought that I don’t remember taking away the same points from the book that the small-block Bitcoiners have.
 
