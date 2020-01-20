@@ -15,6 +15,8 @@ Ironically, this particular form of charlatanry was given roundhouse condmenatio
 
 And Jimmy is no exception, he’s the norm. Thanks to people like him, Bitcoin is now crippled because of absolutely horrible economic thought masquerading as "Austrian" economics. [^2]
 
+## Breaking the fallacies, one at a time
+
 Breaking Satoshi is all about, among other things, exposing these economic fallacies that have led to the ‘breaking’ of Satoshi’s vision for Bitcoin, and one I’ve written about the last two days is the idea of Bitcoin as digital gold, a 'store of value' as opposed a medium of exchange, which is just about the most pernicious economic myth in Bitcoin today.
 
 Thought manipulators in BTC love to name drop thinkers like Rothbard and Mises and Hayek to justify this point, and one book in particular they say is a must read is Rothbard's *What Has Governnment Done to Our Money?[https://amzn.to/2TGoCkX)]* 
