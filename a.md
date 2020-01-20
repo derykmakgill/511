@@ -71,8 +71,6 @@ Bitcoin is both a payment system and a money. The payment system is the source o
 
 *[What Has Government Done to Our Money?](https://amzn.to/2TGoCkX)*
 
----
-
 [^1]: And, no, we can’t count the gloriously drunken non-sequitur of a book that is *The Bitcoin Standard*. 
 
 [^2]: I realized too that Song and his type are the quintessential charalatan, the types who cash in on the name  of their intellectual superiors to support causes entirely at odds with their work because they’ve never bothered to read or understand them. 
