@@ -5,15 +5,15 @@ title: BTC Contra Austrian Economics, Part One of ∞
 
 I’ve been thinking a lot about how nobody knows anything about Austrian economics in Bitcoin. I think I've begun to understand why.
 
-**People like to talk about Austrian economists,** they don't like to read them. That would require work and comes with no immediate social validation on Twitter or conference speaking gigs. They want to appear as having economic insight, but they don't care to have it.
+**People like to *talk* about Austrian economists,** they don't like to do the work to understand them. That takes effort and comes with no immediate social validation on Twitter or conference speaking gigs. They want to appear as having economic insight, but they don't care to have it.
 
-This became clear to me in September 2018 when I was on the famous [cruise in Barcelona](https://www.youtube.com/watch?v=tkvZoaVHQV0) where Roger Ver was [set up](https://twitter.com/derykmakgill/status/1039113140833792000) in a fixed debate by Jimmy Song. I realized listening to Jimmy that, while he loved to talk about Austrian economics, I couldn't believe he'd actually read anything from that school of thought.[^1] Just like he was playing dress up as a silly cowboy, he was playing intellectual dress up as an economic thinker by dropping a few names and terms here and there.
+This became clear to me in September 2018 when I was on the famous [cruise in Barcelona](https://www.youtube.com/watch?v=tkvZoaVHQV0) where Roger Ver was [set up](https://twitter.com/derykmakgill/status/1039113140833792000) in a fixed debate by Jimmy Song. I realized listening to Jimmy that, while he loved to talk about Austrian economics, he had no clue what he was talking about and probably hadn't even read any Austrian economics books.[^1] Just like he was playing dress up as a silly cowboy, he was playing intellectual dress up as an economic thinker.
 
-Ironically, this particular form of charlatanry was given roundhouse condemnation by the great Austrian economist Murray Rothbard, about whom we will talk more in a moment, who said:
+Ironically, this particular form of charlatanry was given roundhouse condemnation by the great Austrian economist Murray Rothbard, who we will talk more about in a moment, who said:
 
 > It is no crime to be ignorant of economics, which is, after all, a specialized discipline and one that most people consider to be a ‘dismal science.’ But it is totally irresponsible to have a loud and vociferous opinion on economic subjects while remaining in this state of ignorance.
 
-And Jimmy is no exception, he’s the norm. The BTC community is an echo chamber of false economic opinions backed by social approval, not real study.
+And Jimmy is no exception, he’s the norm. The BTC community is an echo chamber of false economic opinions backed by social reward, not real study.
 
 Websites like Ministry of Nodes [even warn people](https://twitter.com/derykmakgill/status/1219368797225865217?s=20) not to read certain things because you might be convinced of something that doesn't align with the party dogma in BTC today. 
 
@@ -25,41 +25,37 @@ Breaking Satoshi is all about exposing these fallacies that have led to the ‘b
 
 The most annoying economic myth in Bitcoin today is the idea of Bitcoin as digital gold, a 'store of value,' as opposed to a medium of exchange. [^3]
 
-Thought manipulators in BTC regularly name drop books from thinkers like Rothbard, Mises and Hayek to justify this point, and one book in particular they use is Rothbard's *[What Has Governnment Done to Our Money?](https://amzn.to/2TGoCkX)* 
+Thought manipulators in BTC name drop books from thinkers like Rothbard, Mises and Hayek to validate this point, and one book in particular they use is Rothbard's *[What Has Governnment Done to Our Money?](https://amzn.to/2TGoCkX)* 
 
 The Nakamoto Institute[^4] even hosts a free copy on their website, but you should click my [Amazon affiliate link]((https://amzn.to/2TGoCkX)) and buy a hard copy because as we'll see, nobody is reading their free one.
 
-It’s a [book](https://amzn.to/2TGoCkX) I hadn't read since 8th or 9th grade but it really informed a lot of my thinking on monetary questions. Whenever I've seen this book mentioned in support of the 'digital gold as store of value' idea, I’ve always thought that I don’t remember taking away the same points from the book that the small-block Bitcoiners have taken away from it.
+It’s a [book](https://amzn.to/2TGoCkX) I hadn't read since 8th or 9th grade but it has really informed a lot of my thinking on monetary questions since then. Whenever I've seen this book mentioned in support of the 'digital gold as store of value' idea, I’ve always thought that I don’t remember taking away the same ideas from the book that the small-block Bitcoiners have taken away from it.
 
-Well, this evening I had a bit of gin and sat down to reread it and was I amazed at how much they have bastardized Rothbard's incredible [work!](https://amzn.to/2TGoCkX) I have to assume they have never read it, because it's not a minor point here or there that they've missed, it's the entire point.
+Well, this evening I had a bit of gin and sat down to reread it and was I amazed at how much they have bastardized Rothbard's incredible [work!](https://amzn.to/2TGoCkX) I almost have to assume they have never read it or are deliberately misrepresenting it, because it's not a minor point here or there that they've missed, it's the entire point.
 
-Since I've seen this particular [book](https://amzn.to/2TGoCkX) arrogantly referenced in arguments on Twitter and Reddit about why Bitcoin can be a store of value even if it is unusable as a medium of exchange in commerce, or why big-block Bitcoin is a scam, you can imagine I nearly choked on my drink when I read the following bit from Rothbard.
+Since I've seen this particular [book](https://amzn.to/2TGoCkX) arrogantly referenced in arguments on Twitter and Reddit about why Bitcoin can be a store of value even if it is unusable as a medium of exchange in commerce, you can imagine I nearly choked on my drink when I read the following bit from Rothbard.
 
 > **Many textbooks say that money has several functions: a medium of exchange, unit of account, or “measure of values,” a “store of value,” etc. But it should be clear that all of these functions are simply corollaries of the one great function: the medium of exchange.** Because gold is a general medium, it is most marketable, it can be stored to serve as a medium in the future as well as the present, and all prices are expressed in its terms. Because gold is a commodity medium for all exchanges, it can serve as a unit of account for present, and expected future, prices. It is important to realize that money cannot be an abstract unit of account or claim, except insofar as it serves as a medium of exchange.
 
-Rothbard actually argues the opposite of what they claim. If this is too dense for you, here is what he is essentially saying...
+How is it that anyone can read this and come away thinking that Bitcoin doesn't need to be useful as a medium of exchange?Rothbard actually argues the opposite! 
 
-1. The one function of money is to be a medium of exchange. Anything else, such as 'store of value,' is a secondary function.
-2. The reason gold functioned as an effective store of value for the future is because of the properties that make it a marketable medium of exchange now, and the fact that those properties can be relied upon to be unchanging in the future.
-
-Let's look at a few more selections from Rothbard's book. 
-
-> [Money’s] function is to act as a medium of exchanges—to enable goods and services to travel more expeditiously from one person to another. 
-
-Here he claims again that the purpose of money is to facilitate exchange, and indeed, to make it easier to trade goods from one person to another. If it doesn't facilitate trade well, it's not good money.
-
-When you hear the shallow wisecracks from people in Bitcoin about how Bitcoin isn't designed for making daily purchases or how you should "just use Visa," this is really an accidental admission on their part that their version of Bitcoin, BTC, isn't actually good money, because BTC has been centrally planned to make the exchange of goods more difficult.
-
-Here's another quote from the book.
-
-> The money-commodity is divisible into small units, and it is generally acceptable by all.
-
-In other words, if a money is not acceptable by all because it is too expensive to use for most daily transactions or to divide into smaller pieces, it's not good money. It's not as marketable as a money that is, as Rothbard writes in the same section, "more divisible into smaller units..." and "more transportable over large distances." 
+The one function of money, accoording to Rothbard, is to be a *medium of exchange.* Anything else, such as 'store of value,' is a secondary function. The reason gold functioned as an effective store of value for the future is because of the properties that make it a marketable medium of exchange now, and the fact that those properties can be relied upon to be unchanging in the future.
 
 This has important implications for how we understand the different forks of Bitcoin then.
 
 ## The real digital gold
 
+The imposter BTC fork of Bitcoin cannot be 'digital gold' because it cannot be relied upon to preserve certain primary properties of gold in the future such as divisibility and portability. As I've written before, the more people use BTC, the less portable and less divisibile it becomes by design. Gold doesn't act like this.
+
+But is digital gold a useless term? No. Bitcoin as it was originally designed does have many similar properties to gold, but Satoshi wrote about these properties in a very specific context. Like Rothbard, he wrote about these properties in relationship to their usefulness in allowing Bitcoin to be a good *medium of exchange.*
+
+> Gold mining is a waste, but that waste is far less than the **utility of having gold available as a medium of exchange.** I think the case will be the same for Bitcoin.  The utility of the exchanges made possible by Bitcoin will far exceed the cost of electricity used.  Therefore, not having Bitcoin would be the net waste.
+
+But gold itself has some limitations, especially in the digital age. Rothbard writes about these in the book.
+
+> Even in the convenient shape of coins, gold is often cumbersome and awkward to carry and use directly in exchange. For larger transactions, it is awkward and expensive to transport several hundred pounds of gold.
+
+He goes on to explain that the solution
 
 This money has all the best features of money from history but adds a weightless and spaceless payment network that enables the entire world to trade without having to rely on third parties. 
 
