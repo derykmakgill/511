@@ -15,7 +15,7 @@ Ironically, this particular form of charlatanry was given roundhouse condemnatio
 
 > It is no crime to be ignorant of economics, which is, after all, a specialized discipline and one that most people consider to be a ‘dismal science.’ But it is totally irresponsible to have a loud and vociferous opinion on economic subjects while remaining in this state of ignorance.
 
-And Jimmy is no exception, he’s the norm. Thanks to people like him, Bitcoin is now crippled because of absolutely horrible economic thought masquerading as "Austrian" economics. [^2]
+And Jimmy is no exception, he’s the norm. Websites like Ministry of Nodes [even warn people](https://twitter.com/derykmakgill/status/1219368797225865217?s=20) not to read certain things because you might be convinced of something that doesn't align with the party dogma in BTC today. Thanks to people like this, Bitcoin is now crippled because of absolutely horrible economic thought masquerading as "Austrian" economics. [^2]
 
 ## Breaking the fallacies, one at a time
 
