@@ -3,7 +3,7 @@ layout: post
 title: Crypto-Austrianism and Digital Gold
 ---
 
-I’ve been thinking a lot about how nobody knows anything about Austrian economics in Bitcoin and I think at least one of the reasons comes down to this.
+I’ve been thinking a lot about how nobody knows anything about Austrian economics in Bitcoin, and I think at least one of the reasons comes down to this.
 
 People like to name drop Austrian economists. *Name drop.* Not read. That would require work and comes with no immediate social validation on Twitter or conference speaking gigs. It’s not that everyone is stupid, though there is plenty of that to go around, it’s that they have realized they can get the social benefit of being seen as having economic insight while being totally ignorant of the actual facts.
 
