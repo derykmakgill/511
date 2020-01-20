@@ -5,17 +5,15 @@ title: BTC Contra Austrian Economics, Part One of ∞
 
 I’ve been thinking a lot about how nobody knows anything about Austrian economics in Bitcoin. I think I've begun to understand why.
 
-**People like to name drop Austrian economists.** *Name drop.* Not read. That would require work and comes with no immediate social validation on Twitter or conference speaking gigs. 
+**People like to talk about Austrian economists,** they don't like to read them. That would require work and comes with no immediate social validation on Twitter or conference speaking gigs. They want to appear as having economic insight, but they don't care to have it.
 
-It’s not that everyone is stupid, though there is plenty of that to go around, it’s that they have realized they can get the social benefit of being seen as having economic insight while being ignorant of the actual facts.
-
-This became clear to me in September 2018 when I was on the famous [cruise in Barcelona](https://www.youtube.com/watch?v=tkvZoaVHQV0) where Roger Ver was [set up](https://twitter.com/derykmakgill/status/1039113140833792000) in a fixed debate by Jimmy Song. I realized listening to Jimmy that, while he loved to talk about Austrian economics, he had never actually read anything from that school of thought.[^1] Just like he was playing dress up as a silly cowboy, he was playing intellectual dress up as an economic thinker by dropping a few names and terms here and there.
+This became clear to me in September 2018 when I was on the famous [cruise in Barcelona](https://www.youtube.com/watch?v=tkvZoaVHQV0) where Roger Ver was [set up](https://twitter.com/derykmakgill/status/1039113140833792000) in a fixed debate by Jimmy Song. I realized listening to Jimmy that, while he loved to talk about Austrian economics, I couldn't believe he'd actually read anything from that school of thought.[^1] Just like he was playing dress up as a silly cowboy, he was playing intellectual dress up as an economic thinker by dropping a few names and terms here and there.
 
 Ironically, this particular form of charlatanry was given roundhouse condemnation by the great Austrian economist Murray Rothbard, about whom we will talk more in a moment, who said:
 
 > It is no crime to be ignorant of economics, which is, after all, a specialized discipline and one that most people consider to be a ‘dismal science.’ But it is totally irresponsible to have a loud and vociferous opinion on economic subjects while remaining in this state of ignorance.
 
-And Jimmy is no exception, he’s the norm. 
+And Jimmy is no exception, he’s the norm. The BTC community is an echo chamber of false economic opinions backed by social approval, not real study.
 
 Websites like Ministry of Nodes [even warn people](https://twitter.com/derykmakgill/status/1219368797225865217?s=20) not to read certain things because you might be convinced of something that doesn't align with the party dogma in BTC today. 
 
@@ -25,9 +23,9 @@ Thanks to people like this, Bitcoin is now crippled because of absolutely horrib
 
 Breaking Satoshi is all about exposing these fallacies that have led to the ‘breaking’ of Satoshi’s vision for Bitcoin.
 
-Perhaps the most pernicious economic myth in Bitcoin today is the idea of Bitcoin as digital gold, a 'store of value,' as opposed to a medium of exchange. [^3]
+The most annoying economic myth in Bitcoin today is the idea of Bitcoin as digital gold, a 'store of value,' as opposed to a medium of exchange. [^3]
 
-Thought manipulators in BTC regularly name drop books from thinkers like Rothbard and Mises and Hayek to justify this point, and one book in particular they use is Rothbard's *[What Has Governnment Done to Our Money?](https://amzn.to/2TGoCkX)* 
+Thought manipulators in BTC regularly name drop books from thinkers like Rothbard, Mises and Hayek to justify this point, and one book in particular they use is Rothbard's *[What Has Governnment Done to Our Money?](https://amzn.to/2TGoCkX)* 
 
 The Nakamoto Institute[^4] even hosts a free copy on their website, but you should click my [Amazon affiliate link]((https://amzn.to/2TGoCkX)) and buy a hard copy because as we'll see, nobody is reading their free one.
 
@@ -35,7 +33,7 @@ It’s a [book](https://amzn.to/2TGoCkX) I hadn't read since 8th or 9th grade bu
 
 Well, this evening I had a bit of gin and sat down to reread it and was I amazed at how much they have bastardized Rothbard's incredible [work!](https://amzn.to/2TGoCkX) I have to assume they have never read it, because it's not a minor point here or there that they've missed, it's the entire point.
 
-Since I've seen this particular [book](https://amzn.to/2TGoCkX) arrogantly referenced in arguments on Twitter and Reddit about why Bitcoin can be a store of value even if it is unusable as a medium of exchange in commerce, or why big-block Bitcoin is a scammy con, you can imagine I nearly choked on my drink when I read the following bit from Rothbard.
+Since I've seen this particular [book](https://amzn.to/2TGoCkX) arrogantly referenced in arguments on Twitter and Reddit about why Bitcoin can be a store of value even if it is unusable as a medium of exchange in commerce, or why big-block Bitcoin is a scam, you can imagine I nearly choked on my drink when I read the following bit from Rothbard.
 
 > **Many textbooks say that money has several functions: a medium of exchange, unit of account, or “measure of values,” a “store of value,” etc. But it should be clear that all of these functions are simply corollaries of the one great function: the medium of exchange.** Because gold is a general medium, it is most marketable, it can be stored to serve as a medium in the future as well as the present, and all prices are expressed in its terms. Because gold is a commodity medium for all exchanges, it can serve as a unit of account for present, and expected future, prices. It is important to realize that money cannot be an abstract unit of account or claim, except insofar as it serves as a medium of exchange.
 
