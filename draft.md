@@ -1,6 +1,6 @@
 ---
 layout: post
-title: BTC Contra Austrian Economics
+title: BTC Contra Austrian Economics, Part One of ∞
 ---
 
 I’ve been thinking a lot about how nobody knows anything about Austrian economics in Bitcoin. I think I've begun to understand why.
