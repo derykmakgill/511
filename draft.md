@@ -17,15 +17,15 @@ And Jimmy is no exception, he’s the norm. Thanks to people like him, Bitcoin i
 
 Breaking Satoshi is all about, among other things, exposing these economic fallacies that have led to the ‘breaking’ of Satoshi’s vision for Bitcoin, and one I’ve written about the last two days is the idea of Bitcoin as digital gold, a 'store of value' as opposed a medium of exchange, which is just about the most pernicious economic myth in Bitcoin today.
 
-Thought manipulators in BTC love to name drop thinkers like Rothbard and Mises and Hayek to justify this point, and one book in particular they say is a must read is Rothbard's *What Has Governnment Done With Our Money?* 
+Thought manipulators in BTC love to name drop thinkers like Rothbard and Mises and Hayek to justify this point, and one book in particular they say is a must read is Rothbard's *What Has Governnment Done to Our Money?[https://amzn.to/2TGoCkX)]* 
 
 The Nakamoto Institute, which is run by two of the most [redacted bit that is unfit for print], even hosts a [free copy](https://nakamotoinstitute.org/static/docs/what-has-government-done-to-our-money.pdf) on their website, but you should click my Amazon affiliate link and buy a hard copy.
 
-It’s a book I hadn't read since 8th or 9th grade but it really informed a lot of my thinking on monetary questions. Whenever I've seen this book mentioned in support of the 'digital gold as store of value' idea, I’ve always thought that I don’t remember taking away the same points from the book that the small-block Bitcoiners have.
+It’s a [book](https://amzn.to/2TGoCkX) I hadn't read since 8th or 9th grade but it really informed a lot of my thinking on monetary questions. Whenever I've seen this book mentioned in support of the 'digital gold as store of value' idea, I’ve always thought that I don’t remember taking away the same points from the book that the small-block Bitcoiners have.
 
-Well, this evening I had a bit of gin and sat down to reread it and was I amazed at how much they have bastardized Rothbard's incredible work! I have to assume they have never read it, because it's not a minor point here or there that they've missed, it's the entire point.
+Well, this evening I had a bit of gin and sat down to reread it and was I amazed at how much they have bastardized Rothbard's incredible [work!](https://amzn.to/2TGoCkX) I have to assume they have never read it, because it's not a minor point here or there that they've missed, it's the entire point.
 
-Since I've seen this particular book arrogantly referenced in arguments on Twitter and Reddit about why Bitcoin can be a store of value even if it is unusable as a medium of exchange in commerce, or why big-block Bitcoin is a scammy con, you can imagine I nearly choked on my drink when I read the following bit from Rothbard.
+Since I've seen this particular [book](https://amzn.to/2TGoCkX) arrogantly referenced in arguments on Twitter and Reddit about why Bitcoin can be a store of value even if it is unusable as a medium of exchange in commerce, or why big-block Bitcoin is a scammy con, you can imagine I nearly choked on my drink when I read the following bit from Rothbard.
 
 > **Many textbooks say that money has several functions: a medium of exchange, unit of account, or “measure of values,” a “store of value,” etc. But it should be clear that all of these functions are simply corollaries of the one great function: the medium of exchange.** Because gold is a general medium, it is most marketable, it can be stored to serve as a medium in the future as well as the present, and all prices are expressed in its terms. Because gold is a commodity medium for all exchanges, it can serve as a unit of account for present, and expected future, prices. It is important to realize that money cannot be an abstract unit of account or claim, except insofar as it serves as a medium of exchange.
 
@@ -49,6 +49,12 @@ Here's another quote from the book.
 > The money-commodity is divisible into small units, and it is generally acceptable by all.
 
 In other words, if a form of money is not acceptable by all because it is, for example, too expensive to use for most daily transactions or to divide into smaller pieces, it's not good money. It's not as marketable as a money that is, as Rothbard writes in the same section, "more divisible into smaller units..." and "more transportable over large distances." 
+
+## The real digital gold
+
+### Relevant books
+
+*[What Has Government Done to Our Money?](https://amzn.to/2TGoCkX)*
 
 ---
 
