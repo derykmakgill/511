@@ -15,13 +15,15 @@ Ironically, this particular form of charlatanry was given roundhouse condemnatio
 
 > It is no crime to be ignorant of economics, which is, after all, a specialized discipline and one that most people consider to be a ‘dismal science.’ But it is totally irresponsible to have a loud and vociferous opinion on economic subjects while remaining in this state of ignorance.
 
-And Jimmy is no exception, he’s the norm. Websites like Ministry of Nodes [even warn people](https://twitter.com/derykmakgill/status/1219368797225865217?s=20) not to read certain things because you might be convinced of something that doesn't align with the party dogma in BTC today. Thanks to people like this, Bitcoin is now crippled because of absolutely horrible economic thought masquerading as "Austrian" economics. [^2]
+And Jimmy is no exception, he’s the norm. Websites like Ministry of Nodes [even warn people](https://twitter.com/derykmakgill/status/1219368797225865217?s=20) not to read certain things because you might be convinced of something that doesn't align with the party dogma in BTC today. 
+
+Thanks to people like this, Bitcoin is now crippled because of absolutely horrible economic thought masquerading as "Austrian" economics. [^2]
 
 ## Breaking the fallacies, one at a time
 
 Breaking Satoshi is all about, among other things, exposing these economic fallacies that have led to the ‘breaking’ of Satoshi’s vision for Bitcoin.
 
-One I’ve written about the last two days is the idea of Bitcoin as digital gold, a 'store of value' as opposed a medium of exchange, which is just about the most pernicious economic myth in Bitcoin today.
+Perhaps the most pernicious economic myth in Bitcoin today is the idea of Bitcoin as digital gold, a 'store of value.' [^3]
 
 Thought manipulators in BTC love to name drop books from thinkers like Rothbard and Mises and Hayek to justify this point, and one book in particular they say is a must read is Rothbard's *[What Has Governnment Done to Our Money?](https://amzn.to/2TGoCkX)* 
 
@@ -72,3 +74,5 @@ Bitcoin is both a payment system and a money. The payment system is the source o
 [^1]: And, no, we can’t count the gloriously drunken non-sequitur of a book that is *The Bitcoin Standard*. 
 
 [^2]: I realized too that Song and his type are the quintessential charalatan, the types who cash in on the name  of their intellectual superiors to support causes entirely at odds with their work because they’ve never bothered to read or understand them. 
+
+[^3]: I've written more about digital gold [here](http://breakingsatoshi.com/2020/01/17/btc-price-cap/) and [here.](http://breakingsatoshi.com/2020/01/18/more-on-digital-gold/)
