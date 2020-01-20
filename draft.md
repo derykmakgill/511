@@ -19,13 +19,15 @@ And Jimmy is no exception, he’s the norm. Thanks to people like him, Bitcoin i
 
 ## Breaking the fallacies, one at a time
 
-Breaking Satoshi is all about, among other things, exposing these economic fallacies that have led to the ‘breaking’ of Satoshi’s vision for Bitcoin, and one I’ve written about the last two days is the idea of Bitcoin as digital gold, a 'store of value' as opposed a medium of exchange, which is just about the most pernicious economic myth in Bitcoin today.
+Breaking Satoshi is all about, among other things, exposing these economic fallacies that have led to the ‘breaking’ of Satoshi’s vision for Bitcoin.
 
-Thought manipulators in BTC love to name drop thinkers like Rothbard and Mises and Hayek to justify this point, and one book in particular they say is a must read is Rothbard's *[What Has Governnment Done to Our Money?](https://amzn.to/2TGoCkX)* 
+One I’ve written about the last two days is the idea of Bitcoin as digital gold, a 'store of value' as opposed a medium of exchange, which is just about the most pernicious economic myth in Bitcoin today.
 
-The Nakamoto Institute, which is run by the most [redacted bit that is unfit for print], even hosts a free copy on their website, but you should click my [Amazon affiliate link]((https://amzn.to/2TGoCkX)) and buy a hard copy.
+Thought manipulators in BTC love to name drop books from thinkers like Rothbard and Mises and Hayek to justify this point, and one book in particular they say is a must read is Rothbard's *[What Has Governnment Done to Our Money?](https://amzn.to/2TGoCkX)* 
 
-It’s a [book](https://amzn.to/2TGoCkX) I hadn't read since 8th or 9th grade but it really informed a lot of my thinking on monetary questions. Whenever I've seen this book mentioned in support of the 'digital gold as store of value' idea, I’ve always thought that I don’t remember taking away the same points from the book that the small-block Bitcoiners have.
+The Nakamoto Institute, which is run by the most [redacted bit that is unfit for print], even hosts a free copy on their website, but you should click my [Amazon affiliate link]((https://amzn.to/2TGoCkX)) and buy a hard copy because as we'll see, nobody is reading their free one.
+
+It’s a [book](https://amzn.to/2TGoCkX) I hadn't read since 8th or 9th grade but it really informed a lot of my thinking on monetary questions. Whenever I've seen this book mentioned in support of the 'digital gold as store of value' idea, I’ve always thought that I don’t remember taking away the same points from the book that the small-block Bitcoiners have taken away from it.
 
 Well, this evening I had a bit of gin and sat down to reread it and was I amazed at how much they have bastardized Rothbard's incredible [work!](https://amzn.to/2TGoCkX) I have to assume they have never read it, because it's not a minor point here or there that they've missed, it's the entire point.
 
@@ -38,9 +40,9 @@ Rothbard actually argues the opposite of what they claim. If this is too dense f
 1. The one function of money is to be a medium of exchange. Anything else, such as 'store of value,' is a secondary function.
 2. The reason gold functioned as an effective store of value for the future is because of the properties that make it a marketable medium of exchange now.
 
-I don’t know about you but in my ideal contractual voluntarist society the people who argue that Bitcoin only needs to be a store of value might be contractually bound to be publicly flogged for the economics blasphemies they’ve committed in this book's name.
+I don’t know about you but in my ideal contractual voluntarist society the people who argue that Bitcoin only needs to be a store of value might be contractually bound to be publicly flogged for the economic blasphemies they’ve committed in this book's name! I only joke!
 
-Let's look at a few more selections from Rothbard's book. Keep in mind that to Rothbard, gold was the ideal form of money, and this book argues for gold.
+Let's look at a few more selections from Rothbard's book. Keep in mind that to Rothbard, gold was the ideal form of money.
 
 > [Money’s] function is to act as a medium of exchanges—to enable goods and services to travel more expeditiously from one person to another. 
 
@@ -54,7 +56,11 @@ Here's another quote from the book.
 
 In other words, if a form of money is not acceptable by all because it is, for example, too expensive to use for most daily transactions or to divide into smaller pieces, it's not good money. It's not as marketable as a money that is, as Rothbard writes in the same section, "more divisible into smaller units..." and "more transportable over large distances." 
 
+This has important implications for how we understand the different forks of Bitcoin then.
+
 ## The real digital gold
+
+
 
 ### Relevant books
 
