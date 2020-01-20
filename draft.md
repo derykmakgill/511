@@ -5,7 +5,7 @@ title: Crypto-Austrianism and Digital Gold
 
 I’ve been thinking a lot about how nobody knows anything about Austrian economics in Bitcoin, and I think at least one of the reasons comes down to this.
 
-People like to name drop Austrian economists. *Name drop.* Not read. That would require work and comes with no immediate social validation on Twitter or conference speaking gigs. It’s not that everyone is stupid, though there is plenty of that to go around, it’s that they have realized they can get the social benefit of being seen as having economic insight while being totally ignorant of the actual facts.
+**People like to name drop Austrian economists.** *Name drop.* Not read. That would require work and comes with no immediate social validation on Twitter or conference speaking gigs. It’s not that everyone is stupid, though there is plenty of that to go around, it’s that they have realized they can get the social benefit of being seen as having economic insight while being totally ignorant of the actual facts.
 
 This became totally clear to me in September 2018 when I was on the famous cruise in Barcelona where Roger Ver was set up in a fixed debate by Jimmy Song. I realized listening to Jimmy that, while he loved to talk about Austrian economics, he had never actually read anything from that school of thought.[^1] Just like he was playing dress up as a cowboy, he was playing intellectual dress up as an economic thinker by dropping a few names and terms here and there.
 
