@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Ideal' block size and fee cost
-
+---
 Dan Held writes in his latest [Medium post:](https://medium.com/the-bitcoin-times/information-theory-of-money-36247aebdfe1)
 
 >  A decentralized economy complements the dispersed nature of information spread throughout society. Each company is an attempt to take the local knowledge that it has and create a good or service that ultimately is the correct capital allocation (aka profit). This is correct, which makes me think he must not understand it very much, because Held also supports the centrally planned block size limit in BTC rather than a market in Bitcoin for transaction fee prices and block size.
