@@ -1,0 +1,21 @@
+---
+layout: post
+title: BTC's economic road to confiscation
+---
+
+The economic roadmap of BTC could lead to widespread coin confiscation by banks or government.
+
+It is not difficult to understand this, especially because many in Bitcoin have already given us most of the answer. Here is [Saifedean Ammous](https://twitter.com/derykmakgill/status/1174836789787406336) explaining the eventual outcome of BTC’s two layer scaling model.
+
+> We'd end up with somewhere between 1k to 100k node operators acting as central banks. And those are the only people who get to make on-chain (Bitcoin) transactions...everybody else does second layer.
+
+BTC’s centrally planned high fees mean that at scale, nobody except a small handful of institutions will be able to afford to make on-chain transactions. This is not conspiracy theorizing, it is economics. The average person simply cannot afford to pay on-chain fees in the high tens, hundreds, or even thousands of dollars to transact on-chain or to open second-layer channels. Transacting on-chain will have to be outsourced.
+
+It is easy to forget this because 1) fees are not nearly as high as they will be in the future at any sort of scale, 2) nobody uses BTC anyways these days, and 3) most of the people using BTC are making larger payments and can afford the higher fees, but this changes at scale when you have normal people adopting Bitcoin.
+
+Following the BTC roadmap, most people will live and die financially on the second layer only. They will acquire their first satoshis not on exchanges, but by getting paid on the second layer, which they won’t even know nor care is the second layer. If they ever want to affordably settle their funds on-chain, they will have to use one of these Bitcoin central banks that Saifedean is talking about in order to do it.
+
+Saifedean is right for once about Bitcoin, and anyone in BTC should be terrified at the mess that has been made of the protocol. "Be your own bank" doesn't work when fees are so high nobody but banks can afford to use Bitcoin on-chain. But Saifedean ignores what happens next. 
+
+With settlement on-chain managed only by the select group of large institutions who can afford it, we now have the perfect attack vector for a nefarious corporate cabal like Blockstream or the government to begin confiscation of on-chain funds from anyone but the select few who can still afford to keep their own keys. This means the majority of the global population, assuming Bitcoin was that widely adopted.
+
