@@ -28,13 +28,13 @@ B. Users want to get the cheapest and fastest deal on block space possible.
 
 C. Both parties know their own interests better than any developer could sitting outside of their exchange. 
 
-If blocks are too big, miners might assume necessary cost and risk, or cause security or synching issues with the broader market of businesses involved in Bitcoin running their own nodes. If blocks are too small, miners limit their profitability and the potential growth of the network. If fees are too low, miners can’t make money. If fees are too high, miners won’t make much money either because users will simply stop transacting. 
+If blocks are too big, miners might assume unnecessary cost and risk, or cause security or synching issues with the broader market of businesses involved in Bitcoin running their own nodes. If blocks are too small, miners limit their profitability and the potential growth of the network. If fees are too low, miners can’t make money. If fees are too high, miners won’t make much money either because users will simply stop transacting. 
 
-Somewhere in between the needs of the miner and the user, there is an answer to the ideal transaction fee and the ideal block size. There may be some problems here and there, but this is the only way these questions can be decided if we want the network to scale globally.
+Somewhere in between the needs of the miner and the user, there is an answer to the ideal transaction fee and the ideal block size. Neither too big or small, nor too cheap or too expensive. There may be some problems here and there, but this is the only way these questions can be decided if we want the network to scale globally.
 
 In BTC, we can’t even know the answer because because the limits imposed by Core developers prevent this discovery process from happening. Until they are removed, BTC will continue to struggle growing, because [artificial limits on scaling create artificial limits on demand potential.](http://breakingsatoshi.com/2020/01/17/btc-price-cap/)
 
-The opportunity for a Bitcoin free from production quotas, price fixing, and developer committees has never been better. The fork of Bitcoin that wins mass adoption will be the one that recognises that there is no ideal transaction fee and no ideal block size. There is only the market and economic actors in that market.
+The opportunity for a Bitcoin free from production quotas, price fixing, and developer committees has never been better. The fork of Bitcoin that wins mass adoption will be the one that recognises that there is no ideal transaction fee and no ideal block size. There is only the market and economic actors in that market making rational, self-interested decisions.
 
 ### Relevant Books
 
