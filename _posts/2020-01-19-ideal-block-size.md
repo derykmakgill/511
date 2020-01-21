@@ -30,4 +30,4 @@ Somewhere in between the needs of the miner and the user, there is an answer to 
 
 Until they are removed, BTC will continue to struggle growing, because [artificial limits on scaling create artificial limits on demand potential.](http://breakingsatoshi.com/2020/01/17/btc-price-cap/)
 
-The fork of Bitcoin that wins mass adoption will be the one that recognises that there is no ideal transaction fee and no ideal block size. There is only the market and economic actors in those markets.
+The fork of Bitcoin that wins mass adoption will be the one that recognises that there is no ideal transaction fee and no ideal block size. There is only the market and economic actors in that market.
