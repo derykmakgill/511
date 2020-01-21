@@ -6,7 +6,7 @@ author: Deryk Makgill
 
 Dan Held writes in his latest [Medium post:](https://medium.com/the-bitcoin-times/information-theory-of-money-36247aebdfe1)
 
->  A decentralized economy complements the dispersed nature of information spread throughout society. Each company is an attempt to take the local knowledge that it has and create a good or service that ultimately is the correct capital allocation (aka profit). 
+> A decentralized economy complements the dispersed nature of information spread throughout society. Each company is an attempt to take the local knowledge that it has and create a good or service that ultimately is the correct capital allocation (aka profit). 
 
 This is correct, which makes me think he must not understand the point he's trying to make very much and found the quote on Goodreads, because Held also argues that Bitcoin developers must impose production quotas on block space in order to maintain an ideal block size in Bitcoin and ensure miner profitability and network security.
 
