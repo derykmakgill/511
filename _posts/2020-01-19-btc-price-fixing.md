@@ -1,19 +1,33 @@
 ---
 layout: post
-title: Ideal block size and fee cost
+title: What is the ideal block size and fee cost?
 author: Deryk Makgill
 ---
 
 Dan Held writes in his latest [Medium post:](https://medium.com/the-bitcoin-times/information-theory-of-money-36247aebdfe1)
 
->  A decentralized economy complements the dispersed nature of information spread throughout society. Each company is an attempt to take the local knowledge that it has and create a good or service that ultimately is the correct capital allocation (aka profit). This is correct, which makes me think he must not understand it very much, because Held also supports the centrally planned block size limit in BTC rather than a market in Bitcoin for transaction fee prices and block size.
+>  A decentralized economy complements the dispersed nature of information spread throughout society. Each company is an attempt to take the local knowledge that it has and create a good or service that ultimately is the correct capital allocation (aka profit). 
 
-Held and others argue that a production quota on block space is necessary in order to, among other things, keep transaction fees high and ensure miner profitability. But price fixing like this breaks Bitcoin for the same reason any form of price fixing doesn’t work. It distorts the local information economic actors have that would allow them to properly allocate their own capital and energy. 
+This is correct, which makes me think he must not understand it very much, because Held and others argue that the ideal block size of Bitcoin is 1mb and that a production quota on block space is necessary in order to keep transaction fees high and ensure miner profitability. 
 
-A market can work instead to govern block sizes and transaction fees better than a group of developers. All that is necessary is to remove the arbitrary limits imposed by developers and to allow transactors on the network and miners to work out the cost of fees and the “ideal” size of the blocks themselves.
+But price fixing like this breaks Bitcoin for the same reason any form of price fixing doesn’t work. It distorts the local information economic actors have that would allow them to properly allocate their own capital and energy, the same information Dan appears to be talking about in his post.
 
-It works something like this. Miners want to make the most money off of fees possible while reducing risk and cost of doing business. Users want to get the cheapest and fastest deal on block space possible. Both parties know their own interests best than any developer could sitting outside of their exchange. If blocks are too big, miners might assume necessary cost and risk, or cause issues with the broader market of businesses involved in Bitcoin running their own nodes. If blocks are too small, miners limit their profitability and the potential growth of the network. If fees are too low, miners can’t make money. If fees are too high, miners won’t make much money either because users will simply stop transacting. 
+The pathetic result of this central planning of block space is the mempool bloat we saw in 2017 that effectively plunged BTC into a two year dark age of stagnating prices and regressing adoption.
 
-Somewhere between the needs of the miner and the user, there is an answer to the ideal transaction fee and the ideal block size, but we can’t know what this is in BTC because the answer has been decided in advance for us by the limits imposed by Core developers.
+A market can work instead to govern block sizes and transaction fees better than a group of developers. We don't need to know the ideal block size or the ideal transaction fees in advance, or even worry about it, the market will tell us. All that is necessary is to remove the arbitrary limits imposed by developers and to allow transactors on the network and miners to work out the cost of fees and the “ideal” size of the blocks themselves.
+
+It works something like this. 
+
+A. Miners want to make the most money off of fees possible while reducing risk and cost of doing business. 
+
+B. Users want to get the cheapest and fastest deal on block space possible. 
+
+C. Both parties know their own interests better than any developer could sitting outside of their exchange. 
+
+If blocks are too big, miners might assume necessary cost and risk, or cause issues with the broader market of businesses involved in Bitcoin running their own nodes. If blocks are too small, miners limit their profitability and the potential growth of the network. If fees are too low, miners can’t make money. If fees are too high, miners won’t make much money either because users will simply stop transacting. 
+
+Somewhere in between the needs of the miner and the user, there is an answer to the ideal transaction fee and the ideal block size, but we can’t know what this is in BTC because the answer has been decided in advance for us by the limits imposed by Core developers.
 
 Until they are removed, BTC will continue to struggle growing, because [artificial limits on scaling create artificial limits on demand potential.](http://breakingsatoshi.com/2020/01/17/btc-price-cap/)
+
+The fork of Bitcoin that wins mass adoption will be the one that recognises that there is no ideal transaction fee and no ideal block size. There is only markets and economic actors in those markets.
