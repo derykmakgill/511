@@ -8,7 +8,7 @@ Dan Held writes in his latest [Medium post:](https://medium.com/the-bitcoin-time
 
 >  A decentralized economy complements the dispersed nature of information spread throughout society. Each company is an attempt to take the local knowledge that it has and create a good or service that ultimately is the correct capital allocation (aka profit). 
 
-This is correct, which makes me think he must not understand it very much, because Held and others argue that the ideal block size of Bitcoin is 1mb and that a production quota on block space is necessary in order to keep transaction fees high and ensure miner profitability. 
+This is correct, which makes me think he must not understand it very much, because Held and others argue that developers must impose production quotas to maintain an ideal block size in Bitcoin, 1mb, in order to ensure miner profitability.
 
 But price fixing like this breaks Bitcoin for the same reason any form of price fixing doesn’t work. It distorts the local information economic actors have that would allow them to properly allocate their own capital and energy, the same information Dan appears to be talking about in his post.
 
