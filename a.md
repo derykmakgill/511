@@ -9,20 +9,6 @@ I’ve been thinking a lot about how nobody knows anything about Austrian econom
 
 This became clear to me in September 2018 when I was on the famous [cruise in Barcelona](https://www.youtube.com/watch?v=tkvZoaVHQV0) where Roger Ver was [set up](https://twitter.com/derykmakgill/status/1039113140833792000) in a fixed debate by Jimmy Song. I realized listening to Jimmy that, while he loved to talk about Austrian economics, he had no clue what he was talking about and probably hadn't even read any Austrian economics books.[^1] Just like he was playing dress up as a silly cowboy, he was playing intellectual dress up as an economic thinker.
 
-Ironically, this particular form of charlatanry was given roundhouse condemnation by the great Austrian economist Murray Rothbard, who we will talk more about in a moment, who said:
-
-> It is no crime to be ignorant of economics, which is, after all, a specialized discipline and one that most people consider to be a ‘dismal science.’ But it is totally irresponsible to have a loud and vociferous opinion on economic subjects while remaining in this state of ignorance.
-
-And Jimmy is no exception, he’s the norm. The BTC community is an echo chamber of false economic opinions backed by social reward, not real study.
-
-Websites like Ministry of Nodes [even warn people](https://twitter.com/derykmakgill/status/1219368797225865217?s=20) not to read certain things because you might be convinced of something that doesn't align with the party dogma in BTC today. 
-
-Thanks to people like this, Bitcoin is now crippled because of absolutely horrible economic thought masquerading as "Austrian" economics. [^2]
-
-## Breaking the fallacies, one at a time
-
-Breaking Satoshi is all about exposing these fallacies that have led to the ‘breaking’ of Satoshi’s vision for Bitcoin.
-
 The most annoying economic myth in Bitcoin today is the idea of Bitcoin as digital gold, a 'store of value,' as opposed to a medium of exchange. [^3]
 
 Thought manipulators in BTC name drop books from thinkers like Rothbard, Mises and Hayek to validate this point, and one book in particular they use is Rothbard's *[What Has Governnment Done to Our Money?](https://amzn.to/2TGoCkX)* 
