@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Ideal' block size and fee cost
+title: Ideal block size and fee cost
 ---
 
 Dan Held writes in his latest [Medium post:](https://medium.com/the-bitcoin-times/information-theory-of-money-36247aebdfe1)
