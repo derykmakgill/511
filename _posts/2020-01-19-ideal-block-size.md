@@ -10,7 +10,7 @@ Dan Held writes in his latest [Medium post:](https://medium.com/the-bitcoin-time
 
 This is correct, which makes me think he must not understand the point he's trying to make very much and found the quote on Goodreads, because Held also argues that Bitcoin developers must impose production quotas on block space in order to maintain an ideal block size in Bitcoin and ensure miner profitability and network security.
 
-But price fixing like this breaks Bitcoin for the same reason any form of price fixing doesn’t work. It distorts the local information economic actors have that would allow them to properly allocate their own capital and energy. This often leads to an overproduction of a particular economic good and an underproduction of another, or, shortages and bloat.
+Price fixing like this breaks Bitcoin for the same reason any form of price fixing doesn’t work. It distorts the local information economic actors have that would allow them to properly allocate their own capital and energy. This often leads to an overproduction of a particular economic good and an underproduction of another, or, shortages and bloat.
 
 In Bitcoin, the result of this central planning of block space are externalities like the mempool clogs we saw in 2017 that effectively plunged BTC into a two year dark age of stagnating prices and regressing merchant adoption. It was the predictable outcome of a tiny developer committee overprioritizing 'security' instead of letting the whole market work out exactly how much security is really needed to protect the network while allowing fees to remain low enough for users and merchants to continue using Bitcoin as peer-to-peer eleectronic cash.
 
