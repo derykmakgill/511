@@ -20,7 +20,7 @@ This is how Bitcoin was designed, markets, not developer cartels making decision
 
 > A centrally planned economy could never match the efficiency of the open market because what is known by a single agent is only a small fraction of the sum total of knowledge held by all members of society
 
-It works in Bitcoin something like this. 
+It works in Bitcoin like this. 
 
 A. Miners want to make the most money off of fees possible while reducing risk and cost of doing business. 
 
