@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Ideal block size and fee cost
+author: Deryk Makgill
 ---
 
 Dan Held writes in his latest [Medium post:](https://medium.com/the-bitcoin-times/information-theory-of-money-36247aebdfe1)
