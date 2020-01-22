@@ -13,8 +13,8 @@ As it is, we lost the first round, but I think we can still win in the end if we
 
 Let’s think about Bitcoin’s security model and the indirect consequences of high fees on the network, with these two caveats.
 
-1. I mean high fees in a very specific sense—not high fees as such, but centrally planned high fees by design, the kind that exist on BTC today about which we hear so many shallow wisecracks like ‘use Visa’ and ‘Bitcoin is not for coffee.’ Fee markets are not bad, and we should never have granted that term to Core, who, contrary to creating a fee market, are price fixing through centrally planned production quotas on block space. That is not a market. 
-2. I am just going to assume people are correct when they say we need more people to run nodes, not because I agree, but because we can crush that argument anyway even under that false premise.
+- I mean high fees in a very specific sense—not high fees as such, but centrally planned high fees by design, the kind that exist on BTC today about which we hear so many jokes like ‘use Visa’ and ‘Bitcoin is not for coffee.’ Fee markets are not bad, and we should never have granted that term to Core, who, contrary to creating a fee market, are price fixing through centrally planned production quotas on block space. That is not a market. 
+- I am just going to assume people are correct when they say we need more people to run nodes, not because I agree, but because we can crush that argument anyway even under that false premise.
 
 And remember, we’re looking at the long range consequences of a given policy, not just the immediate effects. We’ll see that the security model of BTC serves a purpose almost entirely contrary to the expressed intentions.
 
