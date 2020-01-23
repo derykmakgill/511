@@ -14,7 +14,7 @@ It's been difficult because I think it was not clear from the article exactly wh
 
 - **It's not a tax. It's not coercive.** I was surprised to see so many people blur the distinction between a tax and a service fee, which is effectively what this is. The miners in question, if they have majority hash, have decided that they will not spend time, energy or money to mine the blocks of miners who do not want to pay extra for it. That's their choice. There's nothing coercive about this. They are not obligated to do business with anyone or to mine their blocks if they can't agree to proper terms.
 
-- **Miners choose.** This is how Bitcoin works, and I thought more people in Bitcoin Cash understood this and its full implications.
+- **Miners choose.** This is how Bitcoin works, and I thought more people in Bitcoin Cash understood this and its full implications. It's is not "being forced on the chain." It is not a "corporate takeover."
 
 - **I don't agree with the statement in the AMA that developers will set the agenda.** I had hoped the development agenda would be set by profit-seeking miners who give funds to developers for the specific projects miners have decided are worth investing in. I'm worried this could easily turn into a slush-fund boondoggle for developers, a sort of universal basic income for them that gives them more leeway to turn Bitcoin Cash into science project instead of the tight leash and collar with clear success metrics it should be. 
 
