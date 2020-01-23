@@ -14,11 +14,11 @@ It's been difficult because I think it was not clear from the article exactly wh
 
 - **It's not a tax. It's not coercive.** I was surprised to see so many people blur the distinction between a tax and a service fee, which is effectively what this is. The miners in question, if they have majority hash, have decided that they will not spend time, energy or money to mine the blocks of miners who do not want to pay extra for it. That's their choice. There's nothing coercive about this. They are not obligated to do business with anyone or to mine their blocks if they can't agree to proper terms.
 
-- **Miners choose.** This is how Bitcoin works, and I thought more people in Bitcoin Cash understood this.
+- **Miners choose.** This is how Bitcoin works, and I thought more people in Bitcoin Cash understood this and its full implications.
 
 - **I don't agree with the statement in the AMA that developers will set the agenda.** I had hoped the development agenda would be set by profit-seeking miners who give funds to developers for the specific projects miners have decided are worth investing in. I'm worried this could easily turn into a slush-fund boondoggle for developers, a sort of universal basic income for them that gives them more leeway to turn Bitcoin Cash into science project instead of the tight leash and collar with clear success metrics it should be. 
 
-- **I don't agree with the statement in the AMA that most of the funds will be "general donations."** I don't think forking over a pot of money and then saying "figure out something useful to do" is a very smart way to get useful things done. The money should come with very clear goals and timelines.
+- **I don't agree with the statement in the AMA that most of the funds will be "general donations."** I don't think forking over a pot of money and then saying "figure out something useful to do" is a very smart way to get useful things done. This seems to be a recipe for the kind of money grubbing and inefficiencies you see in D.C. non-profits and grad-school programs. The money should come with very clear goals, timelines and specific financial incentives. Maybe that will happen as the details are more developed.
 
 - **I would rather see one of the major businesses or miners completely absorb ABC as their employees or start their own node implementation.**  This still feels a bit too non-profity for me, too churchy. That might change as new details are hashed out.
 
@@ -29,6 +29,8 @@ It's been difficult because I think it was not clear from the article exactly wh
 - **Everybody won't be happy. That's okay.** For months we've heard ad nauseum that if the big players in BCH don't fund developers, they are greedy bastards. When some of us proposed that miners start employing devs directly, people called it Blockstream 2.0. Now when a new plan is proposed, people call it an evil cartel. I wish miners would listen less to the mob and just seek profit.
 
 - **It looks like a temporary proposal.** If it doesn't work, then it shouldn't be a problem to correct course. The sky is not falling. Relax. I will be the first to cry bloody murder though if a protocol change is made to perpetually fund developers.
+
+- **The bottom line is Bitcoin Cash needs to grow up and get ready for the rest of the world.** If you want it to be a hobby coin for you and your friends on Telegram, keep going down the same path. But many of us want to see it grow beyond that and some stronger action from corporate players in BCH is the right idea. Nobody in the real world cares or should care about all of this inside baseball. Adapt or die.
 
 These are interesting times! No, I don't quite agree with everything I read in that article or saw in the AMA, but I think the basic idea of miners asserting a more executive role in BCH is a good one. 
 
