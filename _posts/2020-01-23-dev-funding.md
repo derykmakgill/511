@@ -20,7 +20,7 @@ It's been difficult because I think it was not clear from the article exactly wh
 
 - **I don't agree with the statement in the AMA that most of the funds will be "general donations."** I don't think forking over a pot of money and then saying "figure out something useful to do" is a very smart way to get useful things done. This seems to be a recipe for the kind of money grubbing and inefficiencies you see in D.C. non-profits and grad-school programs. The money should come with very clear goals, timelines and specific financial incentives. Maybe that will happen as the details are more developed.
 
-- **I would rather see one of the major businesses or miners completely absorb ABC as their employees or start their own node implementation.**  This still feels a bit too non-profity for me, too churchy. That might change as new details are hashed out.
+- **I would rather see one of the major businesses or miners completely absorb ABC as their employees or start their own node implementation.**  This still feels a bit too non-profity for me, too churchy. I don't want it to end up as some community fund that miners vote on, or as some sort of smart contract that pays out to devs. That might change as new details are hashed out so take all these concerns with a grain of salt.
 
 - **"[How will the Hong Kong coorporations be held accountable to the community](https://read.cash/@Jake/some-thoughts-questions-on-jiang-zhuoers-miner-funding-announcement-84549728)" is the wrong question.** It is not "community" money. It is miner money being made available for a very specific purpose. I'm not convinced they need to be transparent anymore than any normal business should be transparent.
 
