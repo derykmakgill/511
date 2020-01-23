@@ -26,6 +26,8 @@ It's been difficult because I think it was not clear from the article exactly wh
 
 - **"...it doesn’t change the fact this plan has a giant “trust us” stuck to it currently."** I don't understand complaints like this. It is not 'our' money and never will be. It is miner money. They're free to make the choices they want with the money they're mining. They don't need to ask us to trust them. 
 
+- **Can this even be enforced?** Do the miners in question have a majority hash rate to do this? I don't know. It sounds like that will depend on the percentage of the unidentified hash on the network.
+
 - **"[How will the Hong Kong coorporations be held accountable to the community](https://read.cash/@Jake/some-thoughts-questions-on-jiang-zhuoers-miner-funding-announcement-84549728)" is the wrong question.** It is not "community" money. It is miner money being made available for a very specific purpose. I'm not convinced they need to be transparent anymore than any normal business should be transparent.
 
 - **I would also be very skeptical of any proposal to appoint some kind of independent board to manage or advise on the distribution of funds.** I think this only works if miners themselves set the agenda and give funding according to that agenda. When I see the ABC dev proposing that a group of ["trusted commmunity members"](https://read.cash/@deadalnix/on-the-infrastructure-funding-plan-for-bitcoin-cash-bd372a10) help with the funds, I get very scared, because they will be in the position of advising on the distribution of money that is not theirs.
