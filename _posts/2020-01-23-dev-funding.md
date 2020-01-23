@@ -32,4 +32,4 @@ It's been difficult because I think it was not clear from the article exactly wh
 
 These are interesting times! No, I don't quite agree with everything I read in that article or saw in the AMA, but I think the basic idea of miners asserting a more executive role in BCH is a good one. 
 
-
+Let's see how it plays out in practice.
