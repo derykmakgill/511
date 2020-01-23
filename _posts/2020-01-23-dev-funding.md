@@ -26,7 +26,7 @@ It's been difficult because I think it was not clear from the article exactly wh
 
 - **The scheme for playing the hashrate dynamics between BTC and BCH seems clever at first glance.** I'm curious whether or not it will work in practice and whether or not there will be any unintended consequences.
 
-- **Everybody won't be happy. That's okay.* For months we've heard ad nauseum that if the big players in BCH don't fund developers, they are greedy bastards. When some of us proposed that miners start employing devs directly, people called it Blockstream 2.0. Now when a new plan is proposed, people call it an evil cartel. I wish miners would listen less to the mob and just seek profit.
+- **Everybody won't be happy. That's okay.** For months we've heard ad nauseum that if the big players in BCH don't fund developers, they are greedy bastards. When some of us proposed that miners start employing devs directly, people called it Blockstream 2.0. Now when a new plan is proposed, people call it an evil cartel. I wish miners would listen less to the mob and just seek profit.
 
 - **It looks like a temporary proposal.** If it doesn't work, then it shouldn't be a problem to correct course. The sky is not falling. Relax. I will be the first to cry bloody murder though if a protocol change is made to perpetually fund developers.
 
