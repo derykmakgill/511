@@ -14,7 +14,7 @@ It's been difficult because I think it was not clear from the article exactly wh
 
 - **It's not a tax. It's not coercive.** I was surprised to see so many people blur the distinction between a tax and a service fee, which is effectively what this is. The miners in question, if they have majority hash, have decided that they will not spend time, energy or money to mine the blocks of miners who do not want to pay extra for it. That's their choice. There's nothing coercive about this. They are not obligated to do business with anyone or to mine their blocks if they can't agree to proper terms.
 
-- **Miners choose.** This is how Bitcoin works, and I thought more people in Bitcoin Cash understood this and its full implications. It's is not "being forced on the chain." It is not a "corporate takeover."
+- **Miners choose.** This is how Bitcoin works, and I thought more people in Bitcoin Cash understood this and its full implications. It's is not "being forced on the chain." It is not a "corporate takeover," because Bitcoin was never designed to be anything but corporate long term.  
 
 - **I don't agree with the statement in the AMA that developers will set the agenda.** I had hoped the development agenda would be set by profit-seeking miners who give funds to developers for the specific projects miners have decided are worth investing in. I'm worried this could easily turn into a slush-fund boondoggle for developers, a sort of universal basic income for them that gives them more leeway to turn Bitcoin Cash into science project instead of the tight leash and collar with clear success metrics it should be. 
 
@@ -22,7 +22,9 @@ It's been difficult because I think it was not clear from the article exactly wh
 
 - **I would rather see one of the major businesses or miners completely absorb ABC as their employees or start their own node implementation.**  This still feels a bit too non-profity for me, too churchy. I don't want it to end up as some community fund that miners vote on, or as some sort of smart contract that pays out to devs. That might change as new details are hashed out so take all these concerns with a grain of salt.
 
-- **"[How will the Hong Kong coorporations be held accountable to the community](https://read.cash/@Jake/some-thoughts-questions-on-jiang-zhuoers-miner-funding-announcement-84549728)" is the wrong question.** It is not "community" money. It is miner money being made available for a very specific purpose. I'm not convinced they need to be transparent anymore than any normal business should be transparent.
+- **"...it doesn’t change the fact this plan has a giant “trust us” stuck to it currently."** I don't understand complaints like this. It is not 'our' money and never will be. It is miner money. They're free to make the choices they want with the money they're mining. They don't need to ask us to trust them. 
+
+- **"[How will the Hong Kong coorporations be held accountable to the community](https://read.cash/@Jake/some-thoughts-questions-on-jiang-zhuoers-miner-funding-announcement-84549728)" is the wrong question.** It is not "community" money. It is miner money being made available for a very specific purpose. I'm not convinced they need to be transparent anymore than any normal business should be transparent. 
 
 - **The scheme for playing the hashrate dynamics between BTC and BCH seems clever at first glance.** I'm curious whether or not it will work in practice and whether or not there will be any unintended consequences, but I think it's an interesting play to try to increase the difficulty on BTC right around the time of the halving.
 
