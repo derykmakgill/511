@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "WHY WASN'T I CONSULTED??" and other thoughts on the dev funding announcement
+title: Thoughts on the BCH dev funding announcement
 author: Deryk Makgill
 ---
 
