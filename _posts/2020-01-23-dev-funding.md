@@ -44,6 +44,6 @@ It's been difficult because I think it was not clear from the article exactly wh
 
 - **The bottom line is Bitcoin Cash needs to grow up and get ready for the rest of the world.** If you want it to be a hobby coin for you and your friends on Telegram, keep going down the same path. But many of us want to see it grow beyond that and some stronger action from corporate players in BCH is the right idea. Enough drama. Enough petty power jostling. Nobody in the real world cares or should care about all of this inside baseball. Adapt or die.
 
-These are interesting times! No, I don't quite agree with everything I read in that article or saw in the AMA, but I think the basic idea of miners asserting a more executive role in BCH is a good one so long as it is done in the right way.
+These are interesting times! No, I don't quite agree with everything I read in that article or saw in the AMA, but I think the basic idea of miners asserting a more executive role in BCH is a good one so long as it is done in the right way. That remains to be seen.
 
 Let's see how it plays out in practice.
