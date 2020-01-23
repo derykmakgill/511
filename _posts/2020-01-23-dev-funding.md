@@ -30,6 +30,8 @@ It's been difficult because I think it was not clear from the article exactly wh
 
 - **Everybody won't be happy. That's okay.** For months we've heard ad nauseum that if the big players in BCH don't fund developers, they are greedy bastards. When some of us proposed that miners start employing devs directly, people called it Blockstream 2.0. Now when a new plan is proposed, people call it an evil cartel. I wish miners would listen less to the mob and just seek profit.
 
+- **How is the 12.5% decided? How is timeline decided?** I need to think about this one but I'm wondering whether or not this is overly-planned and requires too much coordination and information from everyone. I guess we'll see in practice.
+
 - **It looks like a temporary proposal.** If it doesn't work, then it shouldn't be a problem to correct course. The sky is not falling. Relax. I will be the first to cry bloody murder though if a protocol change is made to perpetually fund developers.
 
 - **The bottom line is Bitcoin Cash needs to grow up and get ready for the rest of the world.** If you want it to be a hobby coin for you and your friends on Telegram, keep going down the same path. But many of us want to see it grow beyond that and some stronger action from corporate players in BCH is the right idea. Nobody in the real world cares or should care about all of this inside baseball. Adapt or die.
