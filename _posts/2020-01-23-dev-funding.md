@@ -40,9 +40,9 @@ It's been difficult because I think it was not clear from the article exactly wh
 
 - **How is the 12.5% decided? How is timeline decided?** I need to think about this one but I'm wondering whether or not this is overly-planned and requires too much coordination and information from everyone. I guess we'll see in practice.
 
-- **It looks like a temporary proposal.** If it doesn't work, then it shouldn't be a problem to correct course. The sky is not falling. Relax. I will be the first to cry bloody murder though if a protocol change is made to perpetually fund developers.
+- **It looks like a temporary proposal.** If it doesn't work, then it shouldn't be a problem to correct course. The sky is not falling. Relax. I will be the first to cry bloody murder though if a protocol change is made to perpetually fund developers or if developers end up with control of the fund.
 
-- **The bottom line is Bitcoin Cash needs to grow up and get ready for the rest of the world.** If you want it to be a hobby coin for you and your friends on Telegram, keep going down the same path. But many of us want to see it grow beyond that and some stronger action from corporate players in BCH is the right idea. Nobody in the real world cares or should care about all of this inside baseball. Adapt or die.
+- **The bottom line is Bitcoin Cash needs to grow up and get ready for the rest of the world.** If you want it to be a hobby coin for you and your friends on Telegram, keep going down the same path. But many of us want to see it grow beyond that and some stronger action from corporate players in BCH is the right idea, if it is implemented correctly. Nobody in the real world cares or should care about all of this inside baseball. Adapt or die.
 
 These are interesting times! No, I don't quite agree with everything I read in that article or saw in the AMA, but I think the basic idea of miners asserting a more executive role in BCH is a good one. 
 
