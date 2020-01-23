@@ -4,7 +4,7 @@ title: Thoughts on the BCH dev funding announcement
 author: Deryk Makgill
 ---
 
-I've been trying to wrap my head around the Bitcoin Cash developer funding announcement and the various responses to it.
+I've been trying to wrap my head around the [Bitcoin Cash developer funding announcement](https://medium.com/@jiangzhuoer/infrastructure-funding-plan-for-bitcoin-cash-131fdcd2412e) and the various responses to it.
 
 It's been difficult because I think it was not clear from the article exactly what certain things meant, but I have some thoughts on it now, in a list in no particular order of importance.
 
