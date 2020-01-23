@@ -24,7 +24,7 @@ It's been difficult because I think it was not clear from the article exactly wh
 
 - **"[How will the Hong Kong coorporations be held accountable to the community](https://read.cash/@Jake/some-thoughts-questions-on-jiang-zhuoers-miner-funding-announcement-84549728)" is the wrong question.** It is not "community" money. It is miner money being made available for a very specific purpose. I'm not convinced they need to be transparent anymore than any normal business should be transparent.
 
-- **The scheme for playing the hashrate dynamics between BTC and BCH seems clever at first glance.** I'm curious whether or not it will work in practice and whether or not there will be any unintended consequences.
+- **The scheme for playing the hashrate dynamics between BTC and BCH seems clever at first glance.** I'm curious whether or not it will work in practice and whether or not there will be any unintended consequences, but I think it's an interesting play to try to increase the difficulty on BTC right around the time of the halving.
 
 - **Everybody won't be happy. That's okay.** For months we've heard ad nauseum that if the big players in BCH don't fund developers, they are greedy bastards. When some of us proposed that miners start employing devs directly, people called it Blockstream 2.0. Now when a new plan is proposed, people call it an evil cartel. I wish miners would listen less to the mob and just seek profit.
 
