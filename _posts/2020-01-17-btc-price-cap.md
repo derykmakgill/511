@@ -1,6 +1,6 @@
 ---
 layout: post
-title: BTC's artifical price ceiling
+title: BTC's artificial price ceiling
 author: Deryk Makgill
 summary: BTC likely has an entirely artifical cap on its price potential. Thanks Core!
 image: /blockstream.jpeg
