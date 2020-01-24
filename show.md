@@ -3,7 +3,7 @@ layout: page
 title: Episodes
 ---
 
-Below are the episodes from the irregular big-block Bitcoin show by Deryk Makgill (Breaking Satoshi), Steve Patterson, Isaac Morehouse and T.K. Coleman. 
+Below are the episodes from the irregular big-block Bitcoin show by Deryk Makgill (Breaking Satoshi), [Steve Patterson,](https://steve-patterson.com) [Isaac Morehouse](https://isaacmorehouse.com) and [T.K. Coleman.](https://tkcoleman.com)
 
 We're all friends and just want to see a version of big-block Bitcoin scale for the world, so the conversations are friendly, funny and drama free.
 
