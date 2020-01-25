@@ -21,6 +21,9 @@ We're all friends and just want to see a version of big-block Bitcoin scale for 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hEYQD_IXMpc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+<br>
+<hr><br>
+
 ### From our listeners...
 
 > These are some of my favorite conversations in the Bitcoin world. Would love to see more soon. 
@@ -31,3 +34,5 @@ We're all friends and just want to see a version of big-block Bitcoin scale for 
 
 > Good to hear some grown up talk by some younger guys.
 
+<br>
+<hr><br>
