@@ -34,5 +34,7 @@ We're all friends and just want to see a version of big-block Bitcoin scale for 
 
 > Good to hear some grown up talk by some younger guys.
 
+> This is brilliant guys! Mature and intelligent discussion. Educational for newcomers too. So needed in this crypto space.
+
 <br>
 <hr><br>
