@@ -15,3 +15,8 @@ You can also support the writing and research [here.](/support)
 
 ---
 
+## Advertise
+
+I only advertise products I like and use, but I love to do it, especially when if I'm getting paid! If you're interested in sponsoring particular articles, let's get in [touch.](/contact) Rates are totally negotiable and can be paid in BCH, BSV or...even...BTC.
+
+---
