@@ -36,6 +36,11 @@ Thus, our Bitcoin developers laugh and praise themselves and their wise planning
 
 But they are shortsighted. They are looking at the tree and not the forest, which they have poisoned by helping the one tree. They are only looking at what is immediately seen, but the good economist thinks long term into the future and thinks about the unseen consequences of any particular policy.
 
+
+## Second order effects
+
+Because our wise developers limited the block size in order to fix the price of nodes, they have now limited the number of economic actors who can participate in the network at any one time. 
+
 <figure style="max-width: 540px" class="side">
   <a href="https://www.gapingvoid.com/content/uploads/assets-old/ms2126-thumb.jpg" target="_blank">
     <img src="https://www.gapingvoid.com/content/uploads/assets-old/ms2126-thumb.jpg" loading="lazy">
@@ -49,11 +54,6 @@ The network is more valuable than the node...
     
   </figcaption>
 </figure>
-
-
-## Second order effects
-
-Because our wise developers limited the block size in order to fix the price of nodes, they have now limited the number of economic actors who can participate in the network at any one time. 
 
 Some businesses must stop accepting Bitcoin because it is not economical to do so. Fees are too high and transactions take too long. Possible use-cases go unrealised entirely because they are now impossible, and no new node is run as a result for that particular use-case. Less people participate in Bitcoin because they cannot afford to use it anymore, so there are less people to who have a reason to run a node.
 
