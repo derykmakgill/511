@@ -20,7 +20,7 @@ The immediately seen effects of price-fixing the cost of running a Bitcoin node 
 
 Thus, our Bitcoin developers laugh and praise themselves and their wise planning. They have secured Bitcoin! They have shown their knowledge!
 
-<figure style="max-width: 540px">
+<figure style="max-width: 540px" class="side">
   <a href="https://www.gapingvoid.com/content/uploads/assets-old/11444661534-thumb.jpg" target="_blank">
     <img src="https://www.gapingvoid.com/content/uploads/assets-old/11444661534-thumb.jpg" loading="lazy">
   </a>
