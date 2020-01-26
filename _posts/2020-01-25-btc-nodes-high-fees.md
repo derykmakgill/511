@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Nodes and high fees, the seen and unseen
+title: Effects of high Bitcoin fees on node count
 author: Deryk Makgill
 ---
 
