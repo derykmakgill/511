@@ -4,7 +4,7 @@ title: Nodes and high fees, the seen and unseen
 author: Deryk Makgill
 ---
 
-The argument is made in Bitcoin that nodes serve essential security functions and should be kept as cheap as possible to run by limiting the block size, even if transaction fees go up. Everybody should be able to run a node, not just businesses and corporations.
+The argument is made in the BTC fork of Bitcoin that nodes serve essential security functions and should be kept as cheap as possible to run by limiting the block size, even if transaction fees go up. Everybody should be able to run a node, not just businesses and corporations.
 
 The argument is also made that it is not the number of nodes that is important for security, but rather the number of nodes making economic decisions, or, making or receiving transactions on-chain.
 
