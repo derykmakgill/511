@@ -59,6 +59,8 @@ Some businesses must stop accepting Bitcoin because it is not economical to do s
 
 Our Bitcoin developers have turned what would have been an ocean of possible nodes to choose from into a small pond because they didn’t not think far enough into the future. And they say they are more secure!
 
+They do not see that the more economic actors in a network, the stronger that network will be.
+
 ## Third order effects
 
 Suppose transaction fees keep climbing on the Bitcoin network as the developers have designed in their infinite wisdom. What happens?
@@ -69,7 +71,22 @@ Our Silicon Valley investor wants to accept Bitcoin for his products and service
 
 Around the world, the story is the same. People begin using second-layer or custodial solutions to transact with Bitcoin because that is the only way it is affordable to use it. They can afford to run a node still, but they cannot afford to make economic decisions with it on-chain. Their nodes are useless for securing the network, so they don’t run them at all.
 
-Do you see what has happened? Our developers have killed the average person’s and business's incentive to run a Bitcoin node in order to keep the cost of running a node low!
+<figure style="max-width: 540px" class="side">
+  <a href="https://www.gapingvoid.com/blog/ms2124.jpg" target="_blank">
+    <img src="https://www.gapingvoid.com/blog/ms2124.jpg" loading="lazy">
+  </a>
+  <figcaption>
+People problems, not tech ones...
+    
+      <span class="image-credit">
+        <a href="https://www.gapingvoid.com/blog/ms2124.jpg" target="_blank">Gaping Void / People Problems</a>
+      </span>
+    
+  </figcaption>
+</figure>
+
+
+Do you see what has happened? By unbundling the cost of providing security (running a node) from the cost of using security (transacting), our developers have killed the average person’s and business's incentive to run a Bitcoin node. And they did all of this in order to keep the cost of running a node low so that more people could run them!
 
 ## Fourth order effects
 
