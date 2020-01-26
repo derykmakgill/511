@@ -29,3 +29,5 @@ A list of our recommended books that have helped us understand Bitcoin better.
 - Animal Farm by George Orwell
 - The Brother's Karamazov by Fyodor Dostoevsky (primarily The Grand Inquisitor chapter)
 - Atlas Shrugged by Ayn Rand (especially the [speech on money](https://www.capitalismmagazine.com/2002/08/franciscos-money-speech/))
+
+---
