@@ -36,6 +36,21 @@ Thus, our Bitcoin developers laugh and praise themselves and their wise planning
 
 But they are shortsighted. They are looking at the tree and not the forest, which they have poisoned by helping the one tree. They are only looking at what is immediately seen, but the good economist thinks long term into the future and thinks about the unseen consequences of any particular policy.
 
+<figure style="max-width: 540px" class="side">
+  <a href="https://www.gapingvoid.com/content/uploads/assets-old/ms2126-thumb.jpg" target="_blank">
+    <img src="https://www.gapingvoid.com/content/uploads/assets-old/ms2126-thumb.jpg" loading="lazy">
+  </a>
+  <figcaption>
+The network is more valuable than the node...
+    
+      <span class="image-credit">
+        <a href="https://www.gapingvoid.com/content/uploads/assets-old/ms2126-thumb.jpg" target="_blank">Gaping Void / Network</a>
+      </span>
+    
+  </figcaption>
+</figure>
+
+
 ## Second order effects
 
 Because our wise developers limited the block size in order to fix the price of nodes, they have now limited the number of economic actors who can participate in the network at any one time. 
