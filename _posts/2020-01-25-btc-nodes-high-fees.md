@@ -40,7 +40,7 @@ Our Silicon Valley investor wants to accept Bitcoin for his products and service
 
 Around the world, the story is the same. People begin using second-layer or custodial solutions to transact with Bitcoin because that is the only way it is affordable to use it. They can afford to run a node still, but they cannot afford to make economic decisions with it on-chain. Their nodes are useless for securing the network, so they don’t run them at all.
 
-Do you see what has happened? Our developers have killed the average person’s and businesses’ incentive to run a Bitcoin node in order to keep the cost of running a node low!
+Do you see what has happened? Our developers have killed the average person’s and business's incentive to run a Bitcoin node in order to keep the cost of running a node low!
 
 ## Fourth order effects
 
@@ -48,5 +48,14 @@ Since less and less people are using the Bitcoin chain, and more transactions ar
 
 Eventually, nodes are run only by large businesses, corporations, banks and governments, not because they are the only ones who can afford to run a node, but because they’re the only ones who can afford to make economic decisions on-chain with that node.
 
-We have in practice the same result the developers claimed they wanted to avoid, despite our developer theories to the contrary, only the consequences are much worse.
+As BTC 'economist' Saifedean Ammous explains, 
+
+> We'd end up with somewhere between 1k to 100k node operators acting as central banks. And those are the only people who get to make on-chain (Bitcoin) transactions...everybody else does second layer.
+
+We have in practice the result the developers claimed they wanted to avoid, despite our developer theories to the contrary. We have a small number of people making economic decisions with Bitcoin nodes.
+
+
+
+
+
 
