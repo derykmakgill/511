@@ -16,6 +16,10 @@ Yes, less secure, if nodes mean anything. Let’s look.
 
 ## First order effects
 
+The immediately seen effects of price-fixing the cost of running a Bitcoin node are an increase in the number of nodes on the Bitcoin network. So far we have no contradictions in the two arguments. The lower the price of running the node, the more people who can potentially run a node. Anyone from a Silicon Valley investor to a teenager in a small, rural village can afford to run it.
+
+Thus, our Bitcoin developers laugh and praise themselves and their wise planning. They have secured Bitcoin! They have shown their knowledge!
+
 <figure style="max-width: 540px">
   <a href="https://www.gapingvoid.com/content/uploads/assets-old/11444661534-thumb.jpg" target="_blank">
     <img src="https://www.gapingvoid.com/content/uploads/assets-old/11444661534-thumb.jpg" loading="lazy">
@@ -29,10 +33,6 @@ Yes, less secure, if nodes mean anything. Let’s look.
     
   </figcaption>
 </figure>
-
-The immediately seen effects of price-fixing the cost of running a Bitcoin node are an increase in the number of nodes on the Bitcoin network. So far we have no contradictions in the two arguments. The lower the price of running the node, the more people who can potentially run a node. Anyone from a Silicon Valley investor to a teenager in a small, rural village can afford to run it.
-
-Thus, our Bitcoin developers laugh and praise themselves and their wise planning. They have secured Bitcoin! They have shown their knowledge!
 
 But they are shortsighted. They are looking at the tree and not the forest, which they have poisoned by helping the one tree. They are only looking at what is immediately seen, but the good economist thinks long term into the future and thinks about the unseen consequences of any particular policy.
 
