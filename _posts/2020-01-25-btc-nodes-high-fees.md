@@ -59,7 +59,7 @@ Some businesses must stop accepting Bitcoin because it is not economical to do s
 
 Our Bitcoin developers have turned what would have been an ocean of possible nodes to choose from into a small pond because they didn’t not think far enough into the future. And they say they are more secure!
 
-They do not see that the more economic actors in a network, the stronger that network will be.
+They do not see that the more economic actors in a network, the stronger that network will be, and that more people means more nodes, even if those nodes cost more.
 
 ## Third order effects
 
@@ -96,7 +96,7 @@ Eventually, nodes are run only by large businesses, corporations, banks and gove
 
 We have in practice the result the developers claimed they wanted to avoid, despite our developer theories to the contrary. We have a small number of people making economic decisions with Bitcoin nodes, while the vast majority of people have no reason to run them or affordable way to make economic decisions with them.
 
-If the security of BTC depends upon these nodes, it might be in trouble.
+If the security of BTC depends upon these nodes like they say, it might be in trouble.
 
 
 
