@@ -30,4 +30,5 @@ A list of our recommended books that have helped us understand Bitcoin better.
 - [The Brother's Karamazov](https://amzn.to/3aJcG84) by Fyodor Dostoevsky (primarily The Grand Inquisitor chapter)
 - [Atlas Shrugged](https://amzn.to/2RSIL4u) by Ayn Rand (especially the [speech on money](https://www.capitalismmagazine.com/2002/08/franciscos-money-speech/))
 
+
 ---
