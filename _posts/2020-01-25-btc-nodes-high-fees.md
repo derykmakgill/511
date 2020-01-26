@@ -72,8 +72,8 @@ Our Silicon Valley investor wants to accept Bitcoin for his products and service
 Around the world, the story is the same. People begin using second-layer or custodial solutions to transact with Bitcoin because that is the only way it is affordable to use it. They can afford to run a node still, but they cannot afford to make economic decisions with it on-chain. Their nodes are useless for securing the network, so they don’t run them at all.
 
 <figure style="max-width: 540px" class="side">
-  <a href="https://www.gapingvoid.com/blog/ms2124.jpg" target="_blank">
-    <img src="https://www.gapingvoid.com/blog/ms2124.jpg" loading="lazy">
+  <a href="https://www.gapingvoid.com/content/uploads/assets-old/ms2124-thumb.jpg" target="_blank">
+    <img src="https://www.gapingvoid.com/content/uploads/assets-old/ms2124-thumb.jpg" loading="lazy">
   </a>
   <figcaption>
 People problems, not tech ones...
