@@ -94,11 +94,7 @@ Since less and less people are using the Bitcoin chain, and more transactions ar
 
 Eventually, nodes are run only by large businesses, corporations, banks and governments, not because they are the only ones who can afford to run a node, but because they’re the only ones who can afford to make economic decisions on-chain with that node.
 
-As BTC 'economist' Saifedean Ammous explains, 
-
-> We'd end up with somewhere between 1k to 100k node operators acting as central banks. And those are the only people who get to make on-chain (Bitcoin) transactions...everybody else does second layer.
-
-We have in practice the result the developers claimed they wanted to avoid, despite our developer theories to the contrary. We have a small number of people making economic decisions with Bitcoin nodes.
+We have in practice the result the developers claimed they wanted to avoid, despite our developer theories to the contrary. We have a small number of people making economic decisions with Bitcoin nodes, while the vast majority of people have no reason to run them or affordable way to make economic decisions with them.
 
 If the security of BTC depends upon these nodes, it might be in trouble.
 
