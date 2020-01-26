@@ -54,7 +54,7 @@ As BTC 'economist' Saifedean Ammous explains,
 
 We have in practice the result the developers claimed they wanted to avoid, despite our developer theories to the contrary. We have a small number of people making economic decisions with Bitcoin nodes.
 
-
+If the security of BTC depends upon these nodes, it might be in trouble.
 
 
 
