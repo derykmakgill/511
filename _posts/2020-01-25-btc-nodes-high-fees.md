@@ -6,7 +6,7 @@ author: Deryk Makgill
 
 The argument is made in the BTC fork of Bitcoin that nodes serve essential security functions and should be kept as cheap as possible to run by limiting the block size, even if transaction fees go up. Everybody should be able to run a node, not just businesses and corporations.
 
-The argument is also made that it is not the number of nodes that is important for security, but rather the number of nodes making economic decisions, or, making or receiving transactions on-chain.
+The argument is also made that it is not the number of nodes that is important for security, but rather the number of nodes making economic decisions—making or receiving transactions on-chain.
 
 By looking at the second, third and fourth order effects of these positions, and not just the immediately perceivable results, we can see that these two arguments contradict each other, and that in fact high fees make the network less secure at scale insofar as nodes do anything for security.
 
