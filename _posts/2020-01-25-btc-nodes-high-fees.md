@@ -16,6 +16,20 @@ Yes, less secure, if nodes mean anything. Let’s look.
 
 ## First order effects
 
+<figure style="max-width: 540px">
+  <a href="https://www.gapingvoid.com/content/uploads/assets-old/11444661534-thumb.jpg" target="_blank">
+    <img src="https://www.gapingvoid.com/content/uploads/assets-old/11444661534-thumb.jpg" loading="lazy">
+  </a>
+  <figcaption>
+    But it looks good on paper...
+    
+      <span class="image-credit">
+        <a href="https://www.gapingvoid.com/content/uploads/assets-old/11444661534-thumb.jpg" target="_blank">Gaping Void / Paper</a>
+      </span>
+    
+  </figcaption>
+</figure>
+
 The immediately seen effects of price-fixing the cost of running a Bitcoin node are an increase in the number of nodes on the Bitcoin network. So far we have no contradictions in the two arguments. The lower the price of running the node, the more people who can potentially run a node. Anyone from a Silicon Valley investor to a teenager in a small, rural village can afford to run it.
 
 Thus, our Bitcoin developers laugh and praise themselves and their wise planning. They have secured Bitcoin! They have shown their knowledge!
