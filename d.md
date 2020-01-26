@@ -3,9 +3,10 @@ layout: post
 title: Security risks of high Bitcoin fees
 ---
 
-Henry *Hazlitt’s Economics in One Lesson* ought to be required reading for everyone making decisions in Bitcoin. There’s a particular quote I try to keep in my mind at all times when I think about Bitcoin.
+Henry *Hazlitt’s Economics in One Lesson* ought to be required reading for everyone making decisions in Bitcoin. There’s a particular quote I try to keep in my mind at all times when I think about Bitcoin. {: .blue}
 
 > The bad economist sees only what immediately strikes the eye; the good economist also looks beyond. The bad economist sees only the direct consequences of a proposed course; the good economist looks also at the longer and indirect consequences. 
+{: .blue}
 
 I think if more people thought like this about Bitcoin’s security model, we would never have allowed the block size debates to occur. The Blockstream cabal may still have tried to take over the network, but enough people would have been able to see through their arguments about the security necessity of keeping node costs low or driving fees high that they would not have had any real power to cripple they network for their own financial gain.
 
