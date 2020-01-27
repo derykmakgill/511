@@ -57,7 +57,7 @@ The network is more valuable than the node...
 
 Some businesses must stop accepting Bitcoin because it is not economical to do so. Fees are too high and transactions take too long. Possible use-cases go unrealised entirely because they are now impossible, and no new node is run as a result for that particular use-case. Less people participate in Bitcoin because they cannot afford to use it anymore, so there are less people who have a reason to run a node.
 
-Our Bitcoin developers have turned what would have been an ocean of possible nodes to choose from into a small pond because they didn’t not think far enough into the future. And they say they are more secure!
+Our Bitcoin developers have turned what would have been an ocean of possible nodes to choose from into a small pond because they didn’t think far enough into the future. And they say they are more secure!
 
 They do not see that the more economic actors in a network, the stronger that network will be, and that more people means more nodes, even if those nodes cost more.
 
