@@ -86,7 +86,7 @@ People problems, not tech ones...
 </figure>
 
 
-Do you see what has happened? By price-fixing the cost of providing security (running a node) and driving the cost of using that security (transacting) up, our developers have killed the average person’s and business's incentive to run a Bitcoin node. And they did all of this in order to keep the cost of running a node low so that more people could run them!
+Do you see what has happened? By price-fixing the cost of providing security (running a node) and driving up the cost of using that security (transacting), our developers have killed the average person’s and business's incentive to run a Bitcoin node. And they did all of this in order to keep the cost of running a node low so that more people could run them!
 
 ## Fourth order effects
 
