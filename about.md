@@ -15,6 +15,13 @@ You can also support the writing and research [here.](/support)
 
 ---
 
+## Contributors
+
+- Deryk Makgill
+- Isaac Morehouse
+
+---
+
 ## Advertise
 
 I only advertise products I like and use, but I love to do it, especially when if I'm getting paid! 
