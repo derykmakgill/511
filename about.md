@@ -15,9 +15,10 @@ You can also support the writing and research [here.](/support)
 
 ---
 
-## Contributors
+## Occasional guests
 
-- Deryk Makgill
+Contributors don't necessarily agree with me (Deryk Makgill) or all the contents of this site.
+
 - Isaac Morehouse
 
 ---
