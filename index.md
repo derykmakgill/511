@@ -20,3 +20,5 @@ Follow via Twitter ([@breakingsatoshi](https://twitter.com/breakingsatoshi)).
 {% endfor %}
 
 ---
+
+<div style="text-align: left"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button" onclick="window.location.href = 'https://breakingsatoshi.substack.com/';"></div>
