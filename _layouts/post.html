@@ -14,17 +14,6 @@ layout: default
         
       </p>
 
-
-
-<p class="next-prev">
-  {% if page.previous.url %}
-    <a class="prev" href="{{page.previous.url}}">&laquo; {{page.previous.title}}</a>
-  {% endif %}
-  {% if page.next.url %}
-    <a class="next" href="{{page.next.url}}">{{page.next.title}} &raquo;</a>
-  {% endif %}
-</p>
-
 <!-- This line should go where you want to put your button -->
 <div class="money-button"
   data-to="116"
@@ -38,6 +27,16 @@ layout: default
 ></div>
 <!-- This line can go anywhere -->
 <script src="https://www.moneybutton.com/moneybutton.js"></script>
+
+<p class="next-prev">
+  {% if page.previous.url %}
+    <a class="prev" href="{{page.previous.url}}">&laquo; {{page.previous.title}}</a>
+  {% endif %}
+  {% if page.next.url %}
+    <a class="next" href="{{page.next.url}}">{{page.next.title}} &raquo;</a>
+  {% endif %}
+</p>
+
 
 
 <div style="text-align: center"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button" onclick="window.location.href = 'https://breakingsatoshi.substack.com/';"></div>
