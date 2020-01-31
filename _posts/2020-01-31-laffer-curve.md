@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Bitcoin's Laffer Curve
+author: Deryk Makgill
 ---
 
 
