@@ -45,7 +45,7 @@ We need a Laffer Curve for Bitcoin. For fun, let's call it...The Makgill Curve!
   </figcaption>
 </figure>
 
-The Makgill Curve states that increases to the cost of transaction fees on the Biticoin Network have a diminishing return on total fee revenue collected by miners because a threshold exists beyond which people won't use Bitcoin to transact as much.
+The Makgill Curve states that increases to the cost of transaction fees on the Biticoin Network have a diminishing return on total fee revenue collected by miners. This is because a threshold exists beyond which people won't use Bitcoin to transact as much.
 
 The Makgill Curve helps explain Bitcoin BTC's [artifical demand cap.](https://breakingsatoshi.com/2020/01/17/btc-price-cap/) It is an answer to the shallow jokes about ['pulling out the champaign'](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2017-December/015455.html) made by certain Bitcoin developers celebrating when Bitcoin fees rise due the Bitcoin blocks being full. 
 
