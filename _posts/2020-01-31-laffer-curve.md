@@ -31,7 +31,7 @@ But people don't do that.
 
 ## The Makgill Curve
 
-We need a Laffer Curve for Bitcoin. Let's call it...The Makgill Curve!
+We need a Laffer Curve for Bitcoin. For fun, let's call it...The Makgill Curve!
 
 
 <figure class="side">
