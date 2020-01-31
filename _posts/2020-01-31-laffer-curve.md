@@ -55,11 +55,17 @@ They do not understand that fees can only rise so high before people or business
 
 The Makgill Curve won't tell us the ['ideal' fee cost](https://breakingsatoshi.com/2020/01/19/ideal-block-size/) or the maximum miner revenue. It only tells us that there exists some point at which the highest possible fee revenue can be collected by miners, after which any fee increase will lead to reduced total revenue when users and businesses stop transacting entirely.
 
-Obviously a 0% fee would mean that, after the subsidy, miners collect no revenue. Obviously a 100% fee would mean that nobody could use the network at all. Somewhere between that is the right number for both miners and users, but how do we figure that out?
+Obviously a 0% fee would mean that, after the subsidy, miners collect no revenue. Obviously a 100% fee would mean that nobody could use the network at all. Somewhere between that is the right number for both miners and users, but how do we figure out what the maximimum possible revenue for miners is?
 
-We need unbounded block sizes to do that. The miner who wants to maximize profit needs to be able to set block sizes that allow them to process the optimal number of transactions at the optimal fee level, but they cannot do this when blocks are limited by developers.
+Well, artificial limits make it difficult for miners and users to negotiate the optimal cost of fees on the network. They force miners into a sort of procrustean business model. High fees or the highway. At a certain point, users and businesses drop off, so there is a limit on total possible revenue as the Makgill Curve predicts, and maybe even a reduction in revenue because users and businesses don't necessarily return when the prices drop as demand calms.
 
-Artificial limits make it difficult for miners and users to negotiate the optimal cost of fees on the network. They force miners into a sort of procrustean business model instead of allowing them to figure out through dynamic blocks and fees how many transactions they should be processing and at what cost in order to make the most money.
+We need unbounded block sizes to answer this question. Unbounded blocks allow the miner who wants to maximize profit to set whatever block size allows them to process the optimal number of transactions at the optimal fee level. They create a real market for transacting on the network in which miners and users choose, not developers who think they know better than them.
+
+
+
+
+
+
 
 
 
