@@ -24,7 +24,9 @@ It is based on the economic understanding that individuals will change their beh
 
 In the case of taxes, the Laffer Curve shows us that there exists some difficult to determine threshold beyond which people will simply reduce the amount of their taxed behavior, like work and investment, causing tax revenue to drop to lower levels than before the tax increase.
 
-It's surprisingly simple, but it explains why so many central planning regimes fail. They don't consider incentives of their policies! They think they can raise taxes forever and people will continue acting exactly as they did before. But people don't do that.
+It's surprisingly simple, but it explains why so many central planning regimes fail. They don't consider incentives of their policies! They think they can raise taxes forever and people will continue acting exactly as they did before. 
+
+But people don't do that.
 
 ## The Makgill Curve
 
