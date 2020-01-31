@@ -5,7 +5,7 @@ title: Bitcoin's Laffer Curve
 
 
 
-<figure>
+<figure class="side">
   <a href="https://snbchf.com/wp-content/uploads/2017/01/Laffer-and-the-curve-1024x751.jpg" target="_blank">
     <img src="https://snbchf.com/wp-content/uploads/2017/01/Laffer-and-the-curve-1024x751.jpg" alt="Arthur Laffer and his famous curve." loading="lazy">
   </a>
@@ -29,7 +29,7 @@ It's surprisingly simple, but it explains why so many central planning regimes f
 We need a Laffer Curve for Bitcoin. Let's call it...The Makgill Curve.
 
 
-<figure>
+<figure class="side>
   <a href="/makgill-curve.png" target="_blank">
     <img src="/makgill-curve.png" alt="Makgill curve." loading="lazy">
   </a>
