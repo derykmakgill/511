@@ -65,7 +65,7 @@ We need unbounded block sizes to answer this question.
 
 Unbounded blocks allow the miner who wants to maximize profit to set whatever block size allows them to process the right number of transactions at the right fee level. They create a real market for transacting on the network in which miners and users choose, not developers who think they know better than them.
 
-Like most businesses, miners will likely find that economies of scale in transaction fees, pure volume, allow them to be more profitable than high fees, but let's let them figure it out.
+Like most businesses, miners will likely find that economies of scale in transaction fees, pure volume, allow them to be more profitable than high fees, but let's let them figure it out, like BCH and BSV are trying to do.
 
 The Makgill Curve demands this of us.
 
