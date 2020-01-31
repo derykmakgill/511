@@ -29,7 +29,7 @@ It's surprisingly simple, but it explains why so many central planning regimes f
 We need a Laffer Curve for Bitcoin. Let's call it...The Makgill Curve.
 
 
-<figure class="side>
+<figure class="side">
   <a href="/makgill-curve.png" target="_blank">
     <img src="/makgill-curve.png" alt="Makgill curve." loading="lazy">
   </a>
