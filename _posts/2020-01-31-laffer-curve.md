@@ -23,7 +23,7 @@ The Laffer Curve is an illustration by Arthur Laffer which describes the negativ
 
 It is based on the economic understanding that individuals will change their behavior when the incentives around them change. 
 
-In the case of taxes, the Laffer Curve shows us that there exists some difficult to determine threshold beyond which people will simply reduce the amount of their taxed behavior, like work and investment, causing tax revenue to drop to lower levels than before the tax increase.
+In the case of taxes, the Laffer Curve shows us that there exists some difficult to determine tax rate threshold at which maximum revenue is collected, beyond which people will simply reduce the amount of their taxed behavior, like work and investment, causing tax revenue to drop to lower levels than before the tax increase.
 
 It's surprisingly simple, but it explains why so many central planning regimes fail. They don't consider the incentives created by their policies! They think they can raise taxes forever and people will continue acting exactly as they did before. 
 
