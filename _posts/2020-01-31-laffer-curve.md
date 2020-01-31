@@ -50,15 +50,19 @@ The Makgill Curve helps explain Bitcoin [BTC's artifical demand cap.](https://br
 
 They do not understand that fees can only rise so high before people or businesses drop off the network entirely, causing miners to collect less total revenue than they could have collected if fees were lower but more people used the network. 
 
-## Putting it into practice
+## Putting it into practice with unbounded blocks
 
-The Makgill Curve won't tell us the ['ideal' fee cost](https://breakingsatoshi.com/2020/01/19/ideal-block-size/) or the maximum miner revenue. It only tells us that there exists some point at which the highest possible fee revenue can be collected by miners, after which any fee increase will lead to reduced total revenue.
+The Makgill Curve won't tell us the ['ideal' fee cost](https://breakingsatoshi.com/2020/01/19/ideal-block-size/) or the maximum miner revenue. It only tells us that there exists some point at which the highest possible fee revenue can be collected by miners, after which any fee increase will lead to reduced total revenue when users and businesses stop transacting entirely.
 
 Obviously a 0% fee would mean that, after the subsidy, miners collect no revenue. Obviously a 100% fee would mean that nobody could use the network at all. Somewhere between that is the right number for both miners and users, but how do we figure that out?
 
-We need unbounded block sizes to do that. Artificial limits make it difficult for miners and users to negotiate the optimal cost of fees on the network. They run the risk of driving fees higher than they should go for miners to maximize profits.
+We need unbounded block sizes to do that. The miner who wants to maximize profit needs to be able to set block sizes that allow them to process the optimal number of transactions at the optimal fee level, but they cannot do this when blocks are limited by developers.
 
-As I've written on Twitter recently, limits on block size are really limits on profit. The miner who wants to maximize profit needs to be able to set block sizes that allow them to process the optimal number of transactions at the optimal fee level, but they cannot do this when blocks are limited.
+Artificial limits make it difficult for miners and users to negotiate the optimal cost of fees on the network. They force miners into a sort of procrustean business model instead of allowing them to figure out through dynamic blocks and fees how many transactions they should be processing and at what cost in order to make the most money.
+
+
+
+
 
 
 
