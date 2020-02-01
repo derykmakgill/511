@@ -30,3 +30,7 @@ I only advertise products I like and use, but I love to do it, especially when i
 If you're interested in sponsoring particular articles, let's get in [touch.](/contact) Rates are totally negotiable and can be paid in BCH, BSV or...even...BTC.
 
 ---
+
+## Press
+
+- [Bitcoin Cash Rockets 15% Despite Big Tax Drama,](https://www.ccn.com/cryptos-big-tax-drama-cant-stop-bitcoin-cash-surge/) CCN
