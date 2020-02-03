@@ -8,7 +8,7 @@ Every once in a while I'll play a game of chess on chess.com.
 
 I'm an average player, but I know enough to appreciate the long-range thought and planning that is required of great chess players. The best of them think dozens of moves into the future, considering all the different possible moves by their opponents and the different strategies they have to deal with them.
 
-It is an incredible mental achievement which I think is best explained in the brilliant open letter Ayn Rand wrote to the great chess champion, Boris Spassky.
+It is an incredible mental achievement which I think is best explained in the brilliant [open letter](https://amzn.to/3b6a8kx) Ayn Rand wrote to the great chess champion, Boris Spasky.
 
 > I was struck by the realization that the game itself and the players'
 exercise of mental virtuosity are made possible by the metaphysical
@@ -31,7 +31,7 @@ of brain-wrenching effort, you had succeeded in cornering your opponent--an
 unknown, arbitrary power suddenly changed the rules of the game in his
 favor, allowing, say, his bishops to move like queens? 
 
-Maybe you would try to play. Maybe you could try to finish the game quickly enough, neuortically praying the ruleset didn't change before you finished, or wishing the rules changed only when your opponent was about to move. But a game like this would be impossible to master. There would be no Bobby Fischers or Boris Spaskys. 
+Maybe you would try to play. Maybe you could try to finish the game quickly enough, neuortically praying the ruleset didn't change before you finished, or wishing the rules changed only when your opponent was about to move. But a game like this would be impossible to master. There would be no Bobby Fischers or Boris Spaskys. Everyone would be reduced to a common denominator relying on luck and chance to help them win in the game of chess.
 
 ## Bitcoin like chess
 
@@ -45,9 +45,9 @@ You might try to build a project based on a particular script function only to h
 
 Maybe you run a business based on micropayments but the developers impose limits on Bitcoin that break the entire business model because they have decided that is inefficient.
 
-Like chess, mastery is impossible in the Bitcoin economy if the rules are not set in stone. The decade-long planning that is necessary for economic success is predicated upon a largely stable economic system and rulebook that is made impossible by regular forks and protocol tinkering.
+Like chess, mastery is difficult in the Bitcoin economy if the rules are not set in stone. An economic actor needs to be able to trust that the decisions he makes now will be valid tomorrow if he is going to be able to think at all beyond the immediate moment. The decade-long planning that is necessary for economic success is predicated upon a largely stable economic system and rulebook that is made impossible by regular forks and protocol tinkering in Bitcoin.
 
-At least in chess, rule changes only harm the players. In Bitcoin, rule changes harm almost everyone using it. 
+But at least in chess, rule changes only harm the players. In Bitcoin, rule changes harm almost everyone in the Bitcoin economy by making it difficult for them to think long-term about their economic decisions. 
 
 ## Set in stone
 
@@ -55,14 +55,16 @@ At least in chess, rule changes only harm the players. In Bitcoin, rule changes 
 
 Maybe you do, but in the same way regulatory uncertainty is often worse than regulations themselves (which are awful too), uncertainty in the Bitcoin protocol is worse than theoretical imperfections in the Bitcoin protocol.
 
+This is why Satoshi wrote that ['the nature of Bitcoin is such that once version 0.1 was released, the core design was set in stone for the rest of its lifetime.'](https://bitcointalk.org/index.php?topic=195.msg1617#msg1617) It's not a declaration that Bitcoin is perfect in all ways, it is a recognition that Bitcoin, as an economic system, must be predictable so that the Bobby Fischers and Boris Spaskys of the Bitcoin economy can work and plan.
+
 In the kind of world where Bitcoin is subject to constant change, you have a few options. 
 
 You can take the Blockstream approach and buy favor with developers, censor and propagandise so that the rule changes always favor you at the expense of most everyone else in the Bitcoin economy. You can take the more noble Bitpay and SatoshiDice approach and try to work within it and hope and pray that whatever changes are made don't break what you're doing, knowing all the while it is just a matter of time. You can 'hodl', and never use Bitcoin, hoping one day the madness stops. Or you can opt out of Bitcoin entirely.
 
-I suspect most people and businesses will choose the fourth option. They will find a Bitcoin that simply removes any artifical limits and then *tries* to lock its protocol down so that economic actors in Bitcoin can get to work building on foundations that they can rely upon for the next 5, 10, 20, 50 and 100 years.
+I suspect most people and businesses will choose the fourth option. They will find a Bitcoin that simply removes any artificial limits and then *tries* to lock its protocol down so that economic actors in Bitcoin can get to work building on foundations that they can rely upon for the next 5, 10, 20, 50 and 100 years.
 
+### Relevant Books
 
-
-
+[Philosophy: Who Needs It by Ayn Rand](https://amzn.to/3b6a8kx)
 
 
