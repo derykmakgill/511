@@ -24,7 +24,7 @@ nothing but the power of his (and his opponent's) ingenuity.
 
 According to Rand, the long-range planning and strategy that makes chess so interesting is only possible because the rules of chess are **set in stone.** A player in a game can trust that a bishop will not suddenly be made to move like a knight. He knows that in ten moves his rook will not suddenly move like pawn. He knows that the same rules apply to his opponent that apply to him and that no council will decree otherwise during the game.
 
-If you don't agree with her, try to imagine playing a game of chess differently, one in which all the rules could change at random, whim or caprice of some known or unknown third party. Rand did, and she asked this question to Spassky.
+If you don't agree with her, try to imagine playing a game of chess differently, one in which all the rules could change at random, whim or caprice of some known or unknown third party. Rand did, and she asked this question to Spasky.
 
 > Would you be able to play if, at a crucial moment--when, after hours
 of brain-wrenching effort, you had succeeded in cornering your opponent--an
@@ -47,7 +47,7 @@ Maybe you run a business based on micropayments but the developers impose limits
 
 Like chess, mastery is difficult in the Bitcoin economy if the rules are not set in stone. An economic actor needs to be able to trust that the decisions he makes now will be valid tomorrow if he is going to be able to think at all beyond the immediate moment. The decade-long planning that is necessary for economic success is predicated upon a largely stable economic system and rulebook that is made impossible by regular forks and protocol tinkering in Bitcoin.
 
-But at least in chess, rule changes only harm the players. In Bitcoin, rule changes harm almost everyone in the Bitcoin economy by making it difficult for them to think long-term about their economic decisions. 
+But at least in chess, rule changes only harm the players. In Bitcoin, rule changes harm almost everyone in the Bitcoin economy.
 
 ## Set in stone
 
