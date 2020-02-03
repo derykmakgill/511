@@ -1,30 +1,41 @@
 ---
-layout: page
-title: Credits
+layout: post
+title: Thinking of Bitcoin like chess
+author: Deryk Makgill
 ---
- 
-  <h3 id="susanna-allés-torrent--hyper-philologist"><a href="http://susannalles.github.io/">Susanna Allés Torrent</a> | Hyper philologist</h3>
 
-<p>Susanna teaches Digital Humanities in the Department of Latin American and Iberian Cultures. She earned her Ph.D in Romance Studies at the University of Barcelona in 2012, and completed a M.A. in «Nouvelles technologies appliquées à l’histoire» at the École Nationale des Chartes (Paris). She has taught at the University of Barcelona and she has been a postdoctoral fellow at the Spanish National Research Council (CSIC). Her research explores several aspects of digital humanities, especially, scholarly digital editions, electronic text analysis, intertextuality and text reuse, and digital lexicography. She also works with the intersection of the Iberian Peninsula and Italy in the Middle Ages and the Renaissance, reconstructing cultural and literary networks between the two.</p>
+Every once in a while I'll play a game of chess on chess.com.
 
-<h3 id="terry-catapano--metadata-ninja"><a href="https://github.com/tcatapano">Terry Catapano</a> | Metadata ninja</h3>
+I'm an average player, but I know enough to appreciate the long-range thought and planning that is required of great chess players. The best of them think dozens of moves into the future, considering all the different possible moves by their opponents and the different strategies they have to deal with them.
 
-<p>Terry Catapano is a Librarian in Columbia University Libraries’ Digital Program Division. He was Chair of the Society of American Archivists’ Schema Development Team, responsible for the development of Encoded Archival Description version 3, and is a member of the ArchivesSpace Technical Advisory Group and the Editorial Board for the Metadata Encoding and Transmission Standard (METS). As Vice President of Plazi Verein, he leads the development of the TaxPub extension of the National Library of Medicine/National Center for Biotechnology Information Journal Publishing DTD, and has worked on digitizing, text mining, and providing open access to the literature of biological systematics, including collaborations with WikiData, the Encylopedia of Life, the Global Biodiversity Information Facility (GBIF), ZooBank, and CERN.</p>
+It is an incredible mental achievement which I think is best explained in the brilliant open letter Ayn Rand wrote to the great chess champion, Boris Spassky.
 
-<h3 id="alex-gil--resident-minimalist"><a href="http://www.elotroalex.com/">Alex Gil</a> | Resident minimalist</h3>
+> I was struck by the realization that the game itself and the players'
+exercise of mental virtuosity are made possible by the metaphysical
+absolutism of the reality with which they deal. The game is ruled by the Law
+of Identity and its corollary, the Law of Causality. Each piece is what it
+is: a queen is a queen, a bishop is a bishop--and the actions each can
+perform are determined by its nature: a queen can move any distance in any
+open line, straight or diagonal, a bishop cannot; a rook can move from one
+side of the board to the other, a pawn cannot; etc. Their identities and the
+rules of their movements are immutable--and this enables the player's mind
+to devise a complex, long-range strategy, so that the game depends on
+nothing but the power of his (and his opponent's) ingenuity.
 
-<p>Alex is the Digital Scholarship Coordinator for the Humanities and History at Columbia University. He is vice chair of the <a href="http://www.globaloutlookdh.org/">Global Outlook::Digital Humanities</a> initiative focusing on minimal computing and translation, is one of the founders and directors of <a href="http://xpmethod.plaintext.in/">Columbia’s Group for Experimental Methods in the Humanities</a> and the <a href="https://studio.cul.columbia.edu/">Studio@Butler</a>, and is actively engaged in several digital humanities projects at Columbia and around the world.</p>
+According to Rand, the long-range planning and strategy that makes chess so interesting is only possible because the rules of chess are **set in stone.** A player in a game can trust that a bishop will not suddenly be made to move like a knight. He knows that in ten moves his rook will not suddenly move like pawn. 
 
-<h3 id="johann-gillium--search-master"><a href="https://github.com/JohannGillium">Johann Gillium</a> | Search master</h3>
+If you don't agree with her, try to imagine playing a game of chess differently. Rand did, and she asked this question to Spassky.
 
-<p>After having studied digital humanities at the Ecole nationale des Chartes in Paris, Johann has worked in France as a librarian at the Bibliothèque interuniversaire de Santé, where he most notably contributed to the <a href="http://www3.biusante.parisdescartes.fr/vesale/debut.htm">Vesalius project</a>, the digital edition of several works by the great anatomist Andreas Vesalius.</p>
+> Would you be able to play if, at a crucial moment--when, after hours
+of brain-wrenching effort, you had succeeded in cornering your opponent--an
+unknown, arbitrary power suddenly changed the rules of the game in his
+favor, allowing, say, his bishops to move like queens? 
 
-<hr>
+Maybe you would try to play. Maybe you could try to finish the game quickly enough, neuortically praying the ruleset didn't change before you finished, or wishing the rules changed only when your opponent was about to move. But a game like this would be impossible to master. There would be no Bobby Fischers or Boris Spaskys. 
 
-<h2 id="acknowledgments">Acknowledgments</h2>
+## Bitcoin, set in stone
 
-<p>As many open source projects, Ed is the work of community. The project starts with the open web, and everything in between leading to <a href="https://jekyllrb.com/">Jekyll</a> and the wonderful team who wrangled that Ruby in our favor. The theme stylesheets are built on top of <a href="https://github.com/poole/lanyon">Lanyon</a>, a Jekyll theme based on <a href="http://getpoole.com">Poole</a>, “the Jekyll butler,” both created by <a href="https://github.com/mdo">Mark Otto</a> and distributed with an MIT license. Thanks, Mark, for your helpful streamlining! Special hat tips to brother-in-markdown-arms, <a href="https://github.com/c-forster">Chris Forster</a>, and the generous <a href="https://github.com/inukshuk/">Sylvester Keil</a> for his work on Jekyll Scholar.</p>
+I like to think of the Bitcoin protocol like a game of chess.
 
-<p>We are strongly indebted to the research work and conversations stemming out of our <a href="http://xpmethod.plaintext.in/">Columbia’s Group for Experimental Methods in the Humanities</a>—or as we like to call it: #xpmethod; the wonderful international comradery of <a href="http://www.globaloutlookdh.org/">GO::DH</a>; and of course, the support of our <a href="http://library.columbia.edu/">Columbia University Libraries</a> and its cozy <a href="https://studio.cul.columbia.edu/">Studio@Butler</a>.</p>
 
-<p>…and to the writers that inspire us to scribble notes on the margins we protect with our work. Thank you.</p>
+
