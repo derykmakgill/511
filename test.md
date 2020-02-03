@@ -33,9 +33,34 @@ favor, allowing, say, his bishops to move like queens?
 
 Maybe you would try to play. Maybe you could try to finish the game quickly enough, neuortically praying the ruleset didn't change before you finished, or wishing the rules changed only when your opponent was about to move. But a game like this would be impossible to master. There would be no Bobby Fischers or Boris Spaskys. 
 
-## Bitcoin, set in stone
+## Bitcoin like chess
 
-I like to think of the Bitcoin protocol like a game of chess.
+I like to think of the Bitcoin protocol like chess.
+
+Like chess, if the rules of Bitcoin are subject to constant change, people will not be able to make rational, long-range plans using Bitcoin. 
+
+You might sign a transaction one year and realise it is no longer able to be broadcast the next year because some council of developers decreed that a change was necessary.
+
+You might try to build a project based on a particular script function only to have it removed in a hard fork six months later after somebody decided it was an improper use of the blockchain.
+
+Maybe you run a business based on micropayments but the developers impose limits on Bitcoin that break the entire business model because they have decided that is inefficient.
+
+Whatever it is, the decade-long planning that is necessary for economic success will be largely impossible.
+
+## 
+
+In this kind of world, you have a few options. 
+
+You can take the Blockstream approach and buy favor with developers, censor and propgandise so that the rule changes always favor you. 
+
+You can try to work within it and hope and pray that whatever changes are made don't break what you're doing, knowing all the while it is just a matter of time. 
+
+You can 'hodl', and never use Bitcoin. 
+
+Or you can opt out of Bitcoin entirely.
+
+Most people will choose the fourth option.
+
 
 
 
