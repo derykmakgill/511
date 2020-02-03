@@ -22,9 +22,9 @@ rules of their movements are immutable--and this enables the player's mind
 to devise a complex, long-range strategy, so that the game depends on
 nothing but the power of his (and his opponent's) ingenuity.
 
-According to Rand, the long-range planning and strategy that makes chess so interesting is only possible because the rules of chess are **set in stone.** A player in a game can trust that a bishop will not suddenly be made to move like a knight. He knows that in ten moves his rook will not suddenly move like pawn. 
+According to Rand, the long-range planning and strategy that makes chess so interesting is only possible because the rules of chess are **set in stone.** A player in a game can trust that a bishop will not suddenly be made to move like a knight. He knows that in ten moves his rook will not suddenly move like pawn. He knows that the same rules apply to his opponent that apply to him and that no council will decree otherwise during the game.
 
-If you don't agree with her, try to imagine playing a game of chess differently. Rand did, and she asked this question to Spassky.
+If you don't agree with her, try to imagine playing a game of chess differently, one in which all the rules could change at random, whim or caprice of some known or unknown third party. Rand did, and she asked this question to Spassky.
 
 > Would you be able to play if, at a crucial moment--when, after hours
 of brain-wrenching effort, you had succeeded in cornering your opponent--an
@@ -35,31 +35,33 @@ Maybe you would try to play. Maybe you could try to finish the game quickly enou
 
 ## Bitcoin like chess
 
-I like to think of the Bitcoin protocol like chess.
+I like to think of the Bitcoin protocol in a similar way to how Ayn Rand thought about chess.
 
-Like chess, if the rules of Bitcoin are subject to constant change, people will not be able to make rational, long-range plans using Bitcoin. 
+Like chess, if the rules of Bitcoin are subject to constant change by some committee of developers adding changes to the software, people in the Bitcoin economy will not be able to make rational, long-range plans using Bitcoin.
 
-You might sign a transaction one year and realise it is no longer able to be broadcast the next year because some council of developers decreed that a change was necessary.
+You might [sign a transaction](https://twitter.com/Bitcoin_Beyond/status/1140689724581040128?s=20) one year and realise it is no longer able to be broadcast the next year because some council of developers decreed that a change was necessary.
 
 You might try to build a project based on a particular script function only to have it removed in a hard fork six months later after somebody decided it was an improper use of the blockchain.
 
 Maybe you run a business based on micropayments but the developers impose limits on Bitcoin that break the entire business model because they have decided that is inefficient.
 
-Whatever it is, the decade-long planning that is necessary for economic success will be largely impossible.
+Like chess, mastery is impossible in the Bitcoin economy if the rules are not set in stone. The decade-long planning that is necessary for economic success is predicated upon a largely stable economic system and rulebook that is made impossible by regular forks and protocol tinkering.
 
-## 
+At least in chess, rule changes only harm the players. In Bitcoin, rule changes harm almost everyone using it. 
 
-In this kind of world, you have a few options. 
+## Set in stone
 
-You can take the Blockstream approach and buy favor with developers, censor and propgandise so that the rule changes always favor you. 
+*But, what if I have a really great idea that will make Bitcoin more useful?* 
 
-You can try to work within it and hope and pray that whatever changes are made don't break what you're doing, knowing all the while it is just a matter of time. 
+Maybe you do, but in the same way regulatory uncertainty is often worse than regulations themselves (which are awful too), uncertainty in the Bitcoin protocol is worse than theoretical imperfections in the Bitcoin protocol.
 
-You can 'hodl', and never use Bitcoin. 
+In the kind of world where Bitcoin is subject to constant change, you have a few options. 
 
-Or you can opt out of Bitcoin entirely.
+You can take the Blockstream approach and buy favor with developers, censor and propagandise so that the rule changes always favor you at the expense of most everyone else in the Bitcoin economy. You can take the more noble Bitpay and SatoshiDice approach and try to work within it and hope and pray that whatever changes are made don't break what you're doing, knowing all the while it is just a matter of time. You can 'hodl', and never use Bitcoin, hoping one day the madness stops. Or you can opt out of Bitcoin entirely.
 
-Most people will choose the fourth option.
+I suspect most people and businesses will choose the fourth option. They will find a Bitcoin that simply removes any artifical limits and then *tries* to lock its protocol down so that economic actors in Bitcoin can get to work building on foundations that they can rely upon for the next 5, 10, 20, 50 and 100 years.
+
+
 
 
 
