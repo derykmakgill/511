@@ -59,7 +59,7 @@ This is why Satoshi wrote that ['the nature of Bitcoin is such that once version
 
 In the kind of world where Bitcoin is subject to constant change, you have a few options. 
 
-You can take the Blockstream approach and buy favor with developers, censor and propagandise so that the rule changes always favor you at the expense of most everyone else in the Bitcoin economy. You can take the more noble Bitpay and SatoshiDice approach and try to work within it and hope and pray that whatever changes are made don't break what you're doing, knowing all the while it is just a matter of time. You can 'hodl', and never use Bitcoin, hoping one day the madness stops. Or you can opt out of Bitcoin entirely.
+You can take the Blockstream approach and buy favor with developers, censor and propagandise so that the rule changes always favor you at the expense of most everyone else in the Bitcoin economy. You can take the more noble Bitpay and SatoshiDice approach and try to work within it and hope and pray that whatever changes are made don't break what you're doing, knowing all the while it is just a matter of time. You can 'hodl', and never use Bitcoin, hoping one day the madness stops. Or you can opt out of that version Bitcoin entirely and find a better one.
 
 I suspect most people and businesses will choose the fourth option. They will find a Bitcoin that simply removes any artificial limits and then *tries* to lock its protocol down so that economic actors in Bitcoin can get to work building on foundations that they can rely upon for the next 5, 10, 20, 50 and 100 years.
 
