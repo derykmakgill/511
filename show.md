@@ -7,6 +7,14 @@ Below are the episodes from the irregular big-block Bitcoin show by Deryk Makgil
 
 We're all friends and just want to see a version of big-block Bitcoin scale for the world, so the conversations are friendly, funny and drama free.
 
+## Scaling, Funding, and Patents in Bitcoin Cash and Bitcoin SV
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/dr6TbQ7yhiA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
+
+---
+
+<br>
+
 ## What Does 2020 Mean for Bitcoin Cash and BitcoinSV?
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TO8_HF8X-Iw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
