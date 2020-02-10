@@ -19,6 +19,7 @@ A list of our recommended books that have helped us understand Bitcoin better.
 ## Law
 
 - [The Law](https://amzn.to/2NZ9YBD) by Frédéric Bastiat
+- [The Obviousness of Anarchy](https://ia803108.us.archive.org/6/items/ObviousnessOfAnarchyJohnHasnas22/Obviousness%20of%20Anarchy%20John%20Hasnas-22.pdf) by John Hasnas
 
 ## Bitcoin
 
