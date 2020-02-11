@@ -13,7 +13,9 @@ author: Deryk Makgill
 https://bitcointalk.org/index.php?topic=941331.msg10803460#msg10803460
 
 > Very Bad Things will happen if we get to 100% full 1MB blocks.
->
+
+https://bitcointalk.org/index.php?topic=941331.msg10801226#msg10801226
+
 > I spent last week talking to some of the largest Bitcoin businesses (much bigger than Paymium/Bitcoin-Central or anything anybody in #bitcoin-assets is involved with), and they all want the maximum block size to increase.
 
 https://bitcointalk.org/index.php?topic=941331.msg10801226#msg10801226
@@ -23,38 +25,38 @@ https://bitcointalk.org/index.php?topic=941331.msg10801226#msg10801226
 >Smaller blocks means fewer transactions, so fewer opportunities to collect fees, so less profit.
 >
 >Miner profit in fiat currency = number of transactions * average transaction fee * btc-to-fiat exchange rate
-
+>
 >Experience (and common sense) says that more usage of Bitcoin means a higher btc-to-fiat exchange rate, so if you want to >maximize miner's fee revenue then increasing the number of transactions is the obvious way to do it.
 >
->If you think that putting an artificial cap on the number of transactions will increase overall miner profit, then I urge >you to find a Real Economist and talk to them about the wisdom of trying to use production quotas to keep prices >artificially high.
+>If you think that putting an artificial cap on the number of transactions will increase overall miner profit, then I urge >you to find a Real Economist and talk to them about the wisdom of trying to use production quotas to keep prices
+artificially high.
 
-https://bitcointalk.org/index.php?action=profile;u=224;sa=showPosts
+https://bitcointalk.org/index.php?topic=975447.msg10673166#msg10673166
 
 
 >There is no tragedy-of-the-commons race to zero transaction fees, because miners do not have infinite bandwidth, memory or >CPU to accept and validate transactions.
 >
->We used to have a tragedy-of-the-commons situation with zero-fee transactions, but we solved that by rate-limiting them >based on priority. And we have a working market for zero-fee transactions (see the graph here).
->
->Assuming network bandwidth is the eventual bottleneck, and assuming there is demand for transactions to fill the available >network-wide bandwidth (even if that demand is transaction spammers), nodes will start dropping transactions before they >relay them. Prioritizing them based on fee paid and dropping the lowest fee/kb transactions will result naturally in a >working market for fee-paying transactions.
-
+>Assuming network bandwidth is the eventual bottleneck, and assuming there is demand for transactions to fill the available network-wide bandwidth (even if that demand is transaction spammers), nodes will start dropping transactions before they
+relay them. Prioritizing them based on fee paid and dropping the lowest fee/kb transactions will result naturally in a
+working market for fee-paying transactions.
 
 https://bitcointalk.org/index.php?topic=956442.msg10493565#msg10493565
 
 
 >I see one big problem that need solving:
-
+>
 >Supporting lots (millions, eventually billions) of people transacting in Bitcoin.
 >Ideally at as low a cost as possible, as secure as possible, and in the most decentralized and censorship-resistant way possible.
 >
->It is hard to get consensus on HOW to solve that problem, because no solution is obviously lowest cost, most secure, and >most decentralized all at the same time, and different people assign different weights to the importance of those three >things.
+>It is hard to get consensus on HOW to solve that problem, because no solution is obviously lowest cost, most secure, and most decentralized all at the same time, and different people assign different weights to the importance of those three things.
 >
->My bias is to "get big fast" -- I think the only way Bitcoin thrives is for lots of people to use it and to be happy using >it. If it is a tiny little niche thing then it is much easier for politicians or banks to smother it, paint it as "criminal money", etc. They probably can't kill it, but they sure could make life miserable enough to slow down adoption by a decade >or three.
+>My bias is to "get big fast" -- I think the only way Bitcoin thrives is for lots of people to use it and to be happy using it. If it is a tiny little niche thing then it is much easier for politicians or banks to smother it, paint it as "criminal money", etc. They probably can't kill it, but they sure could make life miserable enough to slow down adoption by a decade or three.
+>
+>"Get big fast" has been the strategy for a few years now, ever since the project became too famous to fly under the radar of regulators or the mainstream press.
+>
+>The simplest path to "get big fast" is allowing the chain to grow. All the other solutions take longer or compromise decentralization (e.g. off-chain transactions require one or more semi-trusted entities to validate those off-chain transactions). I'm listening very carefully to anybody who argues that a bigger chain will compromise security, and those concerns are why I am NOT proposing an infinite maximum block size.
 
-"Get big fast" has been the strategy for a few years now, ever since the project became too famous to fly under the radar of regulators or the mainstream press.
-
-The simplest path to "get big fast" is allowing the chain to grow. All the other solutions take longer or compromise decentralization (e.g. off-chain transactions require one or more semi-trusted entities to validate those off-chain transactions). I'm listening very carefully to anybody who argues that a bigger chain will compromise security, and those concerns are why I am NOT proposing an infinite maximum block size.
-
-https://bitcointalk.org/index.php?action=profile;u=224;sa=showPosts
+https://bitcointalk.org/index.php?topic=941331.msg10492729#msg10492729
 
 I will remind everybody again of Satoshi's second public post where he talked about scalability:
 
