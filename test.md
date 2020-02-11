@@ -10,7 +10,7 @@ author: Deryk Makgill
 >
 > But it wouldn't help with "I want to be able to run a full node from my home computer / network connection." Does anybody actually care about that? Satoshi didn't, his vision was home users running SPV nodes and full nodes being hosted in datacenters.
 
-[Re: Bitcoin 20MB Fork](https://bitcointalk.org/index.php?topic=941331.msg10803460#msg10803460)
+Source: [Re: Bitcoin 20MB Fork](https://bitcointalk.org/index.php?topic=941331.msg10803460#msg10803460)
 
 
 
