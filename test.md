@@ -8,7 +8,7 @@ I'm 'open-sourcing' some research I've been doing on the early scaling debates. 
 
 I've listed the best quotes I've found below.
 
-## Re: Bitcoin 20MB Fork
+## Not Satoshi's vision
 
 > The problem people are worried about if the maximum block size is too high:  That big miners with high-bandwidth, high-CPU machines will drive out either small miners or I-want-to-run-a-full-node-at-home people by producing blocks too large for them to download or verify quickly
 >
@@ -18,19 +18,19 @@ I've listed the best quotes I've found below.
 
 Source: [Re: Bitcoin 20MB Fork](https://bitcointalk.org/index.php?topic=941331.msg10803460#msg10803460)
 
-## Re: Bitcoin 20MB Fork
+## Very bad things
 
 > Very Bad Things will happen if we get to 100% full 1MB blocks.
 
 Source: [Re: Bitcoin 20MB Fork](https://bitcointalk.org/index.php?topic=941331.msg10801226#msg10801226)
 
-## Re: Bitcoin 20MB Fork
+## Everyone wants an increase
 
 > I spent last week talking to some of the largest Bitcoin businesses (much bigger than Paymium/Bitcoin-Central or anything anybody in #bitcoin-assets is involved with), and they all want the maximum block size to increase.
 
 Source: [Re: Bitcoin 20MB Fork](https://bitcointalk.org/index.php?topic=941331.msg10801226#msg10801226)
 
-## Re: Slowing down block propagation
+## Artifical caps are production quotas
 
 > Why do you want miners to have an incentive to make smaller blocks?
 >
@@ -46,7 +46,7 @@ artificially high.
 
 Source: [Re: Slowing down block propagation](https://bitcointalk.org/index.php?topic=975447.msg10673166#msg10673166)
 
-## Re: Individual Block Difficulty Based on Block Size
+## There is no tragedy of the commons
 
 >There is no tragedy-of-the-commons race to zero transaction fees, because miners do not have infinite bandwidth, memory or CPU to accept and validate transactions.
 >
@@ -57,7 +57,7 @@ working market for fee-paying transactions.
 Source: [Re: Individual Block Difficulty Based on Block Size](https://bitcointalk.org/index.php?topic=956442.msg10493565#msg10493565)
 
 
-## Re: Bitcoin 20MB Fork
+## Get big fast by growing the chain
 
 >I see one big problem that need solving:
 >
@@ -74,7 +74,7 @@ Source: [Re: Individual Block Difficulty Based on Block Size](https://bitcointal
 
 Source: [Re: Bitcoin 20MB Fork](https://bitcointalk.org/index.php?topic=941331.msg10492729#msg10492729)
 
-## Re: Bitcoin 20MB Fork
+## I signed up for Bitcoin that would scale
 
 >I will remind everybody again of Satoshi's second public post where he talked about scalability:
 >
@@ -84,7 +84,7 @@ Source: [Re: Bitcoin 20MB Fork](https://bitcointalk.org/index.php?topic=941331.m
 
 Source: [Re: Bitcoin 20MB Fork](https://bitcointalk.org/index.php?topic=941331.msg10371991#msg10371991)
 
-## Re: Bitcoin 20MB Fork
+## Many small transactions are more secure
 
 >**Quote from: davout on February 01, 2015, 09:05:16 PM
 >What's the problem with paying 10 bucks instead of 10 cents to securely transfer a million dollars?**
@@ -102,7 +102,7 @@ Source: [Re: Bitcoin 20MB Fork](https://bitcointalk.org/index.php?topic=941331.m
 
 Source: [Re: Bitcoin 20MB Fork](https://bitcointalk.org/index.php?topic=941331.msg10330613#msg10330613)
 
-## Re: Bitcoin 20MB Fork
+## Rivaling Visa
 
 >When I first heard about Bitcoin, it was small enough I could read everything, and I did, including all of those mailing list posts. The promise of a system that could scale up to rival Visa is part of the vision that sold me on Bitcoin.
 
@@ -126,7 +126,7 @@ Source: [Blocksize Economics](https://web.archive.org/web/20150214091209/http://
 
 Source: [Why increasing the max block size is urgent](http://gavinandresen.ninja/why-increasing-the-max-block-size-is-urgent)
 
-## Re: Funding network security in the future
+## Network security
 
 >I believe that if people want a secure network, they will figure out a way of getting it. My justification is the same as my belief that if people want clean, cheap, safe drinking water they will figure out a way of getting it.
 >
@@ -154,69 +154,106 @@ Source: [Re: Gavin Andresen Proposes Bitcoin Hard Fork to Address Network Scalab
 
 Source: [Re: Increasing the block size is a good idea; 50%/year is probably too aggressive](https://bitcointalk.org/index.php?topic=815712.msg9203315#msg9203315)
 
+## A fee market
 
-I don't believe that even an infinite blocksize would drive fees to zero forever.
+>I don't believe that even an infinite blocksize would drive fees to zero forever.
+>
+>Commodity prices never drop to zero, no matter how abundant they are (assuming a reasonably free market-- government can, of course supply "free" goods, but the results are never pretty). The suppliers of the commodities have to make a profit, or they'll find something else to do.
 
-Commodity prices never drop to zero, no matter how abundant they are (assuming a reasonably free market-- government can, of course supply "free" goods, but the results are never pretty). The suppliers of the commodities have to make a profit, or they'll find something else to do.
+Source: [Re: Increasing the block size is a good idea; 50%/year is probably too aggressive](https://bitcointalk.org/index.php?topic=815712.msg9188675#msg9188675)
 
-https://bitcointalk.org/index.php?topic=815712.msg9188675#msg9188675
+## Miner fee choice
 
-individual miners (or sub-majority cartels) can unilaterally create smaller blocks containing just higher-fee transactions, if they think it is in their long-term interest to put upward pressure on transaction fees.
-https://bitcointalk.org/index.php?topic=813324.msg9131431#msg9131431
+>Individual miners (or sub-majority cartels) can unilaterally create smaller blocks containing just higher-fee transactions, if they think it is in their long-term interest to put upward pressure on transaction fees.
 
- raise the block size too slowly and you discourage transactions and increase their price. The danger is Bitcoin becomes irrelevant for anything besides huge transactions, and is used only by big corporations and is too expensive for individuals. Hurray, we just reinvented the SWIFT or ACH systems.
-https://bitcointalk.org/index.php?topic=813324.msg9106557#msg9106557
+Source: [Re: A Scalability Roadmap](https://bitcointalk.org/index.php?topic=813324.msg9131431#msg9131431)
 
+## Recreating the existing system...
 
-I am much more worried about transaction fees right now than "selfish mining".
-https://bitcointalk.org/index.php?topic=324972.msg3514227#msg3514227
+>Raise the block size too slowly and you discourage transactions and increase their price. The danger is Bitcoin becomes irrelevant for anything besides huge transactions, and is used only by big corporations and is too expensive for individuals. Hurray, we just reinvented the SWIFT or ACH systems.
 
-D
+Source: [Re: A Scalability Roadmap](https://bitcointalk.org/index.php?topic=813324.msg9106557#msg9106557)
 
-miners have a natural incentive to want to be closely connected to as many other miners as possible (to reduce orphan costs).
-https://bitcointalk.org/index.php?topic=324413.msg3477481#msg3477481
+## Fees
 
-DConsensus is the block size limit will have to rise.
+>I am much more worried about transaction fees right now than "selfish mining".
 
-Us geeks were/will/are arguing over how and when, not if...
-https://bitcointalk.org/index.php?topic=322748.msg3455719#msg3455719
+Source: [Re: How much slower is a big block propagating than a small block?](https://bitcointalk.org/index.php?topic=324972.msg3514227#msg3514227)
 
-D
+## Reducing oprhans
 
-That seems plausible to me-- set an arbitrary constraint ("bids must be in multiples of a tenth of a penny" -- or whatever it is these days) and you often get unintended consequences.
+>Miners have a natural incentive to want to be closely connected to as many other miners as possible (to reduce orphan costs).
 
-I still plan on writing up why I disagree with the idea that a larger block size will lead to centralization, but I'm working on some higher priority things first. I really don't understand why you would think that our current, arbitrary 1MB limit is the Best Size For All Time. I think that arbitrary constraint will have bad unintended consequences.
-https://bitcointalk.org/index.php?topic=288298.msg3111910#msg3111910
+Source: [Re: Majority is not Enough: Bitcoin Mining is Vulnerable](https://bitcointalk.org/index.php?topic=324413.msg3477481#msg3477481)
 
-'Yes, let's eliminate the limit.
+## Raising the block size is the current consensus
 
-Nothing bad will happen if we do.
+>Consensus is the block size limit will have to rise.
+>
+>Us geeks were/will/are arguing over how and when, not if...
+Source: [Re: Long term Scalability of Bitcoin and the 1 MB block size limit](https://bitcointalk.org/index.php?topic=322748.msg3455719#msg3455719)
 
-And if I'm wrong, the bad things would be mild annoyances, not existential risks, much less risky than operating a network near 100% capacity.'https://np.reddit.com/r/btc/comments/4oadyh/i_believe_the_network_will_eventually_have_so/d4bggvk/
+## Arbitrary limits and unintended consequences
 
-DIf you mean "Peter Todd has convinced some big mining pool operators not to increase the size of the blocks they create" -- then great!  That's the free market at work, big mining pools should be free to create blocks that are as large or as small as they like, and to accept or reject other's blocks for whatever reason they like.https://bitcointalk.org/index.php?topic=221111.msg2360913#msg2360913
+>Set an arbitrary constraint ("bids must be in multiples of a tenth of a penny" -- or whatever it is these days) and you often get unintended consequences.
+>
+>I still plan on writing up why I disagree with the idea that a larger block size will lead to centralization, but I'm working on some higher priority things first. I really don't understand why you would think that our current, arbitrary 1MB limit is the Best Size For All Time. I think that arbitrary constraint will have bad unintended consequences.
 
-The block size will be raised, that is the overwhelming consensus among the people who are actually writing code and using Bitcoin for products and services that it needs to happen.
+Source: [Re: what can Bitcoin learn from high frequency trading regarding the block size?](https://bitcointalk.org/index.php?topic=288298.msg3111910#msg3111910)
 
-And there is a tiny minority of people who will loudly proclaim that isn't true and that the core developer are going to destroy Bitcoin if the block size is raised.
-https://bitcointalk.org/index.php?topic=221111.msg2359724#msg2359724
+## Nothing bad will happen if we eliminate the limit
 
-central planning is why I would like to eliminate the hard, upper blocksize limit entirely, and let the network decide "how big is too big."
+>Yes, let's eliminate the limit. Nothing bad will happen if we do.
+>
+>And if I'm wrong, the bad things would be mild annoyances, not existential risks, much less risky than operating a network near 100% capacity.
 
-RE: "the plan"  :   The plan from the beginning was to support huge blocks.  The 1MB hard limit was always a temporary denial-of-service prevention measure.
-D
+Source: [I believe the network will eventually have so many problems](https://np.reddit.com/r/btc/comments/4oadyh/i_believe_the_network_will_eventually_have_so/d4bggvk/)
 
-"small mining pools will go out of business" -- give me a break! My back-of-the-envelope calculations say that anybody willing to spend a few hundred dollars a year on a dedicated server with a high-bandwidth connection can support a MUCH, MUCH larger block size.https://bitcointalk.org/index.php?topic=189792.msg1967890#msg1967890
+## A real free market
 
-DWe can speculate all we want about what is going to happen in the future, but we don't really know.
+>Did you mean "Peter Todd has convinced some big mining pool operators not to increase the size of the blocks they create" -- then great!  That's the free market at work, big mining pools should be free to create blocks that are as large or as small as they like, and to accept or reject other's blocks for whatever reason they like.
 
-So, what should we do if we don't know? My default answer is "do the simplest thing that could possibly work, but make sure there is a Plan B just in case it doesn't work."
+Source: [Re: Please do not change MAX_BLOCK_SIZE](https://bitcointalk.org/index.php?topic=221111.msg2360913#msg2360913)
 
+## A tiny minority opposes a block increase
+
+>The block size will be raised, that is the overwhelming consensus among the people who are actually writing code and using Bitcoin for products and services that it needs to happen.
+>
+>And there is a tiny minority of people who will loudly proclaim that isn't true and that the core developer are going to destroy Bitcoin if the block size is raised.
+
+Source: [Re: Please do not change MAX_BLOCK_SIZE](https://bitcointalk.org/index.php?topic=221111.msg2359724#msg2359724)
+
+## Central planning the block limit
+
+>Central planning is why I would like to eliminate the hard, upper blocksize limit entirely, and let the network decide "how big is too big."
+
+Source: [Re: Please do not change MAX_BLOCK_SIZE](https://bitcointalk.org/index.php?topic=221111.msg2359724#msg2359724)
+
+## The plan from beginning was big blocks
+
+>The plan from the beginning was to support huge blocks.  The 1MB hard limit was always a temporary denial-of-service prevention measure.
+
+Source: [Re: Please do not change MAX_BLOCK_SIZE](https://bitcointalk.org/index.php?topic=221111.msg2359724#msg2359724)
+
+## Bandwidth isn't a problem
+
+>"Small mining pools will go out of business" -- give me a break! My back-of-the-envelope calculations say that anybody willing to spend a few hundred dollars a year on a dedicated server with a high-bandwidth connection can support a MUCH, MUCH larger block size.
+
+Source: [Re: Bitcoin Blocksize Problem Video](https://bitcointalk.org/index.php?topic=189792.msg1967890#msg1967890)
+
+## Doing the simplest thing
+
+>We can speculate all we want about what is going to happen in the future, but we don't really know.
+>
+>So, what should we do if we don't know? My default answer is "do the simplest thing that could possibly work, but make sure there is a Plan B just in case it doesn't work."
+>
 In the case of the block size debate, what is the simplest thing that just might possibly work?
+>
+>That's easy!  Eliminate the block size limit as a network rule entirely, and trust that miners and merchants and users will reject blocks that are "obviously too big." Where what is "obviously too big" will change over time as technology changes.
 
-That's easy!  Eliminate the block size limit as a network rule entirely, and trust that miners and merchants and users will reject blocks that are "obviously too big." Where what is "obviously too big" will change over time as technology changes.https://bitcointalk.org/index.php?topic=157141.msg1758131#msg1758131
+Source: [Re: Funding of network security with infinite block sizes](https://bitcointalk.org/index.php?topic=157141.msg1758131#msg1758131)
 
-D
+
 Nothing stops a merchant who wants more network security from either subsidizing miners (maybe in exchange for a promise to prioritize transactions to them) or mining themselves.https://bitcointalk.org/index.php?topic=167646.msg1745634#msg1745634
 
 D
