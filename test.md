@@ -4,6 +4,8 @@ title: Gavin Andresen quotes
 author: Deryk Makgill
 ---
 
+## Re: Bitcoin 20MB Fork
+
 > The problem people are worried about if the maximum block size is too high:  That big miners with high-bandwidth, high-CPU machines will drive out either small miners or I-want-to-run-a-full-node-at-home people by producing blocks too large for them to download or verify quickly
 >
 > An adaptive limit could be set so that some minority of miners can 'veto' block size increases; that'd be fine with me.
@@ -12,7 +14,7 @@ author: Deryk Makgill
 
 Source: [Re: Bitcoin 20MB Fork](https://bitcointalk.org/index.php?topic=941331.msg10803460#msg10803460)
 
-
+## Re: Bitcoin 20MB Fork
 
 > Very Bad Things will happen if we get to 100% full 1MB blocks.
 
