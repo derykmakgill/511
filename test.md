@@ -126,26 +126,33 @@ Source: [Blocksize Economics](https://web.archive.org/web/20150214091209/http://
 
 Source: [Why increasing the max block size is urgent](http://gavinandresen.ninja/why-increasing-the-max-block-size-is-urgent)
 
-I believe that if people want a secure network, they will figure out a way of getting it. My justification is the same as my belief that if people want clean, cheap, safe drinking water they will figure out a way of getting it.
+## Re: Funding network security in the future
 
-I don't claim to know how, and it is very possible the how will offend the sensibilities of either (or both) of the "PRIVACY AT ANY COST!!!!" or "DECENTRALIZATION AT ANY COST!!!!" factions. Just like government regulations and institutions around clean water offend the "INDIVIDUAL LIBERTY AT ANY COST!!!!" faction.
+>I believe that if people want a secure network, they will figure out a way of getting it. My justification is the same as my belief that if people want clean, cheap, safe drinking water they will figure out a way of getting it.
+>
+>I don't claim to know how, and it is very possible the how will offend the sensibilities of either (or both) of the "PRIVACY AT ANY COST!!!!" or "DECENTRALIZATION AT ANY COST!!!!" factions. Just like government regulations and institutions around clean water offend the "INDIVIDUAL LIBERTY AT ANY COST!!!!" faction.
+>
+>I can imagine a lot of possible futures, from big merchants and exchanges investing in mining to save themselves on transaction fees and ensure that their transactions are confirmed securely, to assurance contracts, to a cartel of miners regulated and funded and licensed as a global public utility.
+>
+>I hope that last one doesn't happen…
 
-I can imagine a lot of possible futures, from big merchants and exchanges investing in mining to save themselves on transaction fees and ensure that their transactions are confirmed securely, to assurance contracts, to a cartel of miners regulated and funded and licensed as a global public utility.
+Source: [Re: Funding network security in the future](https://bitcointalk.org/index.php?topic=176684.msg9357473#msg9357473)
 
-I hope that last one doesn't happen…
-https://bitcointalk.org/index.php?topic=176684.msg9357473#msg9357473
+## A small minority
 
-There is a small minority of people who believe that it would be BETTER if transactions moved to fiat currency, an altcoin, or some more-centralized off-blockchain solution. I strongly disagree.
-https://bitcointalk.org/index.php?topic=816298.msg9254725#msg9254725
+>There is a small minority of people who believe that it would be BETTER if transactions moved to fiat currency, an altcoin, or some more-centralized off-blockchain solution. I strongly disagree.
 
+Source: [Re: Gavin Andresen Proposes Bitcoin Hard Fork to Address Network Scalability](https://bitcointalk.org/index.php?topic=816298.msg9254725#msg9254725)
 
-Because network bandwidth, CPU, main memory, and disk storage (the potential bottlenecks) are all growing exponentially right now, and are projected to continue growing exponentially for the next couple decades.
+## Exponential vs linear growth
 
-Why would we choose linear growth when the trend is exponential growth?
+>Because network bandwidth, CPU, main memory, and disk storage (the potential bottlenecks) are all growing exponentially right now, and are projected to continue growing exponentially for the next couple decades.
+>
+>Why would we choose linear growth when the trend is exponential growth?
+>
+>Unless you think we should artificially limit Bitcoin itself to linear growth for some reason. Exponential growth in number of users and usage is what we want, yes?
 
-Unless you think we should artificially limit Bitcoin itself to linear growth for some reason. Exponential growth in number of users and usage is what we want, yes?
-
-https://bitcointalk.org/index.php?topic=815712.msg9203315#msg9203315
+Source: [Re: Increasing the block size is a good idea; 50%/year is probably too aggressive](https://bitcointalk.org/index.php?topic=815712.msg9203315#msg9203315)
 
 
 I don't believe that even an infinite blocksize would drive fees to zero forever.
