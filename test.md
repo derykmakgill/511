@@ -46,15 +46,18 @@ artificially high.
 
 Source: [Re: Slowing down block propagation](https://bitcointalk.org/index.php?topic=975447.msg10673166#msg10673166)
 
+## Re: Individual Block Difficulty Based on Block Size
 
->There is no tragedy-of-the-commons race to zero transaction fees, because miners do not have infinite bandwidth, memory or >CPU to accept and validate transactions.
+>There is no tragedy-of-the-commons race to zero transaction fees, because miners do not have infinite bandwidth, memory or CPU to accept and validate transactions.
 >
 >Assuming network bandwidth is the eventual bottleneck, and assuming there is demand for transactions to fill the available network-wide bandwidth (even if that demand is transaction spammers), nodes will start dropping transactions before they
 relay them. Prioritizing them based on fee paid and dropping the lowest fee/kb transactions will result naturally in a
 working market for fee-paying transactions.
 
-https://bitcointalk.org/index.php?topic=956442.msg10493565#msg10493565
+Source: [Re: Individual Block Difficulty Based on Block Size](https://bitcointalk.org/index.php?topic=956442.msg10493565#msg10493565)
 
+
+## Re: Bitcoin 20MB Fork
 
 >I see one big problem that need solving:
 >
@@ -69,50 +72,59 @@ https://bitcointalk.org/index.php?topic=956442.msg10493565#msg10493565
 >
 >The simplest path to "get big fast" is allowing the chain to grow. All the other solutions take longer or compromise decentralization (e.g. off-chain transactions require one or more semi-trusted entities to validate those off-chain transactions). I'm listening very carefully to anybody who argues that a bigger chain will compromise security, and those concerns are why I am NOT proposing an infinite maximum block size.
 
-https://bitcointalk.org/index.php?topic=941331.msg10492729#msg10492729
+Source: [Re: Bitcoin 20MB Fork](https://bitcointalk.org/index.php?topic=941331.msg10492729#msg10492729)
 
-I will remind everybody again of Satoshi's second public post where he talked about scalability:
+## Re: Bitcoin 20MB Fork
 
-If you didn't do your homework and thought that Bitcoin == 1MB blocks forever, well, that's your fault.
+>I will remind everybody again of Satoshi's second public post where he talked about scalability:
+>
+>If you didn't do your homework and thought that Bitcoin == 1MB blocks forever, well, that's your fault.
+>
+>I signed up for a Bitcoin that would scale.
 
-I signed up for a Bitcoin that would scale.
+Source: [Re: Bitcoin 20MB Fork](https://bitcointalk.org/index.php?topic=941331.msg10371991#msg10371991)
 
-https://bitcointalk.org/index.php?topic=941331.msg10371991#msg10371991
+## Re: Bitcoin 20MB Fork
 
-Quote from: davout on February 01, 2015, 09:05:16 PM
-What's the problem with paying 10 bucks instead of 10 cents to securely transfer a million dollars?
+>**Quote from: davout on February 01, 2015, 09:05:16 PM
+>What's the problem with paying 10 bucks instead of 10 cents to securely transfer a million dollars?**
+>
+>What's wrong?
+>
+>Lets say those million dollar transactions are 250 bytes.  That is 4,000 of them in a 1MB block.
+>
+>So $40,000 total reward to the miner -- about eight times current block reward.
+>
+>BUT YOU ARE SECURING TRANSACTIONS WORTH SOMETHING LIKE 2,000 TIMES MORE VALUABLE THAN TODAY'S TRANSACTIONS (estimated average transaction USD value for today's average transaction is about $380). And I GUARANTEE that attackers would have a much easier time pulling off a double-spend of one million-dollar transaction than 1,000 $1,000 transactions.
+>
+>The math for "large value transactions will generate enough fees to secure the chain" just doesn't work.
+>The math for "lots of small transactions will generate enough fees to secure the chain" might.
 
-What's wrong?
+Source: [Re: Bitcoin 20MB Fork](https://bitcointalk.org/index.php?topic=941331.msg10330613#msg10330613)
 
-Lets say those million dollar transactions are 250 bytes.  That is 4,000 of them in a 1MB block.
+## Re: Bitcoin 20MB Fork
 
-So $40,000 total reward to the miner -- about eight times current block reward.
+>When I first heard about Bitcoin, it was small enough I could read everything, and I did, including all of those mailing list posts. The promise of a system that could scale up to rival Visa is part of the vision that sold me on Bitcoin.
 
-BUT YOU ARE SECURING TRANSACTIONS WORTH SOMETHING LIKE 2,000 TIMES MORE VALUABLE THAN TODAY'S TRANSACTIONS (estimated average transaction USD value for today's average transaction is about $380). And I GUARANTEE that attackers would have a much easier time pulling off a double-spend of one million-dollar transaction than 1,000 $1,000 transactions.
+Source: [Re: Bitcoin 20MB Fork](https://bitcointalk.org/index.php?topic=941331.msg10315826#msg10315826)
 
-The math for "large value transactions will generate enough fees to secure the chain" just doesn't work.
-The math for "lots of small transactions will generate enough fees to secure the chain" might.
+## A hobby project
 
-https://bitcointalk.org/index.php?topic=941331.msg10330613#msg10330613
+>If y’all are interested in keeping Bitcoin an exclusive little club… then okey dokey, we have a fundamental difference of opinion on where the project should go.
 
-When I first heard about Bitcoin, it was small enough I could read everything, and I did, including all of those mailing list posts. The promise of a system that could scale up to rival Visa is part of the vision that sold me on Bitcoin.
+Source: [Pierre Rochard and Gavin Andresen Discuss the Block Size Limit](https://bitstein.org/blog/pierre-rochard-and-gavin-andresen-discuss-the-block-size-limit/)
 
+## Blocksize Economics
 
-https://bitcointalk.org/index.php?topic=941331.msg10315826#msg10315826
+>With absolutely no artificial limits to supply (like a maximum block size), transaction fees would drop to the marginal cost miners pay for hardware, electricity and bandwidth, plus enough net income to motivate them to keep on mining rather than investing their time and money in something else. Fees would be very small, but not zero.
 
-Bitcoin.
+Source: [Blocksize Economics](https://web.archive.org/web/20150214091209/http://blog.bitcoinfoundation.org/blocksize-economics/)
 
-if y’all are interested in keeping Bitcoin an exclusive little club… then okey dokey, we have a fundamental difference of opinion on where the project should go.
+## Why increasing the max block size is urgent
 
-https://bitstein.org/blog/pierre-rochard-and-gavin-andresen-discuss-the-block-size-limit/
+>If the number of transactions waiting gets large enough, the end result will be an over-saturated network, busy doing nothing productive. I don’t think that is likely– it is more likely people just stop using Bitcoin because transaction confirmation becomes increasingly unreliable.
 
-with absolutely no artificial limits to supply (like a maximum block size), transaction fees would drop to the marginal cost miners pay for hardware, electricity and bandwidth, plus enough net income to motivate them to keep on mining rather than investing their time and money in something else. Fees would be very small, but not zero.
-
-https://web.archive.org/web/20150214091209/http://blog.bitcoinfoundation.org/blocksize-economics/
-
-If the number of transactions waiting gets large enough, the end result will be an over-saturated network, busy doing nothing productive. I don’t think that is likely– it is more likely people just stop using Bitcoin because transaction confirmation becomes increasingly unreliable.
-
-http://gavinandresen.ninja/why-increasing-the-max-block-size-is-urgent
+Source: [Why increasing the max block size is urgent](http://gavinandresen.ninja/why-increasing-the-max-block-size-is-urgent)
 
 I believe that if people want a secure network, they will figure out a way of getting it. My justification is the same as my belief that if people want clean, cheap, safe drinking water they will figure out a way of getting it.
 
