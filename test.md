@@ -4,9 +4,11 @@ title: Gavin Andresen quotes
 author: Deryk Makgill
 ---
 
-I'm 'open-sourcing' some research I've been doing on the early scaling debates. I've spent a lot of time reading old Gavin Andresen posts and I find it fascinating to see how intelligent, well-argued and predictive Gavin was.
+I'm 'open-sourcing' some research I've been doing on the early scaling debates. 
 
-I've listed the best quotes I've found below.
+I've spent a lot of time reading old Gavin Andresen posts, mostly on [Bitcoin Talk](https://bitcointalk.org/index.php?action=profile;u=224) but also on some other sites, and I find it fascinating to see how intelligent, well-argued and predictive Gavin was about the need to raise the Bitcoin block size and the fallacies used by the then small minority who thought blocks should be locked at 1mb forever.
+
+There was a time before the censorship, lies, blacklisting and propaganda where big-block Bitcoin was the consensus position by nearly everyone who had been involved with Bitcoin since the early days and quotes, and the quotes from Gavin I've gathered here are a reminder of that.
 
 ## Not Satoshi's vision
 
@@ -253,37 +255,60 @@ In the case of the block size debate, what is the simplest thing that just might
 
 Source: [Re: Funding of network security with infinite block sizes](https://bitcointalk.org/index.php?topic=157141.msg1758131#msg1758131)
 
+## Merchants and security
 
-Nothing stops a merchant who wants more network security from either subsidizing miners (maybe in exchange for a promise to prioritize transactions to them) or mining themselves.https://bitcointalk.org/index.php?topic=167646.msg1745634#msg1745634
+> Nothing stops a merchant who wants more network security from either subsidizing miners (maybe in exchange for a promise to prioritize transactions to them) or mining themselves.
 
-D
+Source: [Re: Fundamental fee / security issue in bitcoins future?](https://bitcointalk.org/index.php?topic=167646.msg1745634#msg1745634)
 
-If you think that the block size should stay at 1 megabyte forever, then you're saying the network will never support more than 7 transactions per second, and each transaction will need to be for a fairly large number of bitcoins (otherwise transaction fees will eat up the value of the transaction).
+## For small payments
 
-If transactions are all pretty big, why the heck do we have 8 decimal places for the transaction amount?
+>If you think that the block size should stay at 1 megabyte forever, then you're saying the network will never support more than 7 transactions per second, and each transaction will need to be for a fairly large number of bitcoins (otherwise transaction fees will eat up the value of the transaction).
+>
+>If transactions are all pretty big, why the heck do we have 8 decimal places for the transaction amount?
+>
+>Don't get me wrong, I still think the bitcoin network is the wrong solution for sub-US-penny payments. But I see no reason why it can't continue to work well for small-amount (between a US $1 and $0.01) payments.
 
-Don't get me wrong, I still think the bitcoin network is the wrong solution for sub-US-penny payments. But I see no reason why it can't continue to work well for small-amount (between a US $1 and $0.01) payments.https://bitcointalk.org/index.php?topic=144895.msg1539692#msg1539692
+Source: [Re: How a floating blocksize limit inevitably leads towards centralization](https://bitcointalk.org/index.php?topic=144895.msg1539692#msg1539692)
+
+## High fees are centralization
+
+>I start from "more transactions == more success"
+>
+>I strongly feel that we shouldn't aim for Bitcoin topping out as a "high power money" system that can process only 7 transactions per second.
+>
+>I agree with Stephen Pair-- THAT would be a highly centralized system.
+>
+>Oh, sure, mining might be decentralized.  But who cares if you either have to be a gazillionaire to participate directly on the network as an ordinary transaction-creating customer, or have to have your transactions processed via some centralized, trusted, off-the-chain transaction processing service?
+
+Source: [Re: How a floating blocksize limit inevitably leads towards centralization](https://bitcointalk.org/index.php?topic=144895.msg1537055#msg1537055)
+
+## Let miners decide the block size
+
+>I'm on the "let there be no fixed maximum block size" side of the debate right now.
+>
+>I think we should let miners decide on the maximum size of blocks that they'll build on.
+
+Source: [Re: The MAX_BLOCK_SIZE fork](https://bitcointalk.org/index.php?topic=140233.msg1496306#msg1496306)
+
+## Anonymous vs pseudonymous
+
+>Once upon a time bitcoin.org called Bitcoin "anonymous" but that was a mistake, and for at least two years "we" (core developers) have tried to be careful to say that, at best, Bitcoin is pseudanonymous.
+>
+>I tell reporters that Bitcoin is more private than using any other online payment method, but less private than cash (unless you know a lot about how it works under the covers and jump through several hoops to keep your identity secret).
+
+Source: [Re: What happened to Bitcoins being anonymous?](https://bitcointalk.org/index.php?topic=87045.msg956238#msg956238)
+
+## Keeping miners in check
+
+>The Bitcoin ecosystem consists of more that just miners, and even if miners decided to try to form a cabal to increase inflation merchants, users, and exchanges could all veto their block-chain by simply refusing to recognize it.
+
+Source: [Re: TX replacement and nLockTime](https://bitcointalk.org/index.php?topic=67739.msg848210#msg848210)
+
+---
+
+### Sources
+
+I've relied mostly on [Bitcoin Talk](https://bitcointalk.org/index.php?action=profile;u=224) for most of these quotes, as well as some old archives from the [Bitcoin Foundation blog,](https://web.archive.org/web/20150208033015/http://blog.bitcoinfoundation.org/author/gavin/) Reddit posts, [Gavin's own website,](http://gavinandresen.ninja/) and news articles.
 
 
-DI start from "more transactions == more success"
-
-I strongly feel that we shouldn't aim for Bitcoin topping out as a "high power money" system that can process only 7 transactions per second.
-
-I agree with Stephen Pair-- THAT would be a highly centralized system.
-
-Oh, sure, mining might be decentralized.  But who cares if you either have to be a gazillionaire to participate directly on the network as an ordinary transaction-creating customer, or have to have your transactions processed via some centralized, trusted, off-the-chain transaction processing service?https://bitcointalk.org/index.php?topic=144895.msg1537055#msg1537055
-
-For the record:
-
-I'm on the "let there be no fixed maximum block size" side of the debate right now.
-
-I think we should let miners decide on the maximum size of blocks that they'll build on.
-https://bitcointalk.org/index.php?topic=140233.msg1496306#msg1496306 
-Once upon a time bitcoin.org called Bitcoin "anonymous" but that was a mistake, and for at least two years "we" (core developers) have tried to be careful to say that, at best, Bitcoin is pseudanonymous.
-
-I tell reporters that Bitcoin is more private than using any other online payment method, but less private than cash (unless you know a lot about how it works under the covers and jump through several hoops to keep your identity secret).
-https://bitcointalk.org/index.php?topic=87045.msg956238#msg956238
-
-The Bitcoin ecosystem consists of more that just miners, and even if miners decided to try to form a cabal to increase inflation merchants, users, and exchanges could all veto their block-chain by simply refusing to recognize it.https://bitcointalk.org/index.php?topic=67739.msg848210#msg848210
-
-D
