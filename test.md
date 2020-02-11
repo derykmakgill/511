@@ -4,6 +4,10 @@ title: Gavin Andresen quotes
 author: Deryk Makgill
 ---
 
+I'm 'open-sourcing' some research I've been doing on the early scaling debates. I've spent a lot of time reading old Gavin Andresen posts and I find it fascinating to see how intelligent, well-argued and predictive Gavin was.
+
+I've listed the best quotes I've found below.
+
 ## Re: Bitcoin 20MB Fork
 
 > The problem people are worried about if the maximum block size is too high:  That big miners with high-bandwidth, high-CPU machines will drive out either small miners or I-want-to-run-a-full-node-at-home people by producing blocks too large for them to download or verify quickly
