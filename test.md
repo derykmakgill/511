@@ -22,11 +22,15 @@ Source: [Re: Bitcoin 20MB Fork](https://bitcointalk.org/index.php?topic=941331.m
 
 > Very Bad Things will happen if we get to 100% full 1MB blocks.
 
-https://bitcointalk.org/index.php?topic=941331.msg10801226#msg10801226
+Source: [Re: Bitcoin 20MB Fork](https://bitcointalk.org/index.php?topic=941331.msg10801226#msg10801226)
+
+## Re: Bitcoin 20MB Fork
 
 > I spent last week talking to some of the largest Bitcoin businesses (much bigger than Paymium/Bitcoin-Central or anything anybody in #bitcoin-assets is involved with), and they all want the maximum block size to increase.
 
-https://bitcointalk.org/index.php?topic=941331.msg10801226#msg10801226
+Source: [Re: Bitcoin 20MB Fork](https://bitcointalk.org/index.php?topic=941331.msg10801226#msg10801226)
+
+## Re: Slowing down block propagation
 
 > Why do you want miners to have an incentive to make smaller blocks?
 >
@@ -34,12 +38,13 @@ https://bitcointalk.org/index.php?topic=941331.msg10801226#msg10801226
 >
 >Miner profit in fiat currency = number of transactions * average transaction fee * btc-to-fiat exchange rate
 >
->Experience (and common sense) says that more usage of Bitcoin means a higher btc-to-fiat exchange rate, so if you want to >maximize miner's fee revenue then increasing the number of transactions is the obvious way to do it.
+>Experience (and common sense) says that more usage of Bitcoin means a higher btc-to-fiat exchange rate, so if you want to maximize miner's fee revenue then increasing the number of transactions is the obvious way to do it.
 >
->If you think that putting an artificial cap on the number of transactions will increase overall miner profit, then I urge >you to find a Real Economist and talk to them about the wisdom of trying to use production quotas to keep prices
+>If you think that putting an artificial cap on the number of transactions will increase overall miner profit, then I urge
+you to find a Real Economist and talk to them about the wisdom of trying to use production quotas to keep prices
 artificially high.
 
-https://bitcointalk.org/index.php?topic=975447.msg10673166#msg10673166
+Source: [Re: Slowing down block propagation](https://bitcointalk.org/index.php?topic=975447.msg10673166#msg10673166)
 
 
 >There is no tragedy-of-the-commons race to zero transaction fees, because miners do not have infinite bandwidth, memory or >CPU to accept and validate transactions.
