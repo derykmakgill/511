@@ -12,3 +12,5 @@ We offer *very limited* consulting services in the Bitcoin industry in several b
 - Writing, copywriting, publishing, and ghostwriting
 
 We currently are not taking new projects but if you want to work with us, please get in [touch](/contact) about availability.
+
+---
