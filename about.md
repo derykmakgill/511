@@ -13,18 +13,17 @@ If you would like to write for us, or if you would like to see an article writte
 
 You can also support the writing and research [here.](/support)
 
----
-
 ## Contributors
 
 Contributors don't necessarily agree with me (Deryk Makgill) or all the contents of this site.
 
+### [Deryk Makgill](https://derykmakgill.com) | Breaking Satoshi
+
+Deryk Makgill is the creator, main writer, and editor of Breaking Satoshi. 
+
 ### [Isaac Morehouse](https://isaacmorehouse.com) | Crash.co Founder and CEO
 
 Isaac Morehouse is the founder and CEO of Crash, the career launch platform. He previously founded and currently serves as an advisor to Praxis, a startup apprenticeship program. 
-
-
----
 
 ## Press
 
