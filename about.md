@@ -13,9 +13,7 @@ If you would like to write for us, or if you would like to see an article writte
 
 You can also support the writing and research [here.](/support)
 
-## Contributors
-
-Contributors don't necessarily agree with me (Deryk Makgill) or all the contents of this site.
+## Contributors & guests
 
 ### [Deryk Makgill](https://derykmakgill.com) | Breaking Satoshi
 
