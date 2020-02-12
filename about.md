@@ -15,7 +15,7 @@ You can also support the writing and research [here.](/support)
 
 ---
 
-## Occasional guests
+## Contributors
 
 Contributors don't necessarily agree with me (Deryk Makgill) or all the contents of this site.
 
