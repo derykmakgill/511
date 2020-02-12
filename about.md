@@ -28,7 +28,7 @@ Isaac Morehouse is the founder and CEO of Crash, the career launch platform. He 
 
 ## Press
 
-- [Bitcoin Cash Rockets 15% Despite Big Tax Drama,](https://www.ccn.com/cryptos-big-tax-drama-cant-stop-bitcoin-cash-surge/) CCN
+[Bitcoin Cash Rockets 15% Despite Big Tax Drama,](https://www.ccn.com/cryptos-big-tax-drama-cant-stop-bitcoin-cash-surge/) CCN
 
 ## Advertise
 
