@@ -19,7 +19,10 @@ You can also support the writing and research [here.](/support)
 
 Contributors don't necessarily agree with me (Deryk Makgill) or all the contents of this site.
 
-- Isaac Morehouse
+### [Isaac Morehouse](https://isaacmorehouse.com) | Crash.co Founder and CEO
+
+Isaac Morehouse is the founder and CEO of Crash, the career launch platform. He previously founded and currently serves as an advisor to Praxis, a startup apprenticeship program. 
+
 
 ---
 
