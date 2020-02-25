@@ -38,5 +38,5 @@ If we use these guidelines, we can see there are some clear qualities that are r
 - It must have a stable, largely unchanging protocol as to mitigate risks of split or protocol changes that invalidate past decisions or business models on the chain.
 - It must maintain its value or grow in value over the long term, regardless of short term volatility.
 
-Don’t listen to anyone who says it’s just the third. They don’t know what they’re saying.
+Don’t listen to anyone who says it’s just the price or that usefulness doesn't matter. They don’t know what they’re saying.
 
