@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The truth about 'store of value' and Bitcoin
+title: If it's not predictably useful, it's not a store of value
 author: Deryk Makgill
 ---
 
