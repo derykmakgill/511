@@ -40,3 +40,8 @@ If we use these guidelines, we can see there are some clear qualities that are r
 
 Don’t listen to anyone who says it’s just the price or that usefulness doesn't matter. They don’t know what they’re saying.
 
+### Relevant Books
+
+[*What Has Government Done to Our Money*](https://amzn.to/37yKqTO)
+
+[*The Theory of Money and Credit*](https://amzn.to/2Pnp9Fh)
