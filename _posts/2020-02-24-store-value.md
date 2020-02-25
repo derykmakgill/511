@@ -8,7 +8,7 @@ Many people in Bitcoin don’t actually know what a ‘store of value’ is or w
 
 Since this one error is at the heart of so many errors in Bitcoin, let’s answer this as clearly as possible.
 
-First, contrary to what you will see from BTC thought leaders, a store of value is not a primary function of money, it is a secondary function of money’s primary role as a medium of exchange. It is an emergent property that arises from the fact that a particular commodity is more salable, ie more useful in exchange at the market, than another.
+**First, contrary to what you will see from BTC thought leaders, a store of value is not a primary function of money,** it is a secondary function of money’s primary role as a medium of exchange. It is an emergent property that arises from the fact that a particular commodity is more salable, ie more useful in exchange at the market, than another.
 
 Here’s Murray Rothbard for example on the question of ‘store of value.
 
@@ -20,7 +20,7 @@ Here’s perhaps the greatest Austrian economist, Ludwig von Mises on the same q
 
 We can see that the great Austrian economists were quite clear on this topic. In order for something to become a useful store of value, it must be useful in exchange. For more on their exact reasoning, I refer you to Rothbard’s [*What Has Government Done to Our Money*](https://amzn.to/37yKqTO) and [*The Theory of Money and Credit*](https://amzn.to/2Pnp9Fh) by Mises.
 
-Next, it is incorrect to speak of ‘store of value’ purely in terms of price. No doubt price stability is an important part of storing value, but it is not the only part, and this confusion is what has led to all sorts of ridiculous logic justifying protocol changes and high fees on the Bitcoin network. Let’s look at the actual [definition](https://www.definitions.net/definition/store+of+value) and this will become more clear.
+**Next, it is incorrect to speak of ‘store of value’ purely in terms of price.** No doubt price stability is an important part of storing value, but it is not the only part, and this confusion is what has led to all sorts of ridiculous logic justifying protocol changes and high fees on the Bitcoin network. Let’s look at the actual [definition](https://www.definitions.net/definition/store+of+value) and this will become more clear.
 
 > A store of value is the function of an asset that can be saved, retrieved and exchanged at a later time, and be predictably useful when retrieved.
 
