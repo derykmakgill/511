@@ -1,9 +1,10 @@
 ---
 layout: post
 title: The truth about 'store of value' and Bitcoin
+author: Deryk Makgill
 ---
 
-It struck me the other day that a lot of people in Bitcoin don’t actually know what a ‘store of value’ is or why it is important.
+Many people in Bitcoin don’t actually know what a ‘store of value’ is or why it is important.
 
 Since this one error is at the heart of so many errors in Bitcoin, let’s answer this as clearly as possible.
 
