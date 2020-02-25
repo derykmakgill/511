@@ -1,6 +1,6 @@
 ---
 layout: post
-title: If it's not predictably useful, it's not a store of value
+title: If Bitcoin is not predictably useful, it's not a store of value
 author: Deryk Makgill
 ---
 
